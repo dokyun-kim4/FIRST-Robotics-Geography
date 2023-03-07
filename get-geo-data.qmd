@@ -1,0 +1,24 @@
+---
+jupyter: python3
+---
+
+```{python}
+from geopy.geocoders import Nominatim
+import pandas as pd
+
+address_test = ["New Orleans", "Los Angeles", "San Francisco", "Chicago"]
+team_locations = pd.DataFrame()
+for addresses in address_test:
+    geolocator = Nominatim(user_agent="FRG")
+    location = geolocator.geocode(addresses)
+#print(location.address)
+#print((location.latitude, location.longitude))
+    name = addresses
+    lattitude = location.latitude
+    longitude = location.longitude
+    team_locations = team_locations.append({'location': name, 'latitude': lattitude, 'longitude': longitude}, ignore_index=True)
+print(team_locations)
+
+
+```
+
