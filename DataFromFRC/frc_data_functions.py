@@ -130,12 +130,25 @@ def filter_data(dataframe):
     return final_data
 
 
+def isolate_team_and_location(dataframe):
+    """
+    docstring
+    """
+    dataframe = dataframe[
+        ["teamNumber", "nameShort", "city", "stateProv", "schoolName"]
+    ]
+    return dataframe
+
+
 def extract_data_all_pages(year):
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
 
     Args:
         year: An integer representing the year
+
+    Returns:
+        filtered_df: A dataframe after filtering
     """
 
     print(f"Compiling Data for {year}")
@@ -153,7 +166,8 @@ def extract_data_all_pages(year):
 
     df = pd.DataFrame(team_info)
     filtered_df = filter_data(df)
-    filtered_df.to_csv(f"FRC{year}.csv")
+    # filtered_df.to_csv(f"FRC{year}.csv")
+    return filtered_df
 
 
 def extract_data_all_years(start, end):
