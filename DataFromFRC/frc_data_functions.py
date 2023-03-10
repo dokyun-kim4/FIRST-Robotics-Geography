@@ -132,26 +132,33 @@ def filter_data(dataframe):
 
 def isolate_team_and_location(dataframe):
     """
-    docstring
+    Takes dataframe with FRC team info, isolates name and location
+
+    Args:
+        dataframe: Pandas dataframe with FRC team info
+
+    Returns
+        name_location: Pandas dataframe with only name and location
     """
-    dataframe = dataframe[
+    name_location = dataframe[
         ["teamNumber", "nameShort", "city", "stateProv", "schoolName"]
     ]
-    return dataframe
+    return name_location
 
 
-def extract_data_all_pages(year):
+def extract_data_all_pages(year, make_csv):
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
 
     Args:
         year: An integer representing the year
+        make_csv: Boolean representing if csv file should be created
 
     Returns:
         filtered_df: A dataframe after filtering
     """
 
-    print(f"Compiling Data for {year}")
+    print(f"Getting Data for {year}")
 
     text_for_cutoff = read_text(build_url(year, 1))
     cutoff = find_cutoff(text_for_cutoff)
@@ -166,19 +173,23 @@ def extract_data_all_pages(year):
 
     df = pd.DataFrame(team_info)
     filtered_df = filter_data(df)
-    # filtered_df.to_csv(f"FRC{year}.csv")
+    if make_csv:
+        filtered_df.to_csv(f"FRC{year}.csv")
+        print(f"Saved csv data for {year}")
+
     return filtered_df
 
 
-def extract_data_all_years(start, end):
+def extract_data_all_years(start, end, make_csv):
     """
     Creates csv files of a list of teams given a range of years
 
     Args:
         start: Year to start from
         end: Year to stop at
+        make_csv: Boolean representing if csv file should be created
     """
     for year in range(start, end + 1):
-        extract_data_all_pages(year)
+        extract_data_all_pages(year, make_csv)
 
     print("ALL DONE!")
