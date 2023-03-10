@@ -1,3 +1,0 @@
-curl --location --request GET 'https://frc-api.firstinspires.org/v3.0/2023/teams?page=38' \
---header 'Authorization: Basic dkim4:dd3338ba-b90d-473d-96bc-ead9bd88e480' \
---header 'If-Modified-Since'
