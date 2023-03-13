@@ -40,7 +40,7 @@ def read_text(url):
         url,
         auth=TOKEN,
         headers=HEADER,
-        timeout=10,
+        timeout=30,
     )
     # print(f"Status: {response.status_code}")
     return response.text
