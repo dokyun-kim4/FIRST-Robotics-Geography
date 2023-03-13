@@ -2,12 +2,12 @@
 Imports a list of all FRC teams from 2023 season
 Will be pushed by Dokyun
 """
-
+import json
+from apitoken import TOKEN
 import requests as rq
 import pandas as pd
-import json
 
-TOKEN = ("dkim4", "dd3338ba-b90d-473d-96bc-ead9bd88e480")
+
 HEADER = {
     "Is-Modified-Since": "",
 }
@@ -28,13 +28,19 @@ def build_url(year, page):
 
 def read_text(url):
     """
-    DOCSTRING HERE
+    Reads text from given url
+
+    Args:
+        url: Link to data
+
+    Returns:
+        response_text: A string of text from url
     """
     response = rq.get(
         url,
         auth=TOKEN,
         headers=HEADER,
-        timeout=10,
+        timeout=30,
     )
     # print(f"Status: {response.status_code}")
     return response.text
@@ -52,9 +58,10 @@ def find_cutoff(text):
         cutoff: An integer representing the cutoff index
     """
     for i, char in enumerate(text):
+
         if char == "[":
             cutoff = i
-    return cutoff
+            return cutoff
 
 
 def find_page_number(text, cutoff):
@@ -81,13 +88,12 @@ def trim_data(text):
         text: data to trim
 
     Returns:
-        trimmed_text: data after trimming
+        trimmed_text: list of data after trimming
     """
-    for i, char in enumerate(text):
-        if char == "[":
-            cutoff = i
+    cutoff = find_cutoff(text)
 
     trimmed_data = text[cutoff : len(text) - 1]
+
     return json.loads(trimmed_data)
 
 
@@ -109,30 +115,81 @@ def extract_data_one_page(year, page):
     return data_list
 
 
-def extract_data_all_pages(year):
+def filter_data(dataframe):
+    """
+    Removes teams that are outside of the US and Demo teams
+
+    Args:
+        dataframe: A pandas dataframe containing all teams from a given year
+
+    Returns:
+        final_data: A pandas dataframe that only has non-demo US teams
+    """
+    only_usa = dataframe[dataframe.country == "USA"]
+    final_data = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
+    return final_data
+
+
+def isolate_team_and_location(dataframe):
+    """
+    Takes dataframe with FRC team info, isolates name and location
+
+    Args:
+        dataframe: Pandas dataframe with FRC team info
+
+    Returns
+        name_location: Pandas dataframe with only name and location
+    """
+    name_location = dataframe[
+        ["teamNumber", "nameShort", "city", "stateProv", "schoolName"]
+    ]
+    return name_location
+
+
+def extract_data_all_pages(year, make_csv):
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
 
     Args:
         year: An integer representing the year
+        make_csv: Boolean representing if csv file should be created
 
+    Returns:
+        filtered_df: A dataframe after filtering
     """
-    print("Compiling Data...")
+
+    print(f"Getting Data for {year}")
+
     text_for_cutoff = read_text(build_url(year, 1))
-    pages = find_page_number(text_for_cutoff, find_cutoff(text_for_cutoff))
-    print(pages)
+    cutoff = find_cutoff(text_for_cutoff)
+    pages = find_page_number(text_for_cutoff, cutoff)
+
     team_info = []
     team_info += extract_data_one_page(year, 1)
 
-    for i in range(2, int(pages / 2)):
+    for i in range(2, pages + 1):
 
         team_info += extract_data_one_page(year, i)
 
     df = pd.DataFrame(team_info)
-    df.to_csv(f"FRC{year}.csv")
+    filtered_df = filter_data(df)
+    if make_csv:
+        filtered_df.to_csv(f"FRC{year}.csv")
+        print(f"Saved csv data for {year}")
+
+    return filtered_df
 
 
-def extract_data_all_years():
-    years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
-    for year in years:
-        extract_data_all_pages(year)
+def extract_data_all_years(start, end, make_csv):
+    """
+    Creates csv files of a list of teams given a range of years
+
+    Args:
+        start: Year to start from
+        end: Year to stop at
+        make_csv: Boolean representing if csv file should be created
+    """
+    for year in range(start, end + 1):
+        extract_data_all_pages(year, make_csv)
+
+    print("ALL DONE!")
