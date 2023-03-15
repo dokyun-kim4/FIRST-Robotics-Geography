@@ -1,6 +1,7 @@
 """
 Functions to obtain FRC team avatar & save it as .png files
 """
+import base64
 import json
 import requests as rq
 import pandas as pd
@@ -30,7 +31,22 @@ def get_avatar_one_team(year, team):
         timeout=10,
     )
     data = json.loads(response.text)
-    return data["teams"]["encodedAvatar"]
+    return data["teams"][0]["encodedAvatar"]
 
 
-print(get_avatar_one_team(2023, 2637))
+def decode_png(team, code):
+    """
+    Decodes base64 png code and saves a png file
+
+    Args:
+      team: An integer representing team name
+      code: A string representing the encoded png
+    """
+
+    with open(f"{team}.png", "wb") as pic:
+        code = bytes(code, "utf-8")
+        pic.write(base64.decodebytes(code))
+
+
+print(get_avatar_one_team(2018, 4087))
+decode_png(4087, get_avatar_one_team(2018, 4087))

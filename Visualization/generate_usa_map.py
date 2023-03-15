@@ -27,7 +27,7 @@ def usa_map(team_locations):
     )
 
     for index, row in team_locations.iterrows():
-        icon = folium.features.CustomIcon("FIRST-Icon.png", icon_size=[111, 70])
+        icon = folium.features.CustomIcon("4087.png", icon_size=[20, 20])
         folium.Marker(
             [row["latitude"], row["longitude"]], popup=row["location"], icon=icon
         ).add_to(map_usa)
