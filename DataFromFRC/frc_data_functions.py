@@ -13,12 +13,13 @@ HEADER = {
 }
 
 
-def build_url(year, page):
+def build_url(year: int, page: int):
     """
     Returns a url that directs to a dataset of a given year
 
     Args:
         year: An integer representing the year
+        page: An integer representing the page number of the dataset
 
     Returns:
         A URL of the dataset of given year
@@ -26,12 +27,12 @@ def build_url(year, page):
     return f"https://frc-api.firstinspires.org/v3.0/{str(year)}/teams?page={page}"
 
 
-def read_text(url):
+def read_text(url: str):
     """
     Reads text from given url
 
     Args:
-        url: Link to data
+        url: A string representing the URL to data
 
     Returns:
         response_text: A string of text from url
@@ -46,13 +47,13 @@ def read_text(url):
     return response.text
 
 
-def find_cutoff(text):
+def find_cutoff(text: str):
     """
     Finds the index to split the text into one dictionary and one list of
     dictionaries
 
     Args:
-        text: the data from FIRST API
+        text: A string representing the data from FIRST API
 
     Returns:
         cutoff: An integer representing the cutoff index
@@ -64,12 +65,12 @@ def find_cutoff(text):
             return cutoff
 
 
-def find_page_number(text, cutoff):
+def find_page_number(text: str, cutoff: int):
     """
     Find how many pages are in a requested FIRST API page
 
     Args:
-        text: The data from FIRST API
+        text: A string representing the data from FIRST API
         cutoff: An integer representing the cutoff index
 
     Returns:
@@ -80,7 +81,7 @@ def find_page_number(text, cutoff):
     return total_dict["pageTotal"]
 
 
-def trim_data(text):
+def trim_data(text: str):
     """
     Trims unnecessary information from given data
 
@@ -97,7 +98,7 @@ def trim_data(text):
     return json.loads(trimmed_data)
 
 
-def extract_data_one_page(year, page):
+def extract_data_one_page(year: int, page: int):
     """
     Saves data from a specific page from FIRST API of given year to a list
 
@@ -115,7 +116,7 @@ def extract_data_one_page(year, page):
     return data_list
 
 
-def filter_data(dataframe):
+def filter_data(dataframe: pd.DataFrame):
     """
     Removes teams that are outside of the US and Demo teams
 
@@ -130,7 +131,7 @@ def filter_data(dataframe):
     return final_data
 
 
-def isolate_team_and_location(dataframe):
+def isolate_team_and_location(dataframe: pd.DataFrame):
     """
     Takes dataframe with FRC team info, isolates name and location
 
@@ -146,7 +147,7 @@ def isolate_team_and_location(dataframe):
     return name_location
 
 
-def extract_data_all_pages(year, make_csv):
+def extract_data_all_pages(year: int, make_csv: bool):
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
 
@@ -180,13 +181,13 @@ def extract_data_all_pages(year, make_csv):
     return filtered_df
 
 
-def extract_data_all_years(start, end, make_csv):
+def extract_data_all_years(start: int, end: int, make_csv: bool):
     """
     Creates csv files of a list of teams given a range of years
 
     Args:
-        start: Year to start from
-        end: Year to stop at
+        start: Integer representing the year to start from
+        end: Integer representing the year to stop at
         make_csv: Boolean representing if csv file should be created
     """
     for year in range(start, end + 1):
