@@ -116,7 +116,7 @@ def extract_data_one_page(year: int, page: int):
     return data_list
 
 
-def filter_data(dataframe: pd.DataFrame):
+def filter_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
     Removes teams that are outside of the US and Demo teams
 
@@ -126,12 +126,13 @@ def filter_data(dataframe: pd.DataFrame):
     Returns:
         final_data: A pandas dataframe that only has non-demo US teams
     """
+
     only_usa = dataframe[dataframe.country == "USA"]
     final_data = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
     return final_data
 
 
-def isolate_team_and_location(dataframe: pd.DataFrame):
+def isolate_team_and_location(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
     Takes dataframe with FRC team info, isolates name and location
 
@@ -147,7 +148,7 @@ def isolate_team_and_location(dataframe: pd.DataFrame):
     return name_location
 
 
-def extract_data_all_pages(year: int, make_csv: bool):
+def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
 
