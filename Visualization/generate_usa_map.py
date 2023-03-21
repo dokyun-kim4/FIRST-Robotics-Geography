@@ -1,4 +1,4 @@
-def usa_map(team_locations):
+def usa_map(team_locations: list, year: int):
     """
     Generate a map of the team locations.
 
@@ -27,7 +27,7 @@ def usa_map(team_locations):
     )
 
     for index, row in team_locations.iterrows():
-        icon = folium.features.CustomIcon("4087.png", icon_size=[20, 20])
+        icon = folium.features.CustomIcon(f"{row}.png", icon_size=[20, 20])
         folium.Marker(
             [row["latitude"], row["longitude"]], popup=row["location"], icon=icon
         ).add_to(map_usa)

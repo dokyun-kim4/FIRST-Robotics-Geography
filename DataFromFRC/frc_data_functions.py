@@ -128,8 +128,10 @@ def filter_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
 
     only_usa = dataframe[dataframe.country == "USA"]
-    final_data = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
-    return final_data
+    filter1 = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
+    filter2 = filter1[filter1.nameFull != "Off-Season Spare Team"]
+
+    return filter2
 
 
 def isolate_team_and_location(dataframe: pd.DataFrame) -> pd.DataFrame:
