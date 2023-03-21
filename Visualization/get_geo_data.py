@@ -3,7 +3,7 @@ from geopy.geocoders import Nominatim
 import pandas as pd
 
 
-def geo_data(year: int):
+def geo_data(year: int) -> pd.DataFrame:
 
     """
     Take a list of locations and return a
@@ -25,53 +25,49 @@ def geo_data(year: int):
         containing the name, latitude, and longitude.
 
     """
+    print(f"Compiling latitude and longitude of teams from {year}")
 
     team_locations = pd.DataFrame()
-    geolocator = Nominatim(user_agent="FRG")
+    geolocator = Nominatim(user_agent="dk")
 
     df = pd.read_csv(f"FRC{year}.csv")
     location_df = df[["city", "stateProv", "schoolName", "teamNumber"]]
-    location_school = []
-    location_no_school = []
+
+    location_list = []
+
     for _, entry in location_df.iterrows():
-        location_string = (
+        original = (
             str(entry["schoolName"]).replace("High School", "")
             + ", "
             + str(entry["city"])
             + ", "
             + str(entry["stateProv"])
         )
-        location_school.append(location_string)
-    for _, entry in location_df.iterrows():
-        location_string = str(entry["city"]) + ", " + str(entry["stateProv"])
-        location_no_school.append(location_string)
-    location_list = [location_school, location_no_school]
-    for address in location_list[0]:
-        try:
-            location = geolocator.geocode(address, timeout=10)
-            name = address
-            latitude = location.latitude
-            longitude = location.longitude
-            current_location = pd.DataFrame(
-                {"location": name, "latitude": latitude, "longitude": longitude},
-                index=[location_list.index(address)],
-            )
-            team_locations = pd.concat([team_locations, current_location])
-        except AttributeError:
-            address_index = location_list[0].index(address)
-            address = location_list[1][address_index]
-            location = geolocator.geocode(address, timeout=10)
-            name = address
-            latitude = location.latitude
-            longitude = location.longitude
-            current_location = pd.DataFrame(
-                {"location": name, "latitude": latitude, "longitude": longitude},
-                index=[location_list.index(address)],
-            )
-            team_locations = pd.concat([team_locations, current_location])
-            continue
 
+        city_state = str(entry["city"]) + ", " + str(entry["stateProv"])
+        state = str(entry["stateProv"])
+        location_list.append([original, city_state, state])
+
+    for i, address in enumerate(location_list[600:700]):
+        print(i)
+
+        location = None
+        address_idx = 0
+        while location is None and address_idx < 3:
+            location = geolocator.geocode(address[address_idx], timeout=10)
+            address_idx += 1
+
+        if location is not None:
+
+            name = address[address_idx - 1]
+
+            latitude = location.latitude
+            longitude = location.longitude
+            current_location = pd.DataFrame(
+                {"location": name, "latitude": latitude, "longitude": longitude},
+                index=[location_list.index(address)],
+            )
+            team_locations = pd.concat([team_locations, current_location])
+
+    print("Done")
     return team_locations
-
-
-print(geo_data(2018))
