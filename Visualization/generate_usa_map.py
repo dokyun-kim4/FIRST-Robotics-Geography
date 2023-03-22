@@ -1,4 +1,9 @@
-def usa_map(team_locations: list, year: int):
+import pandas as pd
+import folium
+import folium.plugins as fp
+
+
+def usa_map(year):
     """
     Generate a map of the team locations.
 
@@ -9,8 +14,7 @@ def usa_map(team_locations: list, year: int):
         map_usa (folium.Map): A folium map of US based teams.
 
     """
-    import folium
-
+    team_locations = pd.read_csv(f"{year}Location.csv")
     max_bounds = [[3, -180], [73, -50]]
     map_usa = folium.Map(
         location=[37.0902, -95.7129],
@@ -26,9 +30,19 @@ def usa_map(team_locations: list, year: int):
         max_lon=-30,
     )
 
-    for index, row in team_locations.iterrows():
-        icon = folium.features.CustomIcon(f"{row}.png", icon_size=[20, 20])
+    for _, row in team_locations.iterrows():
+        icon = folium.features.CustomIcon(
+            f"../Avatars/{year}/{row['teamNumber']}.png", icon_size=[20, 20]
+        )
+        marker_text = f"#{row['teamNumber']}"
         folium.Marker(
-            [row["latitude"], row["longitude"]], popup=row["location"], icon=icon
+            [row["latitude"], row["longitude"]], popup=marker_text, icon=icon
         ).add_to(map_usa)
+    # for _, row in team_locations.iterrows():
+    #     # icon = folium.features.CustomIcon(f"{row}.png", icon_size=[20, 20])
+    #     marker_text = f"#{row['teamNumber']}"
+    #     fp.MarkerCluster(
+    #         [row["latitude"], row["longitude"]],
+    #         popup=marker_text,  # icon=icon#
+    #     ).add_to(map_usa)
     return map_usa
