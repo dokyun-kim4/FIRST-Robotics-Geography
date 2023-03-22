@@ -1,6 +1,7 @@
 import folium
 from geopy.geocoders import Nominatim
 import pandas as pd
+import time
 
 
 def geo_data(year: int) -> pd.DataFrame:
@@ -28,7 +29,7 @@ def geo_data(year: int) -> pd.DataFrame:
     print(f"Compiling latitude and longitude of teams from {year}")
 
     team_locations = pd.DataFrame()
-    geolocator = Nominatim(user_agent="dk")
+    geolocator = Nominatim(user_agent="FRCdata")
 
     df = pd.read_csv(f"FRC{year}.csv")
     location_df = df[["city", "stateProv", "schoolName", "teamNumber"]]
@@ -48,13 +49,14 @@ def geo_data(year: int) -> pd.DataFrame:
         state = str(entry["stateProv"])
         location_list.append([original, city_state, state])
 
-    for i, address in enumerate(location_list[600:700]):
+    for i, address in enumerate(location_list[3000:]):
         print(i)
 
         location = None
         address_idx = 0
         while location is None and address_idx < 3:
-            location = geolocator.geocode(address[address_idx], timeout=10)
+
+            location = geolocator.geocode(address[address_idx], timeout=999)
             address_idx += 1
 
         if location is not None:
@@ -64,10 +66,20 @@ def geo_data(year: int) -> pd.DataFrame:
             latitude = location.latitude
             longitude = location.longitude
             current_location = pd.DataFrame(
-                {"location": name, "latitude": latitude, "longitude": longitude},
+                {
+                    "teamNumber": location_df.iloc[i + 3000]["teamNumber"],
+                    "location": name,
+                    "latitude": latitude,
+                    "longitude": longitude,
+                },
                 index=[location_list.index(address)],
             )
             team_locations = pd.concat([team_locations, current_location])
 
     print("Done")
     return team_locations
+
+
+data = geo_data(2018)
+print("converting csv")
+data.to_csv("2018Location.csv")

@@ -1,0 +1,501 @@
+,teamNumber,location,latitude,longitude
+500,1572,"San Diego, California",32.7174202,-117.1627728
+501,1583,"Watkins, Colorado",39.7443406,-104.6031986
+502,1584,"Nederland, Colorado",39.9613759,-105.510831
+503,1585,"Red Jacket , Shortsville, New York",42.95737655,-77.23137565374518
+504,1590,"Lorain , Lorain, Ohio",41.4673238,-82.1781904
+505,1591,"Rochester, New York",43.157285,-77.615214
+506,1592,"Cocoa, Florida",28.3553873,-80.7318827
+507,1595,"St George's School, Spokane, Washington",47.76526295,-117.46988704214598
+508,1596,"Sault Sainte Marie, Michigan",46.5000696,-84.33902197021817
+509,1598,"George Washington High, Danville, Virginia",36.5854547,-79.41360903350531
+510,1599,"Atlee High, Mechanicsville, Virginia",37.664631400000005,-77.41037156722481
+511,1600,"Brooklyn, New York",40.6526006,-73.9497211
+512,1601,"Long Island City, New York",40.7415095,-73.9569751
+513,1610,"Franklin High, Franklin, Virginia",37.00388125,-79.87891400174091
+514,1619,"Longmont, Colorado",40.1672117,-105.1019287
+515,1622,"Poway High, Poway, California",32.998856450000005,-117.02589803259173
+516,1625,"Winnebago  & Pecatonica , Winnebago, Illinois",42.31438905,-89.37246654092738
+517,1626,"Metuchen, New Jersey",40.5431598,-74.3632049
+518,1629,"Accident, Maryland",39.6289521,-79.3208439
+519,1633,"Tempe , Tempe, Arizona",33.3343092,-111.92724935996561
+520,1635,"Newtown , Elmhurst, New York",40.7372246,-73.8772168
+521,1640,"Downingtown, Pennsylvania",40.0064958,-75.7032742
+522,1642,"Ft. Worth, Texas",32.753177,-97.3327459
+523,1646,"Jefferson , Lafayette, Indiana",40.3985889,-86.8751701
+524,1647,"Vincentown, New Jersey",39.9340023,-74.7484938
+525,1648,"Grady , Atlanta, Georgia",33.7517323,-84.3820052053816
+526,1649,"Windermere, Florida",28.4944695,-81.5345547
+527,1658,"South Technical, St. Louis, Missouri",38.5427343,-90.41495113514318
+528,1660,"Frederick Douglass Academy, New York, New York",40.8238576,-73.9359461
+529,1661,"The Buckley School, Sherman Oaks, California",34.13959255,-118.44384496703368
+530,1662,"Lodi, California",38.1301968,-121.2724473
+531,1665,"Hudson, New York",42.2528649,-73.790959
+532,1671,"Buchanan High, Clovis, California",36.85531615,-119.71366381491444
+533,1672,"Mahwah , Mahwah, New Jersey",41.0942222,-74.1466219
+534,1675,"Milwaukee, Wisconsin",43.0349931,-87.922497
+535,1676,"Montvale, New Jersey",41.0467635,-74.0229173
+536,1677,"Kalamazoo, Michigan",42.291707,-85.5872286
+537,1678,"Davis Senior High, Davis, California",38.5583782,-121.7502164179157
+538,1683,"Northview , Johns Creek, Georgia",34.03911975,-84.17762775214132
+539,1684,"Lapeer Community , Lapeer, Michigan",43.0688078,-83.331969
+540,1699,"Bacon Academy, Colchester, Connecticut",41.578275649999995,-72.3021320475728
+541,1700,"Castilleja School, Palo Alto, California",37.438614799999996,-122.15171369624989
+542,1701,"Detroit, Michigan",42.3315509,-83.0466403
+543,1706,"Wentzville, Missouri",38.8244136,-90.8683119
+544,1708,"McKeesport, Pennsylvania",40.3478472,-79.864215
+545,1710,"Olathe Northwest , Olathe, Kansas",38.92892235,-94.82983268032251
+546,1711,"Central , Traverse City, Michigan",44.7578699,-85.6292091147186
+547,1712,"Lower Merion Hs, Ardmore, Pennsylvania",40.007800599999996,-75.27927348540842
+548,1714,"Milwaukee, Wisconsin",43.0349931,-87.922497
+549,1716,"De Pere High, De Pere, Wisconsin",44.4411022,-88.04442836004102
+550,1718,"Armada, Michigan",42.8441964,-82.8843722
+551,1719,"Brooklandville, Maryland",39.4114301,-76.66737718644993
+552,1720,"Muncie, Indiana",40.1936892,-85.3865271
+553,1721,"Concord , Concord, New Hampshire",43.211833,-71.53434338352838
+554,1723,"Independence, Missouri",39.0924792,-94.4137923
+555,1726,"Buena , Sierra Vista, Arizona",31.5693404,-110.236397
+556,1727,"Lutherville Timonium, Maryland",39.423629950000006,-76.62091509974786
+557,1729,"New Ipswich, New Hampshire",42.7481421,-71.8542429
+558,1730,"Lees Summit, Missouri",38.8856158,-94.2117959
+559,1731,"Marshall, Virginia",39.854861,-80.6616946
+560,1732,"Milwaukee, Wisconsin",43.0349931,-87.922497
+561,1735,"Worcester, Massachusetts",42.2625621,-71.8018877
+562,1736,"Peoria, Illinois",40.6938609,-89.5891008
+563,1737,"Excelsior Springs High, Excelsior Springs, Missouri",39.34924385,-94.24668323374101
+564,1739,"Chicago, Illinois",41.8755616,-87.6244212
+565,1740,"Ledyard , Ledyard, Connecticut",41.4398205,-72.0142421
+566,1741,"Center Grove , Greenwood, Indiana",39.60993015,-86.21938753674479
+567,1743,"Pittsburgh, Pennsylvania",40.4416941,-79.9900861
+568,1744,"Seacrest Country Day School, Naples, Florida",26.13681775,-81.72535552723357
+569,1745,"Richardson, Texas",32.9481789,-96.7297206
+570,1746,"Forsyth Central , Cumming, Georgia",34.2156529,-84.1393591
+571,1747,"West Lafayette, Indiana",40.4258686,-86.9080655
+572,1750,"Stillwater, Oklahoma",36.1156306,-97.0585717
+573,1751,"Comsewogue , Port Jefferson Station, New York",40.933024,-73.081644
+574,1756,"Limestone Community , Peoria, Illinois",40.6410338,-89.68282866633655
+575,1757,"Westwood High, Westwood, Massachusetts",42.217018350000004,-71.21610258361272
+576,1758,"Florence Career Center, Florence, South Carolina",34.1321015,-79.7708973
+577,1759,"El Segundo High, El Segundo, California",33.9247393,-118.41415256243585
+578,1761,"Lynn, Massachusetts",42.466763,-70.9494939
+579,1763,"Kansas City, Missouri",39.100105,-94.5781416
+580,1764,"Liberty High & Liberty North , Liberty, Missouri",39.2841712,-94.43354926743643
+581,1768,"Nashoba Regional, Bolton, Massachusetts",42.45100685,-71.63353746935698
+582,1769,"Kansas City, Kansas",39.1134562,-94.626497
+583,1771,"North Gwinnett , Suwanee, Georgia",34.085417899999996,-84.07018637617647
+584,1775,"Kansas City, Missouri",39.100105,-94.5781416
+585,1777,"Shawnee Mission West High, Overland Park, Kansas",38.9767238,-94.68875709607423
+586,1778,"Mountlake Terrace , Mountlake Terrace, Washington",47.801633100000004,-122.28870618160016
+587,1781,"Chicago, Illinois",41.8755616,-87.6244212
+588,1785,"Blue Springs, Missouri",39.017316,-94.282265
+589,1786,"Dublin School, Dublin, New Hampshire",42.9064629,-72.05579615645829
+590,1787,"Orange , Cleveland, Ohio",41.4922839,-81.6778652
+591,1791,"Clayton High, Clayton, New Jersey",39.66361825,-75.08320923750907
+592,1792,"Oak Creek High, Oak Creek, Wisconsin",42.887531249999995,-87.90934583498492
+593,1793,"Norview High, Norfolk, Virginia",36.90028935,-76.24087024004761
+594,1795,"Atlanta, Georgia",33.7489924,-84.3902644
+595,1796,"Long Island City, New York",40.7415095,-73.9569751
+596,1799,"Littleton, Colorado",39.613321,-105.016649
+597,1802,"Piper High, Kansas City, Kansas",39.16618245,-94.82788159717597
+598,1803,"Paul D Schreiber Senior , Port Washington, New York",40.8295121,-73.67886291840281
+599,1806,"Smithville High, Smithville, Missouri",39.37529925,-94.57671753546242
+600,1807,"Allentown High, Allentown, New Jersey",40.1711848,-74.58958824950432
+601,1810,"Mill Valley , Shawnee, Kansas",39.0199505,-94.84060228014772
+602,1811,"East Side, Newark, New Jersey",40.72414395,-74.15882359389647
+603,1816,"Edina, Minnesota",44.8897027,-93.3501222
+604,1817,"Lubbock, Texas",33.5634402,-101.8792389
+605,1818,"Southwood , Shreveport, Louisiana",32.4084452,-93.8162714
+606,1825,"Kansas City, Missouri",39.100105,-94.5781416
+607,1827,"Kansas City, Missouri",39.100105,-94.5781416
+608,1828,"Vail, Arizona",32.0100705,-110.69752810628196
+609,1831,"Gilford , Gilford, New Hampshire",43.5995209,-71.3989608
+610,1836,"Milken Community School, Los Angeles, California",34.128442500000006,-118.47979248366927
+611,1847,"Wyandotte High, Kansas City, Kansas",39.114383149999995,-94.6563074239073
+612,1868,"Mountain View, California",37.3893889,-122.0832101
+613,1872,"Colegio San Ignacio de Loyola, San Juan, Puerto Rico",18.37824565,-66.08627284103655
+614,1876,"Hilton Head Island High, Hilton Head Island, South Carolina",32.21919335,-80.73138601183453
+615,1880,"East Harlem Tutorial Program, New York, New York",40.790034199999994,-73.94244564420805
+616,1885,"Battlefield High, Haymarket, Virginia",38.8453425,-77.6299884272373
+617,1891,"Mountain View , Meridian, Idaho",43.585620250000005,-116.36716248758742
+618,1895,"Osbourn High, Manassas, Virginia",38.7468636,-77.46768667772076
+619,1896,"Traverse City, Michigan",44.7606441,-85.6165301
+620,1899,"Bellevue, Washington",47.6144219,-122.192337
+621,1902,"Orange County 4-H, Florida, Orlando, Florida",28.5336997,-81.3971633
+622,1908,"Northampton High, Eastville, Virginia",37.36055645,-75.94056037746104
+623,1912,"Slidell, Louisiana",30.2751945,-89.7811745
+624,1915,"Mckinley Technology Hs, Washington, District of Columbia",38.9148887,-77.0045204
+625,1918,"Fremont, Michigan",43.467517,-85.942001
+626,1922,"Contoocook, New Hampshire",43.2224096,-71.7135465
+627,1923,"Plainsboro, New Jersey",40.3334409,-74.6004341
+628,1927,"Biloxi, Mississippi",30.4007626,-88.8893818
+629,1939,"Kansas City, Missouri",39.100105,-94.5781416
+630,1940,"Benton Harbor , Benton Harbor, Michigan",42.10277925,-86.45708615182465
+631,1965,"Saint Joseph Preparatory , Allston, Massachusetts",42.3524329,-71.14372634738424
+632,1967,"Notre Dame , San Jose, California",37.76554485,-122.25535479063663
+633,1972,"Central Union High, El Centro, California",32.78883605,-115.5666378560634
+634,1973,Massachusetts,42.3788774,-72.032366
+635,1977,"Loveland , Loveland, Colorado",40.3992517,-105.101593
+636,1982,"Shawnee Mission Northwest High, Shawnee, Kansas",39.00511455,-94.73426906587036
+637,1983,"Seattle, Washington",47.6038321,-122.330062
+638,1984,"Shawnee Mission South High, Overland Park, Kansas",38.9368023,-94.65489937738374
+639,1985,"Hazelwood Central High, Florissant, Missouri",38.83118285,-90.31648945671058
+640,1986,"Lees Summit, Missouri",38.8856158,-94.2117959
+641,1987,"Lees Summit, Missouri",38.8856158,-94.2117959
+642,1989,"Vernon Twp High, Vernon, New Jersey",41.24575245,-74.48927439471058
+643,1991,"4-H & University , Hartford, Connecticut",41.7984172,-72.7132362
+644,1994,"Kansas City, Kansas",39.1134562,-94.626497
+645,1997,"Bishop Miege , Roeland Park, Kansas",39.036291750000004,-94.62418006387064
+646,2001,"Ruskin , Kansas City, Missouri",38.9227847,-94.5138426
+647,2010,"Champion , Warren, Ohio",41.2913121,-80.8483168
+648,2016,"Ewing, New Jersey",40.2688105,-74.8006895
+649,2022,"Aurora, Illinois",41.7571701,-88.3147539
+650,2027,"Westbury  & Westbury , Old Westbury, New York",40.7736479,-73.5949253
+651,2028,"Phoebus High, Hampton, Virginia",37.03433015,-76.31643412301166
+652,2035,"Carmel High, Carmel, California",36.5541669,-121.90928640025004
+653,2036,"Fairview , Boulder, Colorado",40.1358188,-105.3499925
+654,2039,"Machesney Park, Illinois",42.3472406,-89.0389956
+655,2040,"Dunlap , Dunlap, Illinois",40.8548961,-89.67524875490008
+656,2046,"Maple Valley, Washington",47.3664231,-122.0437127
+657,2048,"Detroit International Academy for Young Women, Detroit, Michigan",42.3774218,-83.07870250988415
+658,2051,"Allison Park, Pennsylvania",40.5584013,-79.9581094
+659,2052,"New Brighton, Minnesota",45.0628999,-93.2060969
+660,2053,"Endicott, New York",42.098408,-76.0493684
+661,2054,"Hopkins , Hopkins, Michigan",42.6236425,-85.7603024
+662,2059,"Apex, North Carolina",35.7325352,-78.8505516
+663,2062,"Waukesha, Wisconsin",43.0116784,-88.2314813
+664,2064,Connecticut,41.6500201,-72.7342163
+665,2067,"4H, Guilford, Connecticut",41.2889866,-72.6817616
+666,2068,"Osbourn Park High, Manassas, Virginia",38.763317900000004,-77.44934514692072
+667,2070,"Ridgefield Memorial High, Ridgefield, New Jersey",40.8312114,-73.9993057
+668,2073,"Pleasant Grove High, Elk Grove, California",38.42526905,-121.34073532073421
+669,2075,"West Catholic , Grand Rapids, Michigan",42.9966614,-85.71041445174512
+670,2077,"Kettle Moraine High, Wales, Wisconsin",43.009596450000004,-88.37774137725359
+671,2078,"St Pauls School, Covington, Louisiana",30.4676926,-90.1047998
+672,2079,"Bellingham, Massachusetts",42.0869493,-71.4746436
+673,2080,"Hammond , Hammond, Louisiana",30.5069542,-90.4620786
+674,2081,"Peoria, Illinois",40.6938609,-89.5891008
+675,2083,"Conifer, Colorado",39.5233424,-105.305499
+676,2084,"Manchester Essex Regional , Manchester, Massachusetts",42.5819508,-70.76558600822622
+677,2085,"Vacaville High, Vacaville, California",38.3604792,-121.99549543953947
+678,2090,"Punahou School, Honolulu, Hawaii",21.302805399999997,-157.8289396556412
+679,2095,"Newtown Square, Pennsylvania",39.9868117,-75.4007633
+680,2102,"Encinitas, California",33.0369867,-117.2919818
+681,2106,"Goochland, Virginia",37.7204342,-77.8837984
+682,2122,"Treasure Valley Math/Science, Boise, Idaho",43.6801232,-116.27995
+683,2129,"Minneapolis, Minnesota",44.9772995,-93.2654692
+684,2130,"Bonners Ferry , Bonners Ferry, Idaho",48.694284,-116.3179374
+685,2135,"Presentation , San Jose, California",37.2830714,-121.90147526836176
+686,2136,"Chicago, Illinois",41.8755616,-87.6244212
+687,2137,"Oxford , Oxford, Michigan",42.83813575,-83.26143846814736
+688,2141,"Concord, California",37.9768525,-122.0335624
+689,2143,"Immanuel Lutheran , Eau Claire, Wisconsin",44.77482825,-91.50531834758077
+690,2144,"Sacred Heart Preparatory, Atherton, California",37.4494145,-122.19594341726686
+691,2145,"Lake Fenton , Linden, Michigan",42.8434829,-83.75217100804682
+692,2147,"West Valley , Spokane, Washington",47.61755745,-117.43493497071282
+693,2148,"Spokane, Washington",47.6571934,-117.42351
+694,2151,"Forest Park, Illinois",41.8794989,-87.8136997
+695,2152,"Volusia County, Florida",29.0533409,-81.1310761
+696,2158,"Anderson H S, Austin, Texas",30.4538792,-97.7742774
+697,2161,"Walt Whitman , Huntington Station, New York",40.8285751,-73.4114897
+698,2164,"Harrisonville High, Harrisonville, Missouri",38.6593767,-94.33518122967645
+699,2165,"Bartlesville, Oklahoma",36.7421089,-95.9528877
+700,2167,"Maryville, Missouri",40.3460468,-94.8723858
+701,2168,"Robert E Fitch , Groton, Connecticut",41.34451775,-72.03244078696639
+702,2169,"Prior Lake , Savage, Minnesota",44.720704100000006,-93.38941705250966
+703,2170,"Glastonbury , Glastonbury, Connecticut",41.6764318,-72.5410026
+704,2171,"Crown Point  & Crown Point , Crown Point, Indiana",41.38744385,-87.36063217855065
+705,2172,"St Edward , Lakewood, Ohio",41.485944849999996,-81.78487241286481
+706,2175,"Saint Paul, Minnesota",44.9497487,-93.0931028
+707,2177,"Mendota Heights, Minnesota",44.8835768,-93.1382749
+708,2180,"Hamilton East  Steinert, Hamilton, New Jersey",40.2165804,-74.66333311398182
+709,2181,"Blaine, Minnesota",45.1607987,-93.2349489
+710,2183,"Hahnville , Boutte, Louisiana",29.8877082,-90.40623248543525
+711,2186,"Westfield High, Chantilly, Virginia",38.88533339999999,-77.46438904010682
+712,2187,"Conway, South Carolina",33.8360035,-79.0478143
+713,2190,"Petal , Petal, Mississippi",31.3396418,-89.27720270107088
+714,2191,"Hamilton North  Nottingham, Hamilton, New Jersey",40.22889775,-74.71054219113431
+715,2194,"Fond du Lac, Wisconsin",43.7533414,-88.4493796
+716,2197,"New Prairie , New Carlisle, Indiana",41.68439445,-86.56346136907803
+717,2199,"Finksburg, Maryland",39.4928811,-76.8894232
+718,2202,"Brookfield, Wisconsin",43.0578479,-88.1261984
+719,2204,"California Crosspoint , Hayward, California",37.636847450000005,-122.11439915243017
+720,2207,"White Bear Lake, Minnesota",45.0838098,-93.0069304
+721,2220,"Eagan, Minnesota",44.818173,-93.1659179
+722,2221,"Fontainebleau , Mandeville, Louisiana",30.33606415,-90.02552988574075
+723,2224,"Renaissance , Detroit, Michigan",42.3289158,-83.03966286586929
+724,2225,"Brooklyn Park, Minnesota",45.1004807,-93.3443585
+725,2227,"Fridley Senior High, Fridley, Minnesota",45.0770942,-93.25406152849948
+726,2228,"Honeoye Falls, New York",42.9522855,-77.5902759
+727,2232,"Anoka Senior High, Anoka, Minnesota",45.22306985,-93.38353469464539
+679,2234,"Newtown Square, Pennsylvania",39.9868117,-75.4007633
+729,2239,"Hopkins, Minnesota",44.9271194,-93.4074945
+730,2240,"Denver School of Science and Technology, Denver, Colorado",39.74879035,-104.8902646768223
+731,2246,"Johannesburg-Lewiston , Johannesburg, Michigan",44.9827778,-84.4547222
+732,2252,"Milan, Ohio",41.2975519,-82.6054547
+733,2259,"Denver, Colorado",39.7392364,-104.984862
+734,2261,"Longmont, Colorado",40.1672117,-105.1019287
+735,2262,"Holliston High, Holliston, Massachusetts",42.20503975,-71.44223732571362
+736,2264,"Wayzata High, Plymouth, Minnesota",45.0452242,-93.51111296371397
+380,2265,"Bronx  of Science, Bronx, New York",40.8783886,-73.89095497482518
+738,2333,"Sapulpa Hs, Sapulpa, Oklahoma",35.99082595,-96.12950052272728
+739,2335,"Shawnee Mission East High, Prairie Village, Kansas",38.99134745,-94.63274030884841
+740,2337,"Grand Blanc, Michigan",42.9275277,-83.6299518
+741,2338,"Oswego  & Oswego East , Oswego, Illinois",41.698993,-88.27918144518114
+742,2339,"Antelope Valley High, Lancaster, California",34.6969542,-118.1377401
+743,2340,"Rochester, New York",43.157285,-77.615214
+744,2341,"Shawnee, Oklahoma",35.3272928,-96.9253004
+745,2342,"Nashua, New Hampshire",42.7656251,-71.4677032
+746,2344,"Saunders Trades & Technical , Yonkers, New York",40.943545549999996,-73.87031402813278
+747,2345,"Kearney High, Kearney, Missouri",39.3506299,-94.35139604016416
+748,2347,"Walter G O'Connell Copiague , Copiague, New York",40.689777899999996,-73.39714377312254
+749,2352,"Ada, Oklahoma",34.7743383,-96.6783651
+750,2353,"the Pembroke Hill School, Kansas City, Missouri",39.03513445,-94.60494773800549
+751,2354,"Red river Technology Center, Duncan, Oklahoma",34.49158145,-97.98916901501218
+752,2357,"Peculiar, Missouri",38.7145481,-94.4611204
+753,2358,"Lake Zurich , Lake Zurich, Illinois",42.197615799999994,-88.10318919273675
+754,2359,"Santa Fe Hs, Edmond, Oklahoma",35.641372149999995,-97.50933666170796
+755,2363,"Newport News, Virginia",36.9775016,-76.42977
+756,2367,"St Francis , Mountain View, California",32.704246,-117.119881
+757,2370,"Stafford Technical Center, Rutland, Vermont",43.6183302,-72.9544502
+758,2373,"Fort Cobb, Oklahoma",35.097838,-98.4356131
+759,2374,"Jesuit , Portland, Oregon",45.485320650000006,-122.76876098382478
+760,2375,"Phoenix, Arizona",33.4484367,-112.074141
+761,2377,"Chesapeake High, Pasadena, Maryland",39.110793799999996,-76.46225354220648
+762,2383,"Fort Lauderdale, Florida",26.1223084,-80.1433786
+763,2393,"Knoxville Catholic , Knoxville, Tennessee",35.9299141,-84.09205227742098
+764,2395,"4-H, Oklahoma City, Oklahoma",35.4729886,-97.5170536
+765,2398,"Sequoyah , Tahlequah, Oklahoma",35.914185,-94.96781027818093
+766,2399,"Hathaway Brown School, Shaker Heights, Ohio",41.48156625,-81.5416775277777
+767,2403,"Red Mountain , Mesa, Arizona",33.433375299999994,-111.67518867036387
+768,2404,"Altadena, California",34.1863161,-118.1352329
+769,2405,"Fruitport , Fruitport, Michigan",43.13067,-86.154682
+770,2408,"Hazelwood West High, Hazelwood, Missouri",38.78748175,-90.38440469503152
+771,2410,"Overland Park, Kansas",38.9742502,-94.6851702
+772,2411,"Alliance , Portland, Oregon",45.5589111,-122.62246372700517
+773,2412,"Bellevue, Washington",47.6144219,-122.192337
+774,2415,"the Westminster Schools, Atlanta, Georgia",33.8426124,-84.43418248670467
+775,2421,"Burke, Virginia",38.778416,-77.27496377315485
+776,2423,"Watertown High, Watertown, Massachusetts",42.36973725,-71.17816758968073
+777,2424,"Bixby Hs, Bixby, Oklahoma",35.9378766,-95.8819346
+778,2425,"Hillsborough , Tampa, Florida",28.0599999,-82.41383619025117
+779,2429,"La Canada Flintridge, California",34.1998302,-118.2005236
+780,2437,"SACRED HEARTS ACADEMY, Honolulu, Hawaii",21.2859839,-157.8066954
+781,2438,"Iolani School, Honolulu, Hawaii",21.285184700000002,-157.82396087163966
+782,2439,"Wailuku, Hawaii",20.8894684,-156.5089397899955
+783,2441,"Maryknoll School, Honolulu, Hawaii",21.301130450000002,-157.83099690761688
+784,2443,"Maui , Kahului, Hawaii",20.891013100000002,-156.4795550417764
+785,2444,"Honolulu, Hawaii",21.304547,-157.855676
+786,2445,"Kapolei , Kapolei, Hawaii",21.3486989,-158.052666
+787,2449,"Team 2449, Chandler, Arizona",33.2603486,-111.7904856
+788,2450,"Cretin Derham Hall, St. Paul, Minnesota",44.9254836,-93.15820238236361
+789,2451,"Saint Charles, Illinois",41.9139808,-88.3128183
+790,2457,"Lawson High, Lawson, Missouri",39.44303065,-94.20014935
+791,2458,"Gladstone, New Jersey",40.7202907,-74.6662746
+792,2461,"Capitol Hill Hs, Oklahoma City, Oklahoma",35.4274776,-97.5224215
+793,2465,"Lihue, Hawaii",21.9769622,-159.3687721
+794,2468,"Austin, Texas",30.2711286,-97.7436995
+795,2470,"Jefferson Senior High, Bloomington, Minnesota",44.8174942,-93.33152282765614
+796,2471,"Camas, Washington",45.5863014,-122.403277
+797,2472,"Centennial Senior, Circle Pines, Minnesota",45.15399335,-93.14885914386068
+798,2473,"Cupertino High, Cupertino, California",37.3193238,-122.00911440507679
+799,2474,"Niles, Michigan",41.8297694,-86.2541768
+800,2477,"Waipahu , Waipahu, Hawaii",21.3865888,-157.90549912605388
+801,2478,"Westwood , Mesa, Arizona",33.3742665,-111.8521981
+802,2480,"Minneapolis, Minnesota",44.9772995,-93.2654692
+803,2481,"Tremont , Tremont, Illinois",40.52860025,-89.48980714809508
+804,2484,"Woods Cross High, Woods Cross, Utah",40.86731365,-111.89553858017038
+805,2485,"Francis Parker, San Diego, California",32.771024249999996,-117.17769722902491
+806,2486,"Coconino , Flagstaff, Arizona",35.1834428,-111.65500037883243
+807,2487,"Sayville , West Sayville, New York",40.7434224,-73.10301109856519
+808,2489,"Fremont, California",37.5482697,-121.988571
+809,2491,"Saint Paul, Minnesota",44.9497487,-93.0931028
+810,2493,"La Sierra High, Riverside, California",33.90995735,-117.47785586518319
+811,2495,"Hamilton West  Watson, Hamilton, New Jersey",40.19826185,-74.72143252113591
+812,2496,"Irvine, California",33.6856969,-117.8259819
+813,2498,"The Blake School, Minneapolis, Minnesota",44.9693217,-93.29351000721198
+814,2499,"Hibbing High, Hibbing, Minnesota",47.425242100000006,-92.9324403898776
+815,2500,"Henry Senior High, Minneapolis, Minnesota",45.0343498,-93.3053070044534
+816,2501,"North St. Paul, Minnesota",45.0122571,-92.9922512
+817,2502,"Eden Prairie, Minnesota",44.8546856,-93.470786
+818,2503,"Brainerd, Minnesota",46.3580221,-94.2008288
+819,2506,"Franklin High, Franklin, Wisconsin",42.89730659999999,-87.97768346015533
+820,2508,"Stillwater Area , Stillwater, Minnesota",45.02993875,-92.84772920122353
+821,2509,"Hutchinson Senior High, Hutchinson , Minnesota",44.8839718,-94.3933414
+822,2511,"Lakeville South High, Lakeville, Minnesota",44.642684700000004,-93.27323917357604
+823,2512,"Duluth, Minnesota",46.7729322,-92.1251218
+824,2513,"Minneapolis, Minnesota",44.9772995,-93.2654692
+825,2515,"Marshall , Marshall, Minnesota",44.45744485,-95.75923679578392
+826,2518,"Simley Senior High, Inver Grove Heights, Minnesota",44.83273440000001,-93.04724194457992
+827,2521,"South Eugene , Eugene, Oregon",44.03773775,-123.085189057952
+828,2522,"Lynnwood , Lynnwood, Washington",47.8160917,-122.29641497583468
+829,2523,"St Johnsbury Academy, Saint Johnsbury, Vermont",44.41440495,-72.02044146744649
+830,2525,"Minneapolis, Minnesota",44.9772995,-93.2654692
+831,2526,"Osseo, Minnesota",45.1193908,-93.4024558
+832,2529,"Saint Paul, Minnesota",44.9497487,-93.0931028
+833,2530,"Rochester, Minnesota",44.0234387,-92.4630182
+834,2531,"Chaska , Chaska, Minnesota",44.8085679,-93.584181
+835,2532,"Forest Lake, Minnesota",45.279106,-92.9851629
+836,2534,"Boys Latin School of Maryland, Baltimore , Maryland",39.371333449999995,-76.64020653355965
+837,2537,"Atholton High, Columbia, Maryland",39.1896909,-76.88123536859692
+838,2538,"Morris, Minnesota",45.586072,-95.913941
+839,2539,"Palmyra, Pennsylvania",40.3088578,-76.5932369
+840,2543,"Chula Vista, California",32.6400541,-117.0841955
+841,2544,"Harborcreek, Pennsylvania",42.1663637,-79.9526796
+842,2545,"Minneapolis, Minnesota",44.9772995,-93.2654692
+843,2549,"Minneapolis, Minnesota",44.9772995,-93.2654692
+844,2550,"Oregon City, Oregon",45.3573429,-122.6067583
+845,2551,"Novato, California",38.1061979,-122.5681191
+846,2554,"Edison, New Jersey",40.518157,-74.4113926
+847,2555,"Wilson, Tacoma, Washington",47.3043735,-122.5134082
+848,2556,"Niceville, Florida",30.5168639,-86.482172
+849,2557,"Tacoma, Washington",47.2495798,-122.439874
+850,2559,"Harrisburg, Pennsylvania",40.2663107,-76.8861122
+851,2560,"Grandview, Missouri",38.8898478,-94.5313816
+852,2574,"St. Anthony, Minnesota",45.0283001,-93.2187368
+853,2577,"The Pingry School, Basking Ridge, New Jersey",40.6201242,-74.56772169043967
+854,2579,"Long Island City , Astoria, New York",40.76538245,-73.93303186837682
+855,2582,"Lufkin, Texas",31.3386242,-94.7288558
+856,2583,"Austin, Texas",30.2711286,-97.7436995
+857,2584,"Reseda, California",34.2006552,-118.536528
+858,2585,"Bellaire H S, Bellaire, Texas",29.7055647,-95.4743067
+859,2586,"Calumet , Calumet, Michigan",47.246592,-88.454006
+860,2587,"Houston, Texas",29.7589382,-95.3676974
+861,2590,"Robbinsville , Robbinsville, New Jersey",40.218974,-74.6276275
+862,2591,"Detroit, Michigan",42.3315509,-83.0466403
+863,2594,"Nampa, Idaho",43.5737361,-116.559631
+864,2600,"Oak Ridge, New Jersey",41.0462085,-74.4859898
+865,2601,"Flushing, New York",40.7654301,-73.8174291
+866,2603,"Highland , Medina, Ohio",41.149392,-81.869061
+867,2604,"Capac , Capac, Michigan",43.0176194,-82.93432990130049
+868,2605,"Bellingham  & Sehome , Bellingham, Washington",48.734140999999994,-122.48746401919874
+869,2606,"Rosemount, Minnesota",44.7391873,-93.12611
+870,2607,"Archbishop Wood , Warminster , Pennsylvania",40.2090211,-75.0990658
+871,2611,"Jackson Area Career Center, Jackson, Michigan",42.1653238,-84.41075464300675
+872,2612,"Waterford Mott , Waterford, Michigan",42.6571819,-83.34914549375534
+873,2613,"Van Horn, Texas",31.0429718,-104.831628
+874,2614,"Morgantown, West Virginia",39.6296809,-79.9559437
+875,2619,"Midland, Michigan",43.6155825,-84.2472117
+876,2620,"Southgate Anderson , Southgate, Michigan",42.19037525,-83.2123642672654
+877,2635,"Lake Oswego, Oregon",45.4206749,-122.670649
+878,2637,"Rolling Hills Estates, California",33.7877943,-118.3581284
+879,2638,"Great Neck South , Great Neck, New York",40.7644444,-73.7036111
+880,2640,"Reidsville, North Carolina",36.3548586,-79.6644748
+881,2641,"Central Catholic , Pittsburgh, Pennsylvania",40.4461375,-79.94591461917813
+882,2642,"Greenville, North Carolina",35.613224,-77.3724593
+883,2643,"Santa Teresa High, San Jose, California",37.23486785,-121.82809901724505
+884,2647,"North , Phoenix, Arizona",33.6597612,-112.1465424
+885,2648,"Messalonskee , Oakland, Maine",44.5736012,-69.6803056
+886,2654,"Roseau, Minnesota",48.7710371,-95.7697882
+485,2655,"Greensboro, North Carolina",36.0726355,-79.7919754
+888,2656,"Gateway Shs, Monroeville, Pennsylvania",40.43209725,-79.75330654999999
+889,2657,"Deming High, Deming, New Mexico",32.2553809,-107.76215912378844
+890,2658,"Rancho Bernardo High, San Diego, California",32.9938834,-117.06521067508116
+891,2659,"Bishop Alemany , Mission Hills, California",34.274459199999995,-118.45959335373831
+892,2662,"Tolleson, Arizona",33.4500497,-112.259309
+893,2667,"Apple Valley, Minnesota",44.7319094,-93.21772
+894,2673,"Cass Technical , Detroit, Michigan",42.338562100000004,-83.06104006681142
+895,2676,"Ecorse Community , Ecorse, Michigan",42.251625450000006,-83.14876829715975
+896,2682,"South Central High, Winterville, North Carolina",35.541805,-77.42873335491143
+897,2704,"Batavia, Illinois",41.8500284,-88.3125738
+898,2707,"Normandy High, Saint Louis, Missouri",38.68316175,-90.29642157220874
+899,2709,"Perspectives Charter , Chicago, Illinois",41.85630905,-87.62828458919964
+900,2710,"Rancho Palos Verdes, California",33.7483311,-118.3707683
+901,2713,"Melrose High, Melrose, Massachusetts",42.4640103,-71.06648228105581
+902,2721,"Lasara, Texas",26.4647894,-97.9111115
+903,2723,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+904,2725,"Chicago, Illinois",41.8755616,-87.6244212
+905,2729,"Marlton, New Jersey",39.9005585,-74.93389105589023
+906,2733,"Portland, Oregon",45.5202471,-122.674194
+907,2765,"Cleveland County 4-H, Norman, Oklahoma",35.2125262,-97.432428
+908,2767,"Kalamazoo County 4-h, Kalamazoo, Michigan",42.291707,-85.5872286
+909,2771,"Kent County, Grandville, Michigan",42.9208267,-85.7445129
+910,2773,"Memorial Hs, Edmond, Oklahoma",35.6370936,-97.46878515
+911,2783,"La Grange, Kentucky",38.4075527,-85.3788246
+912,2785,"Kent School, Kent, Connecticut",41.72734025,-73.48653330890248
+913,2789,"Manor, Texas",30.3420882,-97.555905
+914,2791,"Shaker , Latham, New York",42.7360599,-73.74883539530168
+915,2795,"Broken Arrow, Oklahoma",36.0525993,-95.7908195
+916,2797,"East Ridge , Clermont, Florida",28.5389412,-81.71946783938708
+917,2805,"Waxahachie, Texas",32.3944908,-96.8439365
+918,2811,"Skyview , Vancouver, Washington",45.7235545,-122.68480915305847
+919,2813,"Prospect High, Saratoga, California",37.291253299999994,-121.99984417752293
+920,2815,"Dreher High, Columbia, South Carolina",33.9993267,-80.99396530614129
+921,2819,"Oxon Hill High, Oxon Hill, Maryland",38.7971937,-76.99440351880449
+922,2823,"Highland Park Senior High, Saint Paul, Minnesota",44.9115002,-93.16546992352295
+923,2825,"Saint Paul, Minnesota",44.9497487,-93.0931028
+924,2826,"Oshkosh, Wisconsin",44.0206919,-88.5408574
+925,2827,"Coronado High, Coronado, California",32.6917186,-117.1817002
+926,2830,"Riverside High, Milwaukee, Wisconsin",43.0703156,-87.89036081485877
+927,2832,"Livonia, Michigan",42.36837,-83.3527097
+928,2834,"Bloomfield Hills , Bloomfield Hills, Michigan",42.59260495,-83.23672403857307
+929,2836,"Nonnewaug , Woodbury, Connecticut",41.5641367,-73.1903826
+930,2839,"Escondido Charter High, Escondido, California",33.13760755,-117.05493483603667
+931,2840,"Phoenix Country Day School, Paradise Valley, Arizona",33.5150512,-111.99752303631846
+932,2844,"Laveen, Arizona",33.3618814,-112.1533861
+933,2846,"Saint Paul, Minnesota",44.9497487,-93.0931028
+934,2847,"Fairmont High & Fairmont High, Fairmont, Minnesota",43.6362261,-94.44900720987408
+935,2848,"Dallas, Texas",32.7762719,-96.7968559
+936,2849,"Hammond High, Columbia, Maryland",39.1670556,-76.85917976559631
+937,2851,"Sterling Heights, Michigan",42.5803122,-83.0302033
+938,2853,"Mililani , Mililani, Hawaii",21.4461798,-158.01503287317823
+939,2854,"Evergreen Valley High, San Jose, California",37.322793000000004,-121.7790541122514
+940,2855,"Como Park Senior High, Saint Paul, Minnesota",44.975877800000006,-93.13126619063019
+941,2856,"Paul Laurence Dunbar , Lexington, Kentucky",38.016627,-84.57735701392923
+942,2861,"Lincoln Secondary, Lake City, Minnesota",44.44489419999999,-92.26731563589038
+943,2867,"Elkhart, Indiana",41.6012796,-85.8590603
+944,2869,"Bethpage, New York",40.749517,-73.485536
+945,2872,"Wheatley School, Old Westbury, New York",40.7623199,-73.6157411
+946,2874,"Grain Valley High, Grain Valley, Missouri",39.00925875,-94.207229252695
+947,2875,"Cold Spring Harbor , Cold Spring Harbor, New York",40.8351419,-73.4516065
+948,2876,"Burlington High, Burlington, Massachusetts",42.4980618,-71.19816436098112
+949,2877,"Newton, Massachusetts",42.3370414,-71.2092214
+950,2879,"Saint Louis Park, Minnesota",44.9475726,-93.3569023
+951,2881,"Austin, Texas",30.2711286,-97.7436995
+952,2882,"Katy, Texas",29.7857853,-95.8243956
+953,2883,"Warroad , Warroad, Minnesota",48.9034308,-95.3073895
+954,2890,"Hickory High, Chesapeake, Virginia",36.65168745,-76.21452743180102
+955,2895,"Far Rockaway, New York",40.6053825,-73.7551326
+956,2896,"Honolulu, Hawaii",21.304547,-157.855676
+957,2897,"Waco, Texas",31.549333,-97.1466695
+958,2898,"Beaverton, Oregon",45.4871723,-122.80378
+959,2900,"Washington, District of Columbia",38.8950368,-77.0365427
+960,2903,"Arlington , Arlington, Washington",38.8857686,-77.0955536
+961,2906,"Spanaway Lake , Spanaway, Washington",47.11117765,-122.44884597057603
+962,2907,"Auburn Mountainview , Auburn, Washington",47.342111149999994,-122.17087725733629
+963,2910,"Henry M. Jackson , Mill Creek, Washington",47.873550449999996,-122.209648650791
+964,2912,"Phelps Architecture Construction & Engineering Hs, Washington, District of Columbia",38.90221875,-76.97208966640781
+965,2914,"Wilson Woodrow Hs, Washington, District of Columbia",38.9495784,-77.07760864974568
+966,2915,"Riverdale , Portland, Oregon",45.454355750000005,-122.68495395124617
+967,2916,"Bayside , Palm Bay, Florida",27.9488718,-80.6665445
+968,2926,"Wapato , Wapato, Washington",46.44866465,-120.42834739952133
+969,2927,"Graham Kapowsin , Graham, Washington",47.05870165,-122.28678386415555
+970,2928,"Ballard , Seattle, Washington",47.6765073,-122.3862233
+971,2929,"Emerald Ridge  & Emerald Ridge , Puyallup, Washington",47.089844,-122.26253605995564
+972,2930,"Snohomish, Washington",48.0074736,-121.7304882
+973,2942,"Evergreen , Seattle, Washington",47.7105773,-122.33936855114464
+974,2944,"Lewis & Clark , Spokane, Washington",47.6514212,-117.41887988456331
+975,2945,"Manitou Springs , Manitou Springs, Colorado",38.8560421,-104.931312
+976,2950,"Waco, Texas",31.549333,-97.1466695
+977,2957,"Alden, Minnesota",43.6703382,-93.5761961
+978,2959,"Coloma, Michigan",42.1861494,-86.308356
+979,2960,"Birmingham, Michigan",42.5467012,-83.2113192
+980,2961,"Washington, District of Columbia",38.8950368,-77.0365427
+981,2964,"Washington, District of Columbia",38.8950368,-77.0365427
+982,2966,"Valley View Early College Campus, Pharr, Texas",26.1252607,-98.22333272930793
+983,2969,"Houston H S, San Antonio, Texas",29.4240216,-98.4024229
+984,2972,"Lafayette, Colorado",39.9935959,-105.0897058
+985,2973,"Madison, Alabama",34.7736807,-86.5675095
+986,2974,"Walton , Marietta, Georgia",33.989684,-84.43999108279013
+987,2976,"Skyline , Sammamish, Washington",47.59993505,-122.03247053758189
+988,2977,"La Crescent, Minnesota",43.8280216,-91.3040274
+989,2978,"Saint Louis, Missouri",38.6280278,-90.1910154
+990,2980,"Oak Harbor , Oak Harbor, Washington",48.2773042,-122.65377493530606
+991,2984,"La Jolla High, La Jolla, California",32.8376827,-117.2702662
+992,2986,"Astec Charter HS, Oklahoma City, Oklahoma",35.4940845,-97.5519878
+993,2987,"Farmington , Farmington, Minnesota",44.66328575,-93.16377378815858
+994,2988,"Clarke County High, Berryville, Virginia",39.162113000000005,-77.9950478374832
+995,2989,"Academy of Holy Angels, Richfield, Minnesota",44.8819982,-93.28070099877043
+996,2990,"Turner, Oregon",44.8431766,-122.9528708
+997,2992,"Mandeville , Mandeville, Louisiana",30.381431149999997,-90.10152676465134
+998,2993,"Intech Collegiate , Logan, Utah",41.7644503,-111.8213707
+999,2996,"Coronado , Colorado Springs, Colorado",38.8729722,-104.85729423648834

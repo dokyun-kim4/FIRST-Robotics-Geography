@@ -1,0 +1,501 @@
+,teamNumber,location,latitude,longitude
+1000,2998,"Thomas Jefferson High, Richmond, Virginia",37.5722085,-77.48568337129325
+1001,3000,"Jeffersontown , Louisville, Kentucky",38.190722699999995,-85.55536499537197
+1002,3003,"Canandaigua, New York",42.850682,-77.31914542488306
+1003,3004,"Bronx, New York",40.8466508,-73.8785937
+1004,3005,"Dallas, Texas",32.7762719,-96.7968559
+1005,3006,"West High, Salt Lake City, Utah",40.774306949999996,-111.90040124999999
+1006,3007,"Oakdale, Minnesota",44.985624,-92.9645794
+1007,3008,"Kalani , Honolulu, Hawaii",21.27922325,-157.77382189131
+1008,3009,"Boulder City , Boulder City, Nevada",35.83394965,-114.98189609884938
+1009,3010,"Centerburg , Centerburg, Ohio",40.304714000000004,-82.69531752533949
+1010,3013,"Vallejo High, Vallejo , California",38.11237235,-122.24499967303439
+1011,3015,"Spencerport , Spencerport, New York",43.190684250000004,-77.79870114203618
+1012,3017,"Francis Lewis , Fresh Meadows, New York",40.74189935,-73.77584739013756
+1013,3018,"Saint Peter, Minnesota",44.3238384,-93.9585295
+1014,3019,"Chaparral , Scottsdale, Arizona",33.576093,-111.93260033083672
+1015,3021,"Escondido, California",33.1216751,-117.0814849
+1016,3023,"Elk River, Minnesota",45.3038538,-93.5671825
+1017,3024,"Ashland , Ashland, Oregon",40.773957,-82.365983
+1018,3026,"Delano, Minnesota",45.0419073,-93.7891331
+1019,3028,"Hidalgo H S, Hidalgo, Texas",26.1458969,-97.9583668
+1020,3029,"Pharr, Texas",26.1947962,-98.1836216
+1021,3035,"Corpus Christi, Texas",27.7635302,-97.4033191
+1022,3036,"Deer River, Minnesota",47.3328087,-93.7928136
+1023,3037,"Longview, Texas",32.5007031,-94.74049
+1024,3038,"North Branch, Minnesota",45.5113515,-92.9802176
+1025,3039,"Destrehan , Destrehan, Louisiana",29.9517472,-90.3620513
+1026,3042,"Apple Valley, Minnesota",44.7319094,-93.21772
+1027,3043,"El Paso, Texas",31.7865623,-106.441207
+1028,3044,"Ballston Spa, New York",43.0009087,-73.8490111
+1029,3045,"Junipero Serra , San Mateo, California",37.6929225,-122.4755072
+1030,3049,"Bremerton , Bremerton, Washington",47.5612953,-122.62247
+1031,3054,"Grand Marais, Minnesota",47.750467,-90.334675
+1032,3055,"Austin, Minnesota",43.6680928,-92.9744896
+1033,3058,"Annandale, Minnesota",45.2627428,-94.1244271
+1034,3061,"Naperville North , Naperville, Illinois",41.7797572,-88.14785
+1035,3062,"St. Joseph , Natrona Heights, Pennsylvania",40.6197353,-79.7264862
+1036,3067,"Geneva, Illinois",41.8875281,-88.3053525
+1037,3070,"Shorewood , Seattle, Washington",47.51291525,-122.36183934641296
+1038,3072,"Wytheville, Virginia",36.9479966,-81.0869747
+1039,3081,"Kennedy Senior High, Bloomington, Minnesota",44.827828600000004,-93.27678275153302
+1040,3082,"Minnetonka, Minnesota",44.9405086,-93.4638936
+1041,3090,"Winona Senior High, Winona, Minnesota",44.04619165,-91.66258437618816
+1042,3091,"Atlanta, Georgia",33.7489924,-84.3902644
+1043,3096,"East English Village Preparatory Academy, Detroit, Michigan",42.40894565,-82.92896900508296
+1044,3098,"Waterford Kettering , Waterford, Michigan",42.680183549999995,-83.39372586257059
+1045,3100,"Mendota Heights, Minnesota",44.8835768,-93.1382749
+1046,3102,"Nevis, Minnesota",46.9651482,-94.8395533
+1047,3103,"Duchesne Academy of the Sacred Heart, Houston, Texas",29.77883605,-95.48595230117152
+1048,3104,"Stamford, Connecticut",41.0534302,-73.5387341
+1049,3110,"Chicago, Illinois",41.8755616,-87.6244212
+1050,3120,"Notre Dame , Sherman Oaks, California",34.158283350000005,-118.42903557482839
+1051,3122,"New Ulm, Minnesota",44.3140261,-94.4614177
+1052,3128,"Canyon Crest Academy, San Diego, California",32.957154450000004,-117.18929007567057
+1053,3130,"East Ridge , Woodbury, Minnesota",44.8861579,-92.93147034988291
+1054,3131,"Gladstone , Gladstone, Oregon",45.386345500000004,-122.59800120648106
+1055,3133,"Coronado , Scottsdale, Arizona",33.47773685,-111.91528505868101
+1056,3134,"Cass Lake-Bena Secondary, Cass Lake, Minnesota",47.35659245,-94.6143842975511
+1057,3136,"Ashland, Virginia",37.7594012,-77.4806603
+1058,3137,"Connetquot , Bohemia, New York",40.782935800000004,-73.13801068446105
+1059,3138,"Dayton, Ohio",39.7589478,-84.1916069
+1060,3139,"Oxford, Alabama",33.5853695,-85.91428175037092
+1061,3140,"Farragut , Knoxville, Tennessee",35.9972652,-83.839559
+1062,3142,"Newton High, Newton, New Jersey",41.050545850000006,-74.75998226537504
+1063,3145,"Coeur d' Alene, Idaho",47.6742994,-116.7811531
+1064,3146,"Granby Memorial , Granby, Connecticut",41.9598186,-72.7920405
+1065,3147,"Munster , Munster, Indiana",41.553853000000004,-87.50300998581892
+1066,3151,"Sewell, New Jersey",39.7665029,-75.1443435
+1067,3152,"Kiamichi Technology Center-Idabel, Idabel, Oklahoma",33.9220063,-94.77490239223755
+1068,3157,"Rochester, New York",43.157285,-77.615214
+1069,3160,"Grove, Oklahoma",36.5898616,-94.7685084
+1070,3163,"Henryetta, Oklahoma",35.4396625,-95.9865145
+1071,3164,"Jesuit , Tampa, Florida",27.986926500000003,-82.50050262467974
+1072,3166,"Sandy, Utah",40.5710454,-111.8953815
+1073,3171,"Westhampton Beach Senior , Westhampton Beach, New York",40.819496799999996,-72.64947250391191
+1074,3172,"Salina High Central, Salina, Kansas",38.825257050000005,-97.60104714638845
+1075,3173,"Rochester, New York",43.157285,-77.615214
+1076,3175,"University Liggett School, Grosse Pointe Woods, Michigan",42.4504608,-82.88504981943346
+1077,3176,"Brownsburg , Brownsburg, Indiana",39.8297659,-86.3880508
+1078,3179,"Adair Hs, Adair, Oklahoma",36.43336145000001,-95.26720860166307
+1079,3180,"Trafalgar, Indiana",39.4161604,-86.150823
+1080,3181,"Pittsford, New York",43.090959,-77.515298
+1081,3182,"West Hartford, Connecticut",41.7620447,-72.7420399
+1082,3184,"Burnsville, Minnesota",44.7670567,-93.2773887
+1083,3187,"Arcadia , Phoenix, Arizona",33.4995258,-111.95811929829402
+1084,3189,"Placerville, California",38.7296252,-120.798546
+1085,3193,"Youngstown, Ohio",41.1035786,-80.6520161
+1086,3196,"Pine Lake Preparatory, Mooresville, North Carolina",35.53581925,-80.84423555543606
+1087,3197,"Cedarburg High, Cedarburg, Wisconsin",43.2979635,-87.9967507
+1088,3200,"Aurora, Colorado",39.7405111,-104.830994
+1089,3201,"Ross , Hamilton, Ohio",39.28462775,-84.46285868035795
+1090,3202,"Harding Senior High, St. Paul, Minnesota",44.95936275,-93.03554356509636
+1091,3204,"Jamaica Estates, New York",40.71334555,-73.78251095420785
+1092,3205,"Concord Carlisle High, Concord, Massachusetts",42.4485681,-71.34753340300375
+1093,3206,"Woodbury , Minnesota",44.919896,-92.9339449
+1094,3212,"Granite Falls, Minnesota",44.8099575,-95.5455752
+1095,3215,"Grimsley High, Greensboro, North Carolina",36.0834689,-79.815032
+1096,3216,"Missoula, Montana",46.8701049,-113.995267
+1097,3218,"Bonney Lake high school, Bonney Lake, Washington",47.15905505,-122.16976612298572
+1098,3219,"Auburn Senior , Auburn, Washington",47.327653600000005,-122.21716866949524
+1099,3220,"Liberty , Spangle, Washington",47.3833804,-117.3200305839174
+1100,3223,"Silverdale, Washington",47.6594091,-122.6766317
+1101,3225,"Hunter High, West Valley City, Utah",40.6794751,-112.02758717633446
+1102,3229,"Holly Springs High, Holly Springs, North Carolina",35.627787049999995,-78.84920119252845
+1103,3230,"Salt Lake City, Utah",40.7596198,-111.886797
+1104,3234,"Lowell, Michigan",42.933601,-85.3418551
+1105,3236,"Franklin, Massachusetts",42.5896205,-72.6110645
+1106,3237,"Bethel  & Bethel , Spanaway, Washington",47.094214199999996,-122.42447679387595
+1107,3238,"Anacortes , Anacortes, Washington",48.5073747,-122.6774999
+1108,3239,"Layton, Utah",41.0751048,-111.9741925
+1109,3240,"Jay H S, San Antonio, Texas",29.551311,-98.376275
+1110,3242,"Forest , Ocala, Florida",29.1877542,-82.1331475
+1111,3243,"Salt Lake City, Utah",40.7596198,-111.886797
+1112,3244,"Saint Cloud, Minnesota",45.5616075,-94.1642004
+1072,3245,"Sandy, Utah",40.5710454,-111.8953815
+1114,3247,"Shawnee Hs, Shawnee, Oklahoma",35.3360507,-96.9397143
+1115,3250,"John F. Kennedy High, Sacramento, California",38.502839699999996,-121.53438969791151
+1116,3255,"Escondido, California",33.1216751,-117.0814849
+1117,3256,"Valley Christian , San Jose, California",37.2763185,-121.8267102
+1118,3257,"Placer County 4H, Lincoln, California",38.8706033,-121.2875005
+1119,3258,"Martinsville High, Martinsville, Virginia",36.6883809,-79.86807215341146
+1120,3260,"Pittsburgh, Pennsylvania",40.4416941,-79.9900861
+1121,3265,"Mceachern , Powder Springs, Georgia",33.8960695,-84.67998002257602
+1122,3266,"Eaton, Ohio",39.7439398,-84.6364891
+1123,3267,"Silver Bay, Minnesota",47.2942968,-91.2573708
+1124,3268,"Inglemoor Hs, Kenmore, Washington",47.7405099,-122.2221582
+1125,3274,"Harrisonburg, Virginia",38.4493315,-78.8688833
+1056,3275,"Cass Lake-Bena Secondary, Cass Lake, Minnesota",47.35659245,-94.6143842975511
+1127,3276,"New London, Minnesota",45.3010756,-94.9441773
+1128,3277,"Thief River Falls, Minnesota",48.1172301,-96.1770667
+1129,3278,"Detroit Lakes, Minnesota",46.817181,-95.845325
+1130,3282,"Dallas, Texas",32.7762719,-96.7968559
+1131,3283,"Clarksburg High, Clarksburg, Maryland",39.227041400000005,-77.26679990829882
+1132,3284,"Camdenton High, Camdenton, Missouri",38.0131608,-92.72915676312229
+1133,3288,"Big Piney , Big Piney, Wyoming",42.5390381,-110.1168512
+1134,3289,"Juan Diego Catholic , Draper, Utah",40.535189200000005,-111.88266473794161
+1135,3291,"Park Center Ib World School, Brooklyn Park, Minnesota",45.0890237,-93.34376713623212
+1136,3292,"Benson Secondary, Benson, Minnesota",45.319633499999995,-95.59827818937349
+1137,3293,"Fergus Falls, Minnesota",46.283015,-96.077558
+1138,3294,"Pine River, Minnesota",46.7180163,-94.4041625
+1139,3295,"Mentone, California",34.070013,-117.13448
+1140,3297,"Perham, Minnesota",46.5944042,-95.5725415
+1141,3298,"Pipestone, Minnesota",44.0270012,-96.2566582
+1142,3299,"Southwest Christian , Chaska, Minnesota",44.8451772,-93.59629577171712
+1143,3300,"Ortonville, Minnesota",45.304687,-96.444779
+1144,3302,"Clawson , Clawson, Michigan",42.5321455,-83.16261012875782
+1145,3303,"Fresno, California",36.7394421,-119.7848307
+1146,3309,"Anaheim, California",33.8347516,-117.911732
+1147,3310,"Heath, Texas",32.8365147,-96.474987
+1148,3313,"Alexandria Area , Alexandria, Minnesota",45.8852759,-95.377952
+1149,3314,"Clifton High, Clifton, New Jersey",40.86943345,-74.16322818548701
+1150,3319,"Huntsville, Alabama",34.729847,-86.5859011
+1151,3322,"Skyline , Ann Arbor, Michigan",42.30672485,-83.77766629769786
+1152,3323,"Campbell , Litchfield, New Hampshire",42.824959449999994,-71.44480688058813
+1153,3324,"Metro Early College , Columbus, Ohio",39.9984944,-83.0353988
+1154,3328,"North Hollywood, California",34.1649502,-118.3747521
+1155,3329,"Camden County , Kingsland, Georgia",30.81219395,-81.64821091342594
+1156,3330,"Saint Charles, Missouri",38.783855,-90.481677
+1157,3335,"Cypress Ranch H S, Cypress, Texas",29.9499291,-95.7071308
+1158,3336,"Swansboro, North Carolina",34.6896728,-77.1232174
+1159,3337,"Woodlawn , Baton Rouge, Louisiana",30.3990807,-91.0176026
+1160,3340,"Union City, New Jersey",40.7795455,-74.0237512
+1161,3341,"Westview High, San Diego, California",32.96609835,-117.15006885327539
+1162,3344,"Whitewater , Fayetteville, Georgia",33.459407,-84.49642
+1163,3345,"San Antonio, Texas",29.4246002,-98.4951405
+1164,3352,"Belvidere, Illinois",42.2579991,-88.841734
+1165,3355,"Arlington, Texas",32.7355816,-97.1071186
+1166,3357,"Grand Rapids, Michigan",42.9632405,-85.6678639
+1167,3359,"Portsmouth, Virginia",36.8320081,-76.297699
+1168,3361,"Fishersville, Virginia",38.098961,-78.98593583061749
+1169,3366,"Roscoe, Texas",32.441615,-100.539297
+1170,3367,"White Earth, Minnesota",47.0966328,-95.843299
+1171,3370,"Jack E Singley Academy, Irving, Texas",32.8682603,-96.96196409956883
+1172,3373,"Highland School, Warrenton, Virginia",38.7344473,-77.8018601
+1173,3374,"Jackson Hole , Jackson, Wyoming",43.4737432,-110.76822169740706
+1174,3381,"Valders High, Valders, Wisconsin",44.0686044,-87.8845361
+1175,3389,"Salisbury, Maryland",38.366027,-75.6009964
+1176,3393,"Puyallup , Washington",47.1849009,-122.29214
+1177,3397,"Saint Louis, Missouri",38.6280278,-90.1910154
+1178,3398,"King , Detroit, Michigan",42.3442184,-83.01460884379085
+1179,3402,"Lenoir, North Carolina",35.2590371,-77.6484879
+1180,3405,"Salem, Utah",40.0529062,-111.6736599
+1181,3407,"Arden Hills, Minnesota",45.0761409,-93.1666945
+1182,3408,"Loyola  Los Angeles, Los Angeles, California",34.0448448,-118.29551120620353
+1183,3410,"Terra Environmental Research Institute, Miami, Florida",25.69302545,-80.36992270119444
+1184,3414,"Farmington, Michigan",42.4644795,-83.3763219
+1185,3418,"Sheboygan Falls, Wisconsin",43.7291617,-87.8106439
+1186,3419,"Hunter College , New York, New York",40.7683107,-73.9644059567109
+1187,3451,"Sanford Regional Technical Center, Sanford, Maine",43.42007725,-70.74991809512082
+1188,3452,"Berrien Springs , Berrien Springs, Michigan",41.950255350000006,-86.35351346842361
+1189,3453,"Temecula Preparatory, Winchester, California",33.603245099999995,-117.0864585996986
+1190,3454,"Saint Paul, Minnesota",44.9497487,-93.0931028
+1191,3455,"Alexandria, Virginia",38.8051095,-77.0470229
+1192,3457,"Macarthur Hs, Lawton, Oklahoma",34.6147967,-98.3361617
+1193,3458,"Holland, Michigan",42.7876022,-86.1090828
+1194,3459,"Cary, North Carolina",35.7882893,-78.7812081
+1195,3461,"Bristol, Connecticut",41.6735209,-72.9464859
+1196,3464,"Simsbury , Simsbury, Connecticut",41.8708632,-72.80496085992152
+1197,3465,"Mustang Hs, Mustang, Oklahoma",35.384888149999995,-97.72811295793402
+1198,3466,"Westford, Massachusetts",42.5792583,-71.4378411
+1199,3467,"Windham, New Hampshire",42.8006441,-71.304229
+1200,3468,"West Monroe, Louisiana",32.5184775,-92.1476353
+1201,3470,"River Springs Charter, Temecula, California",33.498019150000005,-117.11478230887317
+1202,3473,"Diamond Bar High, Diamond Bar, California",33.98139785,-117.83895562763625
+1203,3476,"Irvine, California",33.6856969,-117.8259819
+1204,3481,"Brandeis Hs, San Antonio, Texas",29.5637522,-98.64618493425866
+1205,3482,"Campbell, California",37.2870626,-121.9448818
+1206,3484,"Marysville Early College  & Marysville , Marysville, Ohio",40.2473605,-83.37386785247496
+1207,3487,"Plainfield , Plainfield, Indiana",39.69111715,-86.39406038847088
+1208,3488,"Carl Sandburg , Orland Park, Illinois",41.64962075,-87.85650946842227
+1209,3489,"North Charleston, South Carolina",32.8546197,-79.9748103
+1210,3490,"Summerville, South Carolina",33.0186699,-80.1762704
+1211,3491,"Holtville High, Holtville, California",32.813864949999996,-115.38771938090188
+1212,3492,"Winfield, West Virginia",38.5331448,-81.8934676
+1213,3494,"Bloomington  South, Bloomington, Indiana",39.1534735,-86.5385155
+1214,3495,"Edison High, Fresno, California",36.718545,-119.80664340726105
+1215,3498,"Edmond, Oklahoma",35.6571367,-97.4649038
+1216,3499,"Oyster River , Durham, New Hampshire",43.1272212,-70.9292117
+1217,3501,"Fremont High, Sunnyvale, California",37.3540092,-122.0347453650267
+1218,3504,"Pittsburgh, Pennsylvania",40.4416941,-79.9900861
+1219,3506,"Charlotte, North Carolina",35.2272086,-80.8430827
+1220,3507,"Union Hs, Tulsa, Oklahoma",36.066191950000004,-95.87085894652094
+1221,3511,"New Stanton, Pennsylvania",40.2192258,-79.6097255
+1222,3512,"Orcutt Academy Charter, Orcutt, California",34.8623261,-120.4393731
+1223,3513,"Rathdrum, Idaho",47.8111504,-116.896931
+1224,3515,"Iselin, New Jersey",40.569334999999995,-74.31511249016258
+1225,3525,"John F. Kennedy , Waterbury, Connecticut",41.54577395,-73.05811199882763
+1226,3534,"Davison , Davison, Michigan",43.02868865000001,-83.51939090442721
+1227,3535,"Lapeer County, Michigan",43.0904764,-83.2333705
+1228,3536,"Hartland , Hartland, Michigan",42.656697,-83.7530022
+1229,3537,"Inland Lakes , Indian River, Michigan",45.3987377,-84.62380157979466
+1230,3538,"Avondale , Auburn Hills, Michigan",42.628566899999996,-83.23230413405915
+1231,3539,"Romeo , Romeo, Michigan",42.6402225,-82.93750622806746
+1232,3542,"Temperance, Michigan",41.764759999999995,-83.57222792957555
+1233,3545,Texas,31.2638905,-98.5456116
+1234,3546,"Grand Haven , Grand Haven, Michigan",43.0554742,-86.24779884097606
+1235,3547,"Monroe, Michigan",41.9153358,-83.5135665
+1236,3555,"Storrs Mansfield, Connecticut",41.80564555,-72.25413294148728
+1237,3556,"Lake City, Florida",30.1894252,-82.6394803
+1238,3559,"Jasper , Jasper, Indiana",38.402648,-86.94720720226456
+1239,3562,"Pocatello, Idaho",42.8620287,-112.450627
+1240,3566,"St Mark's School, Southborough, Massachusetts",42.309457,-71.5297621
+1241,3568,"Linden , Linden, Michigan",42.80870675,-83.81524363637799
+1242,3570,"Alma, Michigan",43.37892,-84.659727
+1243,3572,"Mona Shores , Muskegon, Michigan",43.1673443,-86.2948065
+1244,3573,"Rockdale County , Conyers, Georgia",33.6625309,-83.9336662
+1245,3574,"Seattle, Washington",47.6038321,-122.330062
+1246,3575,"Okanogan, Washington",48.5158513,-119.6527477
+1247,3577,"Scottsdale, Arizona",33.4942189,-111.9260184
+1248,3581,"Lagrange, Georgia",33.039291,-85.0313269
+1249,3586,"Reardan, Washington",47.671362,-117.87905115280836
+1250,3588,"Renton, Washington",47.4799078,-122.2034496
+1251,3591,"Westerville, Ohio",40.126139,-82.9295287
+1252,3593,"Victory Christian School, Tulsa, Oklahoma",36.0526226,-95.96021724611607
+1253,3596,"South Milwaukee High, South Milwaukee, Wisconsin",42.9199936,-87.86988696059004
+1254,3597,"Kittery, Maine",43.088448,-70.736847
+1255,3598,"Sacramento, California",38.5810606,-121.493895
+1256,3602,"Escanaba, Michigan",45.7455707,-87.0647434
+1257,3603,"Reed City , Reed City , Michigan",43.8757186,-85.5138541
+1258,3604,"Woodhaven , Brownstown, Michigan",42.12181675,-83.2713104314644
+1259,3606,"Catholic , Baton Rouge, Louisiana",30.4405309,-91.15540999653139
+1260,3609,"Boys and Girls Club Portland, Portland, Maine",45.48252025,-122.56732637798808
+1261,3610,"DeLaSalle , Minneapolis, Minnesota",44.98745835,-93.26261510363133
+1262,3612,"Springdale, Arkansas",36.1867442,-94.1288142
+1263,3615,"Sacramento, California",38.5810606,-121.493895
+1264,3616,"Lafayette, Louisiana",30.2043259,-92.0298813
+1265,3617,"Marquette, Michigan",46.4481521,-87.6305899
+1266,3618,"Petoskey , Petoskey, Michigan",45.3997916,-84.90864925539746
+1267,3619,"Detroit, Michigan",42.3315509,-83.0466403
+1268,3620,"St. Joseph , Saint Joseph, Michigan",42.1091645,-86.4845239
+1269,3623,"Fitchburg and Leominster, Leominster, Massachusetts",42.54810355,-71.7762399660038
+1270,3624,"Huntington Station, New York",40.8534318,-73.4115091
+1271,3627,"Sarasota, Florida",27.3365805,-82.5308545
+1272,3630,"Minneapolis, Minnesota",44.9772995,-93.2654692
+1273,3632,"Detroit, Michigan",42.3315509,-83.0466403
+1274,3633,"Albert Lea, Minnesota",43.6480127,-93.3682656
+1275,3634,"Bridgeport, Connecticut",41.1670412,-73.2048348
+1276,3635,"Warner Robins, Georgia",32.6200973,-83.606568
+1277,3636,"Grant , Portland, Oregon",45.53926695,-122.62727539737112
+1278,3637,"Flemington, New Jersey",40.5130953,-74.8591333
+1279,3641,"South Lyon East  & South Lyon , South Lyon, Michigan",42.4665923,-83.56765022324925
+1280,3647,"Torrey Pines High, San Diego, California",32.9573985,-117.22489677829395
+1281,3648,"Thomas Jefferson , Denver, Colorado",39.6469321,-104.9213682
+1282,3650,"Pomfret, Maryland",38.5773417,-77.030531
+1283,3651,"Travelers Rest High, Travelers Rest, South Carolina",34.97061955,-82.44988459496048
+1284,3653,"West Broward , Hollywood, Florida",26.0206457,-80.1839357
+1285,3654,"Mercy , Middletown, Connecticut",41.5324649,-72.6752371
+1286,3655,"Mason , Mason, Michigan",42.568439850000004,-84.44704913618116
+1287,3656,"Dexter , Dexter, Michigan",42.3234969,-83.8724339
+1288,3658,"Harper Creek , Battle Creek, Michigan",42.255824700000005,-85.15197823249015
+1289,3660,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+1290,3661,"Anson County 4-H, Wadesboro, North Carolina",34.9558773,-80.0548764
+1291,3663,"Cedar Park Christian Schools, Bothell, Washington",47.7466292,-122.18973597973223
+1292,3667,"Port Huron Northern  & Port Huron , Port Huron, Michigan",43.022387699999996,-82.4442999690517
+1293,3668,"Whitmore Lake , Whitmore Lake, Michigan",42.4243473,-83.7658368954677
+1294,3669,"Ripon Christian, Ripon, California",37.74333505,-121.13341628491213
+1295,3673,"Seaside  & Seaside , Seaside, Oregon",45.98863695,-123.91188504734893
+1296,3674,"Battle Ground, Washington",45.7813532,-122.5337433
+1297,3676,"Arlington, Texas",32.7355816,-97.1071186
+1298,3679,"San Marcos, Texas",29.8826436,-97.9405828
+1299,3680,"Statesville, North Carolina",35.7826363,-80.8872959
+1300,3684,"Cleveland , Seattle, Washington",47.5523007,-122.31483224916488
+1301,3688,"Suttons Bay, Michigan",44.976666,-85.650639
+1302,3691,"Northfield, Minnesota",44.4582041,-93.161159
+1303,3692,"Janesville, Wisconsin",42.6829765,-89.0226793
+1304,3693,"Rogers , Spokane, Washington",47.6990328,-117.38701925835656
+1305,3694,"North Atlanta  & North Atlanta , Atlanta, Georgia",33.7717656,-84.3943731
+1306,3695,"Yorkville , Yorkville, Illinois",41.656820499999995,-88.44179883590834
+1307,3704,"Sweetwater High, National City, California",32.6599452,-117.09391185083882
+1308,3707,"Brighton , Brighton, Michigan",42.526454900000004,-83.79626151269542
+1309,3711,"Trout Lake School, Trout Lake, Washington",45.989489199999994,-121.51538507112652
+1310,3712,"Union , Union, Oregon",45.2095159,-117.8653691
+1311,3714,"Charles Herbert Flowers High, Springdale, Maryland",38.93148565,-76.83507099953341
+1312,3719,"New London , Connecticut",41.3556187,-72.0997804
+1313,3721,"Pearl City , Pearl CIty, Hawaii",21.379745749999998,-157.97326812599118
+1314,3723,"Spring Valley, Minnesota",43.6870098,-92.3892966
+1315,3728,"Harmony Science Academy, Houston, Texas",29.6756184,-95.47948140833125
+1316,3729,"Aurora, Colorado",39.7405111,-104.830994
+1317,3734,"Lake Forest Academy, Lake Forest, Illinois",42.2478012,-87.8914603
+1318,3735,"Spring, Texas",30.0798826,-95.4172549
+1319,3737,"4-H, Goldsboro, North Carolina",35.3848841,-77.9927651
+1320,3740,"Sauk Rapids, Minnesota",45.5913275,-94.1673802
+1321,3743,"Salado H S, Salado, Texas",29.6128384,-98.5542877
+1322,3745,"Saint Paul, Minnesota",44.9497487,-93.0931028
+1323,3748,"Mount Hebron High, Ellicott City, Maryland",39.2992019,-76.83960840595773
+1324,3749,"Del Norte High, San Diego, California",33.0140216,-117.12246273067572
+1325,3750,"Badger, Minnesota",48.7824188,-96.014453
+1326,3751,"Red Wing, Minnesota",44.5624676,-92.5338013
+1327,3753,"Parkview Baptist School, Baton Rouge, Louisiana",30.3976656,-91.05042947334499
+1328,3754,"Treknorth , Bemidji, Minnesota",47.492197,-94.90099
+1329,3755,"Litchfield, Minnesota",45.1271847,-94.5280474
+1330,3759,"St Mary'S Academy, INGLEWOOD, California",33.9688889,-118.3452778
+1331,3760,"Bronx Aerospace , Bronx, New York",40.8752925,-73.8615858
+1332,3767,"West Senior High, Traverse City, Michigan",44.7498475,-85.6875977955366
+1333,3770,"Bullock Creek , Midland, Michigan",43.5833605,-84.2477663
+1334,3773,"Tecumseh , Tecumseh, Michigan",42.011241749999996,-83.95847085824104
+1335,3777,"Lima, Ohio",40.7399785,-84.105006
+1336,3785,"Yuma Catholic , Yuma, Arizona",32.6761927,-114.643758483861
+1337,3786,"Kentridge , Kent, Washington",47.41775015,-122.17292912070039
+1338,3792,"Columbia, Missouri",38.951883,-92.3337366
+1339,3793,"Frederick, Maryland",39.415779,-77.4127562
+1340,3796,"Windsor, North Carolina",35.9984925,-76.9460641
+1341,3799,"Notre Dame , Elmira, New York",42.0631298,-76.7871773
+1342,3800,"Kalaheo , Kailua, Hawaii",21.408515,-157.75084253791434
+1343,3802,"Carrollton, Texas",32.9537349,-96.8902816
+1344,3807,"Overland , Aurora, Colorado",39.6809107,-104.8433775
+1345,3812,"Mark Morris , Longview, Washington",46.1446793,-122.93872326565275
+1346,3814,"Florence, Kentucky",38.9989499,-84.6266111
+1347,3815,"North Forsyth , Cumming, Georgia",34.1915515,-84.148556
+1348,3821,"Belfry , Belfry, Kentucky",37.6220544,-82.268753
+1349,3822,"Jordan Matthews High, Siler City, North Carolina",35.7234096,-79.4515083
+1350,3824,"Knoxville, Tennessee",35.9603948,-83.9210261
+1351,3826,"Sequim Senior High, Sequim, Washington",48.084749200000005,-123.10546059002687
+1352,3834,"Port Lavaca, Texas",28.6149968,-96.6260892
+1353,3838,"Rochester, New York",43.157285,-77.615214
+1354,3839,"Wadena, Minnesota",46.5850936,-94.9606684
+1355,3840,"Isanti County 4-H, Isanti, Minnesota",45.4902335,-93.2477046
+1356,3843,"Murray, Kentucky",36.6103334,-88.314761
+1357,3844,"Lynn Camp , Corbin, Kentucky",36.9579188,-84.1020546
+1358,3845,"Carver High, Winston-Salem, North Carolina",36.1346223,-80.207959
+1359,3847,"Houston, Texas",29.7589382,-95.3676974
+1360,3848,"Kenyon, Minnesota",44.2721868,-92.9854841
+1361,3851,"Canoga Park, California",34.2011078,-118.5978087
+1362,3853,"Mountain Pointe , Phoenix, Arizona",33.325131999999996,-111.99177160564648
+1363,3859,"Cosumnes Oaks High, Elk Grove, California",38.3980835,-121.39727610617771
+1364,3863,"Newbury Park, California",34.183671,-118.91183
+1365,3865,"Riley , South Bend, Indiana",41.65328375,-86.24353149889423
+1366,3871,"Worthington, Minnesota",43.6205056,-95.5956434
+1367,3875,"Kentwood, Michigan",42.8694731,-85.6447492
+1368,3876,"Mabton Jr. Sr. High, Mabton, Washington",46.21209,-119.99460502538186
+1369,3878,"Konawaena , Kealakekua , Hawaii",19.5094848,-155.915141
+1370,3880,"Kealakehe , Kailua Kona, Hawaii",19.66620135,-156.01716275196048
+1371,3881,"Kailua Kona, Hawaii",19.641941,-155.996933
+1372,3882,"Lahainaluna , Lahaina, Hawaii",20.8871422,-156.6661717
+1373,3883,"Cottage Grove, Minnesota",44.8277446,-92.9438218
+1374,3925,"Ventura, California",34.4458248,-119.0779359
+1375,3926,"Saint Paul, Minnesota",44.9497487,-93.0931028
+1376,3928,"4-H, Ames, Iowa",42.0267567,-93.6170448
+1377,3929,"Philadelphia, Pennsylvania",39.9527237,-75.1635262
+1378,3930,"Spruce Mountain , Jay, Maine",44.5564516,-70.2000603
+1379,3931,"Chickasha Hs, Chickasha, Oklahoma",35.0516644,-97.95828376173385
+1380,3932,"Boca Raton, Florida",26.3586885,-80.0830984
+1381,3936,"Michigan City, Indiana",41.7075394,-86.8950297
+1382,3937,"Harding Academy, Searcy, Arkansas",35.24473315,-91.71806105002966
+1383,3939,"4-H, Buchanan, Virginia",37.5273566,-79.6797614
+1384,3940,"Kokomo, Indiana",40.4864444,-86.1336351
+1385,3941,"Aberdeen Proving Ground, Maryland",39.4698142,-76.12733056970433
+1386,3944,"Tempe Preparatory Academy, Tempe, Arizona",33.39231925,-111.91892962526722
+1387,3946,"Slidell , Slidell, Louisiana",30.2784551,-89.782521
+1388,3947,"Knightstown , Knightstown, Indiana",39.792596599999996,-85.5421077955255
+1389,3950,"Glen Head, New York",40.8354111,-73.6235993
+1390,3951,"Honeoye, New York",42.7908335,-77.5170721
+1391,3952,"Troy High, Fullerton, California",33.87971845,-117.89311267918565
+1392,3953,"Eleanor Roosevelt High, Eastvale, California",33.9536866,-117.56926999324699
+1393,3954,"Emlenton, Pennsylvania",41.1806616,-79.7096141
+1394,3955,"Greensburg, Pennsylvania",40.3014581,-79.5389289
+1395,3957,"New Bethlehem, Pennsylvania",41.001732,-79.3314297
+1396,3958,"Boston College , Boston, Massachusetts",42.34354395,-71.16041737575102
+1397,3959,"Somerville, Alabama",34.4731491,-86.798612
+1398,3965,"Santana High, Santee, California",32.85778395,-116.96831630923384
+1399,3966,"Knoxville, Tennessee",35.9603948,-83.9210261
+1400,3970,"Fresno, California",36.7394421,-119.7848307
+1401,3974,"Bishop Mcdevitt , Wyncote, Pennsylvania",40.0951105,-75.1487862
+1402,3976,"Hopkins, South Carolina",33.9043212,-80.8770342
+1403,3984,"Science Hill , Johnson City, Tennessee",36.327289,-82.3714014
+1404,3991,"Episcopal , Baton Rouge, Louisiana",30.421821100000003,-91.0338063672781
+1405,3993,"Newhall, California",34.3798765,-118.5291917
+1406,3997,"San Antonio, Texas",29.4246002,-98.4951405
+1407,3998,"Statesboro, Georgia",32.4490141,-81.7832912
+1408,3999,"Killeen, Texas",31.1171441,-97.727796
+1409,4003,"Allendale, Michigan",42.9903205,-85.95296849268018
+1410,4004,"Muskegon, Michigan",43.2341813,-86.2483921
+1411,4005,"Fort Gibson, Oklahoma",35.803802000000005,-95.25792674827194
+1412,4006,"Central Islip Senior , Central Islip, New York",40.7989503,-73.20399520810304
+1413,4008,"Petersburg, Indiana",38.4919935,-87.2786244
+1414,4009,"Duluth, Minnesota",46.7729322,-92.1251218
+1415,4011,"Aquinas , La Crosse, Wisconsin",43.8080553,-91.24010820470902
+1416,4012,"St. Joseph By-the-Sea high school, Staten Island, New York",40.5248256,-74.17666586662808
+1417,4013,"Orlando, Florida",28.5421109,-81.3790304
+1418,4014,"High Tech High North Co, San Marcos, California",33.13303445,-117.20217328775684
+1419,4019,"Bridges Academy, Studio City, California",34.1416736,-118.3948018
+1420,4020,"Dobyns - Bennett High, Kingsport, Tennessee",36.53561045,-82.52818263137866
+1421,4021,"Onalaska, Wisconsin",43.8830606,-91.2343539
+1422,4023,"Buffalo, New York",42.8867166,-78.8783922
+1423,4024,"Winter Park, Florida",28.5977707,-81.3510264
+1424,4026,"Decatur, Georgia",30.8736613,-84.5740953
+1425,4027,"Centre County 4-H, State College, Pennsylvania",40.8025835,-77.85593833184565
+1426,4028,"Cincinnati, Ohio",39.1014537,-84.5124602
+1427,4034,"Pelham , Pelham, New Hampshire",42.7736999,-71.3525633
+1428,4035,"Orange High, Orange, New Jersey",40.76564635,-74.23930454515343
+1429,4041,"Gardiner Area , Gardiner, Maine",44.227580700000004,-69.78796929021513
+1430,4042,"Erskine Academy, South China, Maine",44.3735853,-69.57651771898998
+1431,4043,"4-H, McMinnville, Oregon",45.2100367,-123.194463
+1432,4048,"Westborough High, Westborough, Massachusetts",42.261632000000006,-71.6159328118469
+1433,4049,"Knoch Hs, Saxonburg, Pennsylvania",40.7493819,-79.8287226
+1434,4050,"Franklin County,  Pennsylvania, Chambersburg, Pennsylvania",39.88010835,-77.63406753352882
+1435,4051,"Sabin-Schellenberg Center, Portland, Oregon",45.420710799999995,-122.58509487531867
+1436,4053,"Gonzales, Louisiana",30.2385294,-90.9200987
+1437,4054,"Central High, La Crosse, Wisconsin",43.793600999999995,-91.21736691272764
+1438,4055,"Northwestern Regional , Winchester, Connecticut",41.91426725,-73.04662767650686
+1439,4056,"Colton High, Colton, California",34.0700127,-117.3344887
+1440,4057,"Klamath Falls, Oregon",42.224867,-121.7816704
+1441,4060,"Chehalis, Washington",46.6599653,-122.963432
+1442,4061,"4-H, Pullman, Washington",46.7304268,-117.173895
+1443,4063,"Del Rio, Texas",29.3655405,-100.894698
+1444,4064,"Ocala, Florida",29.1871986,-82.1400923
+1445,4065,"Lake Minneola , Minneola, Florida",28.574159,-81.76767074806016
+1446,4068,"Palmer Ridge , Monument, Colorado",39.1112706,-104.86230813338477
+1447,4073,"Carolina Forest High, Myrtle Beach, South Carolina",33.779057949999995,-78.97030124719208
+1448,4074,"Murrells Inlet, South Carolina",33.5499183,-79.0430329
+1449,4075,"Conway High & Conway High, Conway, South Carolina",33.85104845,-79.0781071906716
+1450,4076,"Justin, Texas",33.0848442,-97.2961286
+1451,4077,"Edmonds Woodway , Edmonds, Washington",47.8056487,-122.33779769984878
+1452,4078,"La Puente High, La Puente, California",34.026018050000005,-117.954476813401
+1453,4079,"Oxford Academy, Cypress, California",33.82227465,-118.0425419592904
+1454,4080,"Tucker, Georgia",33.85162905,-84.22374316732959
+1455,4083,"Woodland High, Dorchester, South Carolina",33.1348466,-80.3868872
+1456,4085,"Reynoldsburg, Ohio",39.9547861,-82.8121191
+1457,4087,"Benjamin Franklin , New Orleans, Louisiana",30.02469915,-90.06563047916397
+1458,4089,"Cedarcrest , Duvall, Washington",47.7356385,-121.9525544
+1459,4093,"Orleans County, New York",43.2244513,-78.2272835
+1460,4096,"Champaign, Illinois",40.1164841,-88.2430932
+1461,4097,"Northampton, Massachusetts",42.3178989,-72.6311006
+1462,4099,"Poolesville High, Poolesville, Maryland",39.14233995,-77.41769314805433
+1463,4103,"Avon , Avon, Indiana",39.7388745,-86.38794910323864
+1464,4104,"Cheney , Cheney, Washington",47.4915232,-117.58586751653681
+1465,4107,"West Harrison , Gulfport, Mississippi",30.4067382,-89.0924345
+1466,4110,"Brookings-Harbor , Brookings, Oregon",42.05717595,-124.28186305137771
+1467,4111,"ASU Preparatory Academy - Polytechnic, Mesa, Arizona",33.3083108,-111.68204396265392
+1468,4112,"South Forsyth , Cumming , Georgia",34.1484162,-84.1710765
+1469,4114,"River Springs Charter, Hemet, California",33.74431025,-116.97967580901258
+1470,4118,"P.K. Yonge Developmental Research School, Gainesville, Florida",29.6404009,-82.33480049861032
+1471,4119,"Avon , Avon, Ohio",41.4596243,-82.0196737
+1472,4120,"Spokane, Washington",47.6571934,-117.42351
+1473,4121,"Hoover , North Canton, Ohio",40.8854676,-81.39481812559467
+1474,4122,"Ossining , Ossining, New York",41.1613168,-73.8620367
+1475,4123,"Bellflower, California",33.8825705,-118.1167679
+1476,4125,"Umatilla , Umatilla, Oregon",45.9173549,-119.3425179
+1477,4127,"Vernonia  & Vernonia Middle School, Vernonia, Oregon",45.8611931,-123.17778941850129
+1478,4130,"Richmond Community , Richmond, Michigan",42.8092,-82.766
+1479,4131,"Renton, Washington",47.4799078,-122.2034496
+1480,4132,"David Douglas , Portland, Oregon",45.5136705,-122.5278110781313
+1481,4135,"Fred C. Beyer High, Modesto, California",37.691171999999995,-120.96732570145551
+1482,4137,"Wilde Lake High, Columbia, Maryland",39.216984,-76.87271159575143
+1483,4139,"Scripps Ranch High, San Diego, California",32.908799349999995,-117.11207426099455
+1484,4141,"Mater Dei , Santa Ana, California",33.7258821,-117.8837581718698
+1485,4143,"Metamora , Metamora, Illinois",40.79757035,-89.3642938275612
+1486,4145,"Worthington Kilbourne , Columbus, Ohio",40.114792300000005,-83.05549762973658
+1487,4146,"Saguaro , Scottsdale, Arizona",33.5276111,-111.90656877042034
+1488,4150,"Murrysville, Pennsylvania",40.4284015,-79.697545
+1489,4151,"Weymouth , Weymouth, Massachusetts",42.18170415,-70.94441632104113
+1490,4153,"Los Alamos, New Mexico",35.88137,-106.298959
+1491,4156,"Sacred Heart Griffin , Springfield, Illinois",39.80049235,-89.67530584344024
+1492,4159,"Lowell High, San Francisco, California",37.72921235,-122.48293370806712
+1493,4160,"Mission Bay High, San Diego, California",32.79896545,-117.22372683582815
+1494,4161,"Yucaipa High, Yucaipa, California",34.03737,-117.08699753320462
+1495,4166,"Mora, Minnesota",45.8769031,-93.2938352
+1496,4169,"Sudbury, Massachusetts",42.3834278,-71.4161725
+1497,4171,"Seaside High, Seaside, California",36.623883500000005,-121.83781252831669
+1498,4173,"Mount Vernon , Mount Vernon, Washington",48.4184546,-122.335004
+1499,4174,"Buffalo Lake-Hector Secondary, Hector, Minnesota",44.74330395,-94.71904674439386

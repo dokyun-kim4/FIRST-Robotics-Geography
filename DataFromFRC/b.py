@@ -2,17 +2,11 @@
 Code testing
 """
 
-
-import frc_data_functions as fdf
-import frc_avatar_functions as faf
+import pandas as pd
 
 
-# print(fdf.isolate_team_and_location(fdf.extract_data_all_pages(2015)))
-
-
-# pages = fdf.extract_data_all_pages(2018, 1)
-# print(faf.get_avatar_one_team(2018, 4087))
-faf.decode_png(2637, "1")
-# print(type(faf.get_avatar_one_team(2018, 4087)))
-
-location = viz.geo_data(["Springfield, CA", "Springfield, NY"])
+combined = pd.concat(
+    [pd.read_csv(f"Location/2018/{i}.csv", index_col=False) for i in range(0, 7)]
+)
+combined = combined[["teamNumber", "location", "latitude", "longitude"]]
+combined.to_csv("Location/2018/2018Location.csv", index=False)
