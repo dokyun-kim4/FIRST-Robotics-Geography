@@ -1,0 +1,501 @@
+,teamNumber,nameShort,location,latitude,longitude
+500,1551,The Grapes of Wrath,"Naples, New York",42.6160647,-77.4030253
+501,1553,KC Robotics Team,"nan, Lugoff, South Carolina",34.2177024,-80.6977142
+502,1554,Oceanside Robotics,"Oceanside, New York",40.6390936,-73.6399765
+503,1557,12 Volt Bolt,"Eustis, Florida",28.8527675,-81.6853534
+504,1559,Devil-Tech,"Victor, New York",42.9825634,-77.4088794
+505,1561,ROBODUCKS,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+506,1566,AMMOKNIGHTS,"Idaho Falls, Idaho",43.4887907,-112.03628
+507,1569,Haywire Robotics,"Pocatello, Idaho",42.8620287,-112.450627
+508,1571,CALibrate Robotics,"Gresham, Oregon",45.4997475,-122.4309766
+291,1572,Hammer Heads,"nan, San Diego, California",-53.16129205,-70.93304406533326
+510,1583,Ridge View Academy Rambotics,"Watkins, Colorado",39.7443406,-104.6031986
+511,1584,Pirates,"nan, Nederland, Colorado",51.8075893,4.7094443
+512,1585,Scitobor Robotics,"Shortsville, New York",42.9559145,-77.2206913
+513,1590,Titaniums,"Lorain, Ohio",41.4673238,-82.1781904
+30,1591,Greece Gladiators,"nan, Rochester, New York",43.1100257,-77.54586782478958
+515,1592,Bionic Tigers,"Cocoa , Florida",28.3553873,-80.7318827
+516,1595,The Dragons,"Spokane, Washington",47.6571934,-117.42351
+517,1596,The Instigators,"Sault Sainte Marie, Michigan",46.5000696,-84.33902197021817
+518,1598,TeamTalon,"Danville, Virginia",36.5859718,-79.3950228
+489,1599,CircuiTree,"Mechanicsville, Virginia",37.627722,-77.35381757536094
+154,1600,ROBO KINGS AND QUEENS,"nan, Brooklyn, New York",40.6038604,-73.9966803
+521,1601,QS1601,"L.I.C., New York",14.7230203,120.9750029
+522,1610,B.O.T. (Builders of Tomorrow),"Franklin, Virginia",37.0527719,-79.8813093
+523,1619,Up-A-Creek Robotics,"Longmont, Colorado",40.1672117,-105.1019287
+524,1622,Team Spyder,"Poway, California",32.9628234,-117.035864
+525,1625,Winnovation,"nan, Winnebago, Illinois",42.4135386,-88.9628836
+526,1626,Falcon Robotics,"Metuchen, New Jersey",40.5431598,-74.3632049
+527,1629,Garrett Coalition (GaCo),"Accident, Maryland",39.6289521,-79.3208439
+474,1633,RoboBuffs,"Tempe, Arizona",33.4255117,-111.9400164
+529,1635,TECHNOTICS,"Elmhurst, New York",40.7365804,-73.8783932
+530,1640,Sab-BOT-age,"Downingtown, Pennsylvania",40.0064958,-75.7032742
+531,1642,Techno-Cats,"Ft. Worth, Texas",32.753177,-97.3327459
+238,1644,The Robo-Skunks,"nan, Los Angeles, California",34.0049604,-117.7877947
+533,1646,Precision Guessworks,"Lafayette, Indiana",40.4167022,-86.8752869
+534,1647,Iron Devils,"Tabernacle, New Jersey",38.9840016,-74.9051719
+456,1648,G3 Robotics,"Atlanta, Georgia",33.7489924,-84.3902644
+536,1649,Lakerbotics (The Lakers),"Windemere, Florida",28.0251354,-81.9745773
+326,1658,Tech Heads,"St. Louis, Missouri",38.6280278,-90.1910154
+268,1660,Harlem Knights,"nan, New York, New York",40.7550963,-73.4763586
+539,1661,Griffitrons,"Sherman Oaks, California",34.1508718,-118.4489865
+540,1662,Raptor Force Engineering,"Lodi, California",38.1301968,-121.2724473
+541,1665,Weapons of Mass Construction,"Hudson, New York",42.2528649,-73.790959
+542,1671,Buchanan Bird Brains,"Clovis, California",36.8252277,-119.7029194
+543,1672,Robo-T-Birds,"Mahwah, New Jersey",41.0887072,-74.1437552
+544,1675,UPS (Ultimate Protection Squad),"Milwaukee, Wisconsin",43.0349931,-87.922497
+545,1676,The Pascack PI-oneers,"Montvale, New Jersey",41.0467635,-74.0229173
+546,1677,Quantum Ninjas ,"Kalamazoo, Michigan",42.291707,-85.5872286
+547,1678,Citrus Circuits,"Davis, California",38.545379,-121.744583
+548,1683,Techno Titans,"Johns Creek, Georgia",34.0181557,-84.190196
+549,1684,Chimeras ,"Lapeer, Michigan",43.0904764,-83.2333705
+550,1699,Robocats,"Colchester, Connecticut",41.6003429,-72.3369549
+2,1700,Gatorbotics,"nan, Palo Alto, California",-22.2191852,-49.9758677
+552,1701,RoboCubs,"Detroit, Michigan",42.3315509,-83.0466403
+553,1706,Ratchet Rockers,"Wentzville, Missouri",38.8244136,-90.8683119
+554,1708,AMP'D Robotics,"McKeesport, Pennsylvania",40.3478472,-79.864215
+555,1710,The Ravonics Revolution,"Olathe, Kansas",38.8838856,-94.81887
+556,1711,Raptors,"Traverse City, Michigan",44.7606441,-85.6165301
+557,1712,Dawgma,"Ardmore, Pennsylvania",40.0067786,-75.2854622
+544,1714,MORE Robotics,"Milwaukee, Wisconsin",43.0349931,-87.922497
+559,1716,Redbird Robotics,"De Pere, Wisconsin",44.4493584,-88.0599986
+560,1718,The Fighting Pi,"Armada, Michigan",42.8441964,-82.8843722
+561,1719,The Umbrella Corporation,"Brooklandville, Maryland",39.4114301,-76.66737718644993
+562,1720,PhyXTGears,"Muncie, Indiana",40.1936892,-85.3865271
+484,1721,Tidal Force,"Concord, New Hampshire",43.207178,-71.537476
+564,1723,The FBI - FIRST Bots of Independence,"Independence, Missouri",39.0924792,-94.4137923
+565,1726,N.E.R.D.S. (Nifty Engineering Robotics Design Squad),"Sierra Vista, Arizona",31.5545973,-110.2997756
+566,1729,Team Inconceivable!,"New Ipswich, New Hampshire",42.7481421,-71.8542429
+567,1730,Team Driven,"Lee’s Summit, Missouri",38.9107156,-94.3821295
+568,1731,Fresta Valley Robotics Club,"Marshall, Virginia",39.854861,-80.6616946
+544,1732,Hilltoppers,"Milwaukee, Wisconsin",43.0349931,-87.922497
+90,1735,Green Reapers,"Worcester, Massachusetts",42.2625621,-71.8018877
+571,1736,Robot Casserole,"Peoria, Illinois",40.6938609,-89.5891008
+572,1737,Project X,"Excelsior Springs, Missouri",39.3417244,-94.2223507
+45,1739,Chicago Knights,"Chicago, Illinois",41.8755616,-87.6244212
+574,1740,Ledyard Cyber Colonels,"Ledyard, Connecticut",41.4200986,-71.9703518
+575,1741,Red Alert,"Greenwood, Indiana",39.6136578,-86.1066526
+576,1742,Shockwave,"Norman, Oklahoma",35.2225717,-97.4394816
+577,1743,Short Circuits,"Pittsburgh , Pennsylvania",40.4416941,-79.9900861
+578,1744,Robo Rays,"Naples, Florida",26.1421976,-81.7942944
+579,1745,P-51 Mustangs,"Richardson, Texas",32.9481789,-96.7297206
+580,1746,OTTO,"Cumming, Georgia",34.2073196,-84.1401926
+197,1747,Harrison Boiler Robotics,"West Lafayette, Indiana",40.4258686,-86.9080655
+582,1750,ThunderStorm Robotics,"Stillwater, Oklahoma",36.1156306,-97.0585717
+583,1751,The Warriors,"Port Jefferson Station, New York",40.925939,-73.065185
+571,1756,Argos,"Peoria, Illinois",40.6938609,-89.5891008
+585,1757,Wolverines,"Westwood, Massachusetts",42.2139873,-71.2244987
+586,1758,Technomancers,"nan, Florence, South Carolina",34.1393002,-79.7712722
+587,1759,Potatoes,"El Segundo, California",33.917028,-118.4156337
+588,1761,STEAMpunk Tigers,"Lynn, Massachusetts",42.466763,-70.9494939
+589,1763,Paseliens,"Kansas City, Missouri",39.100105,-94.5781416
+590,1764,Liberty Robotics,"Liberty, Missouri",39.246479,-94.419079
+591,1765,E1Bots,"Cheektowaga, New York",42.9033917,-78.7547536
+592,1768,Robo Chiefs,"Bolton, Massachusetts",42.4342336,-71.6097744
+593,1769,Digital Hawks,"Kansas City, Kansas",39.1134562,-94.626497
+415,1771,Electric Phoenixes,"Suwanee, Georgia",34.0514898,-84.0712997
+589,1775,Tigerbytes,"Kansas City, Missouri",39.100105,-94.5781416
+329,1777,Viking Robotics,"nan, Overland Park, Kansas",38.9265622,-94.7211894
+597,1778,Chill Out,"Mountlake Terrace , Washington",47.7909667,-122.3066395
+45,1781,Electric Eagles,"Chicago, Illinois",41.8755616,-87.6244212
+599,1785,Blue Springs Robocats,"Blue Springs, Missouri",39.017316,-94.282265
+600,1786,The Robotics Team,"Dublin, New Hampshire",42.9075823,-72.0625817
+601,1787,Flying Circuits,"Pepper Pike, Ohio",41.478387,-81.46373
+602,1791,T.O.P. Hatters,"Clayton, New Jersey",39.6601148,-75.0921197
+603,1792,Round Table Robotics,"Oak Creek, Wisconsin",42.8858503,-87.8631362
+604,1793,The Pilots,"Norfolk, Virginia",36.8448348,-76.2863999
+456,1795,Team Clutch,"Atlanta, Georgia",33.7489924,-84.3902644
+606,1796,RoboTigers,"Long Island City, New York",40.7415095,-73.9569751
+607,1799,Wired Up!,"Littleton, Colorado",39.613321,-105.016649
+593,1802,Team Stealth,"Kansas City, Kansas",39.1134562,-94.626497
+609,1803,Vikings,"Port Washington, New York",40.8257072,-73.6958069
+610,1806,S.W.A.T.,"Smithville, Missouri",39.3868396,-94.5815937
+611,1807,Redbird Robotics,"Allentown, New Jersey",40.1778887,-74.5834887
+612,1810,Jaguar Robotics,"Shawnee, Kansas",39.0273676,-95.7627535
+279,1811,FRESH,"Newark, New Jersey",40.735657,-74.1723667
+614,1816,"""The Green Machine""","Edina, Minnesota",44.8897027,-93.3501222
+615,1817,Llano Estacado RoboRaiders,"nan, Lubbock, Texas",33.662999150000005,-101.69175089999999
+616,1818,Cowboys,"Shreveport, Louisiana",32.4707862,-93.7559378
+617,1825,The Cyborgs,"Lees Summit, Missouri",38.8856158,-94.2117959
+589,1827,THE HIVE,"Kansas City, Missouri",39.100105,-94.5781416
+619,1828,BoxerBots,"Vail, Arizona",32.0100705,-110.69752810628196
+620,1829,Carbonauts,"Accomack County, Virginia",37.7422207,-75.6743538
+621,1831,Screaming Eagles,"GIlford, New Hampshire",43.54805,-71.407013
+238,1836,The MilkenKnights,"nan, Los Angeles, California",34.0049604,-117.7877947
+593,1847,Ladder 1847,"Kansas City, Kansas",39.1134562,-94.626497
+45,1850,Mechanicats,"Chicago, Illinois",41.8755616,-87.6244212
+625,1868,Space Cookies,"Moffett Field, California",37.41129325,-122.05416980310586
+626,1872,Steel Lions,"San Juan, Puerto Rico",18.465299,-66.116666
+627,1876,Beachbotics,"nan, Hilton Head Island, South Carolina",32.2243912,-80.7412848
+268,1880,Warriors of East Harlem,"nan, New York, New York",40.7550963,-73.4763586
+629,1885,ILITE Robotics,"Haymarket, Virginia",38.8121398,-77.6368038
+630,1891,Bullbots,"Meridian, Idaho",43.6086295,-116.392326
+631,1895,Lambda Corps,"Manassas, Virginia",38.7509488,-77.4752667
+556,1896,Concussive Engineers,"Traverse City, Michigan",44.7606441,-85.6165301
+205,1899,Saints Robotics,"Bellevue, Washington",47.6144219,-122.192337
+330,1902,Exploding Bacon,"Orlando, Florida",28.5421109,-81.3790304
+635,1908,ShoreBots,"Eastville, Virginia",37.3526337,-75.9457726
+636,1912,Team Combustion,"Slidell, Louisiana",30.2751945,-89.7811745
+247,1915,MTHS Firebird Robotics,"nan, Washington, District of Columbia",38.895847950000004,-77.03654431512868
+638,1918,NC GEARS,"Fremont, Michigan",43.467517,-85.942001
+639,1920,McMain Hurricanes,"New Orleans, Louisiana",29.9759983,-90.0782127
+640,1922,Oz-Ram,New Hampshire,43.4849133,-71.6553992
+641,1923,The MidKnight Inventors,"Plainsboro, New Jersey",40.3334409,-74.6004341
+642,1927,Tempest,"Biloxi, Mississippi",30.4007626,-88.8893818
+589,1939,THE KUHNIGITS,"Kansas City, Missouri",39.100105,-94.5781416
+644,1940,The Tech Tigers,"Benton Harbor, Michigan",42.1167065,-86.4541894
+60,1965,Firebirds,"nan, Boston, Massachusetts",42.3514972,-71.06056
+125,1967,The Janksters,"nan, San Jose, California",37.3565689,-121.9011479
+647,1972,Searing Engineering,"El Centro, California",32.792,-115.563051
+60,1973,Brighton Burning Tiger,"nan, Boston, Massachusetts",42.3514972,-71.06056
+649,1977,Loveland High Robotics PowerSquids,"Loveland, Colorado",40.385549,-105.04436132094955
+612,1982,Cougar Robotics,"Shawnee, Kansas",39.0273676,-95.7627535
+204,1983,Skunk Works Robotics,"nan, Seattle, Washington",47.6546655,-122.30979428415324
+329,1984,Raider Revolution Robotics,"nan, Overland Park, Kansas",38.9265622,-94.7211894
+653,1985,Robohawks,"Florissant, Missouri",38.7919683,-90.3227803
+654,1986,Team Titanium,"Lee's Summit, Missouri",38.9107156,-94.3821295
+567,1987,Broncobots,"Lee’s Summit, Missouri",38.9107156,-94.3821295
+656,1989,Viking Robotics,"Vernon Township, New Jersey",41.1984287,-74.4832132
+89,1991,Dragons,"Hartford, Connecticut",41.7688459,-72.6816303
+593,1994,Horse Power!,"Kansas City, Kansas",39.1134562,-94.626497
+659,1997,Stag Robotics,"Roeland Park, Kansas",39.0375053,-94.6321795
+589,2001,HERMES,"Kansas City, Missouri",39.100105,-94.5781416
+661,2002,Tualatin Robotics,"Tualatin, Oregon",45.3838546,-122.766351
+327,2004,Thunderducks,"Tulsa, Oklahoma",36.1563122,-95.9927516
+15,2010,Lightning Bots,"Warren, Ohio",39.4203978,-84.180897
+664,2016,Mighty Monkey Wrenches,"Ewing, New Jersey",40.2688105,-74.8006895
+665,2022,Titan Robotics,"nan, Aurora, Illinois",41.8041978,-88.2746437
+666,2027,Robotic Dragons,"Old Westbury, New York",40.7887113,-73.5995717
+58,2028,Phantom Mentalist,"nan, Hampton, Virginia",15.1031886,120.60113382941339
+668,2035,Robo Rockin' Bots,"Carmel, California",38.75511285,-121.35330894827251
+386,2036,The Black Knights,"Boulder, Colorado",40.0149856,-105.270545
+670,2039,Rockford Robotics,"Rockford, Illinois",42.2713945,-89.093966
+671,2040,DERT - Dunlap Eagles Robotics Team,"Dunlap, Illinois",40.8616513,-89.6777665
+672,2046,Bear Metal,"Maple Valley, Washington",47.3664231,-122.0437127
+552,2048,The Pink Panthers,"Detroit, Michigan",42.3315509,-83.0466403
+674,2051,The Beattie Bulldogs,"Allison Park, Pennsylvania",40.5584013,-79.9581094
+675,2052,KnightKrawler,"New Brighton, Minnesota",45.0628999,-93.2060969
+676,2053,TigerTronics,"Endicott, New York",42.098408,-76.0493684
+677,2054,Tech Vikes,"Hopkins, Michigan",42.6236425,-85.7603024
+678,2059,The Hitchhikers,"Apex, North Carolina",35.7325352,-78.8505516
+679,2062,C.O.R.E  2062,"Waukesha, Wisconsin",43.0116784,-88.2314813
+680,2064,The Panther Project,Connecticut,41.6500201,-72.7342163
+681,2067,Apple Pi,"Guilford, Connecticut",41.2757205,-72.6736148
+631,2068,Metal Jackets,"Manassas, Virginia",38.7509488,-77.4752667
+683,2070,Royals,"Ridgefield, New Jersey",40.8342669,-74.0087505
+684,2073,EagleForce,"Elk Grove, California",38.4087993,-121.3716178
+323,2075,Enigma Robotics,"Grand Rapids, Michigan",42.9632405,-85.6678639
+686,2077,Laser Robotics,"Wales, Wisconsin",43.0044549,-88.3767626
+687,2078,Robotic Wolves,"Covington, Louisiana",30.4754702,-90.1009108
+688,2079,4H ALARM Robotics,"Franklin, Massachusetts",42.5896205,-72.6110645
+689,2080,Torbotics,"Hammond, Louisiana",30.5043583,-90.4611995
+571,2081,Icarus,"Peoria, Illinois",40.6938609,-89.5891008
+691,2083,Team BLITZ,"Conifer, Colorado",39.5233424,-105.305499
+692,2084,Robots by the C,"Manchester, Massachusetts",42.577873,-70.7689354
+693,2085,RoboDogs,"Vacaville, California",38.3565773,-121.9877444
+173,2090,Buff 'n Blue,"Honolulu, Hawaii",21.304547,-157.855676
+695,2095,Direct Current,"Newtown Square, Pennsylvania",39.9868117,-75.4007633
+696,2102,Team Paradox,"Encinitas, California",33.0369867,-117.2919818
+697,2106,The Junkyard Dogs,"Goochland, Virginia",37.7204342,-77.8837984
+604,2107,Angry Bots,"Norfolk, Virginia",36.8448348,-76.2863999
+699,2122,Team Tators,"Boise, Idaho",43.6166163,-116.200886
+700,2129,Ultraviolet,"Minneapolis, Minnesota",44.9772995,-93.2654692
+701,2130,Alpha+,"Bonners Ferry, Idaho",48.6912781,-116.31614
+125,2135,Presentation Invasion,"nan, San Jose, California",37.3565689,-121.9011479
+45,2136,Impossible Mission Force,"Chicago, Illinois",41.8755616,-87.6244212
+704,2137,TORC,"Oxford, Michigan",42.8247524,-83.2646624
+705,2141,Spartonics,"nan, Concord, California",33.887623,-80.314551
+706,2143,Team Tobor,"Eau Claire, Wisconsin",44.811349,-91.4984941
+286,2144,Gators,"Atherton, California",37.453773,-122.2058272
+708,2145,HAZMATs,"Lake Fenton, Michigan",42.8461392,-83.7077293
+516,2147,CHUCK,"Spokane, Washington",47.6571934,-117.42351
+516,2148,Mechaknights,"Spokane, Washington",47.6571934,-117.42351
+711,2149,CV Bearbots,"Spokane Valley, Washington",47.6571104,-117.2613936
+712,2151,Monty Pythons,"Forest Park, Illinois",41.8794989,-87.8136997
+713,2152,S*M*A*S*H,"Volusia County, Florida",29.0533409,-81.1310761
+184,2158,ausTIN CANs,"Austin, Texas",30.2711286,-97.7436995
+715,2161,Robocats,"Huntington Station, New York",40.8534318,-73.4115091
+716,2164,The Core,"Harrisonville, Missouri",38.655124,-94.3471072
+717,2165,Trailblazers,"Bartlesville, Oklahoma",36.7421089,-95.9528877
+718,2167,Radical Tech,"Maryville, Missouri",40.3460468,-94.8723858
+719,2168,Aluminum Falcons,"Groton, Connecticut",41.3635276,-72.0812993
+720,2169,KING TeC,"Prior Lake/Savage, Minnesota",44.720704100000006,-93.38941705250966
+721,2170,Titanium Tomahawks,"Glastonbury, Connecticut",41.700615299999996,-72.59057068811434
+722,2171,RoboDogs,"Crown Point, Indiana",41.4169806,-87.3653136
+723,2172,Street Legal,"Lakewood, Ohio",41.4819932,-81.7981908
+724,2175,The Fighting Calculators,"Woodbury, Minnesota",44.919896,-92.9339449
+725,2177,The Robettes,"Mendota Heights, Minnesota",44.8835768,-93.1382749
+726,2180,Zero Gravity,"nan, Hamilton, New Jersey",40.190796,-74.677988
+727,2181,G.E.A.R.s (Great Engineers Awesome Robots),"Blaine, Minnesota",45.1607987,-93.2349489
+728,2183,Tigerbots,"Boutte, Louisiana",29.9024284,-90.3881369
+244,2186,Dogs of Steel,"Chantilly, Virginia",38.8788355,-77.40221718011088
+730,2187,Team Volt,"nan, Conway, South Carolina",33.7953292,-79.01274319680836
+731,2190,Team Hero,"Petal, Mississippi",31.3465627,-89.2600605
+726,2191,Flux Core,"nan, Hamilton, New Jersey",40.190796,-74.677988
+733,2194,Fondy Fire,"Fond du Lac, Wisconsin",43.7533414,-88.4493796
+734,2197,Las Pumas,"New Carlisle, Indiana",41.7003231,-86.5094621
+735,2199,Robo-Lions,"Eldersburg, Maryland",39.413745899999995,-76.94741879611917
+736,2202,BEAST Robotics,"Brookfield, Wisconsin",43.0578479,-88.1261984
+737,2204,Rambots,"Alameda, California",37.6090291,-121.899142
+738,2207,Bright Bears,"White Bear Lake, Minnesota",45.0838098,-93.0069304
+739,2220,Blue Twilight ,"Eagan, Minnesota",44.818173,-93.1659179
+740,2221,FHS Robodawgs,"Mandeville , Louisiana",30.3582305,-90.0657477
+741,2224,RoboPhoenix,"DETROIT, Michigan",42.3315509,-83.0466403
+742,2225,R.U.S.T,"Anoka, Minnesota",45.2710195,-93.2827625
+743,2227,Tigers,"Fridley, Minnesota",45.0838291,-93.2590388
+744,2228,CougarTech,"Honeoye Falls, New York",42.9522855,-77.5902759
+742,2232,Deus ex Machina,"Anoka, Minnesota",45.2710195,-93.2827625
+695,2234,Alternating Current,"Newtown Square, Pennsylvania",39.9868117,-75.4007633
+747,2239,Technocrats,"Minnetonka, Minnesota",44.9405086,-93.4638936
+440,2240,Brute Force,"Denver, Colorado",39.7392364,-104.984862
+749,2246,The Army of Sum,"Johannesburg, Michigan",44.9855663,-84.4558515
+750,2252,The Mavericks,"Milan, Ohio",41.2975519,-82.6054547
+440,2259,1/4 Twenties,"Denver, Colorado",39.7392364,-104.984862
+523,2261,Casa Robotics,"Longmont, Colorado",40.1672117,-105.1019287
+753,2262,Robo-Panthers,"Holliston, Massachusetts",42.2000966,-71.4245049
+754,2264,Wayzata Robotics,"Plymouth, Minnesota",45.0065149,-93.46651
+181,2265,Fe Maidens,"Bronx, New York",40.8466508,-73.8785937
+756,2333,S.C.R.E.E.C.H.,"Sapulpa, Oklahoma",36.0005035,-96.1049612
+757,2335,Sargon,"Prairie Village, Kansas",38.9914109,-94.6332768
+758,2337,EngiNERDs,"Grand Blanc, Michigan",42.9275277,-83.6299518
+759,2338,Gear It Forward,"Oswego, Illinois",41.6834778,-88.3525714
+182,2339,Robolopes,"Lancaster, California",34.6981064,-118.1366153
+30,2340,Xcentrics,"nan, Rochester, New York",43.1100257,-77.54586782478958
+762,2341,Sprockets,"Shawnee, Oklahoma",35.3272928,-96.9253004
+72,2342,Team Phoenix,"Nashua, New Hampshire",42.7656251,-71.4677032
+764,2344,The Saunders Droid Factory ,"Yonkers, New York",40.9312099,-73.8987469
+765,2345,Animal Control,"Kearney, Missouri",39.3731886,-94.3621376
+589,2346,Cel-Techs,"Kansas City, Missouri",39.100105,-94.5781416
+767,2347,Metal Mercs,"Copiague, New York",40.6840538,-73.4008102
+173,2348,Cool Geeks,"Honolulu, Hawaii",21.304547,-157.855676
+769,2352,Metal Mayhem,"Ada, Oklahoma",34.7743383,-96.6783651
+589,2353,The Legion,"Kansas City, Missouri",39.100105,-94.5781416
+771,2354,Red River Robotics,"Duncan, Oklahoma",34.5023029,-97.9578129
+772,2357,System Meltdown,"Peculiar, Missouri",38.7145481,-94.4611204
+773,2358,Bearbotics,"Lake Zurich, Illinois",42.1969689,-88.0934108
+774,2359,RoboLobos,"Edmond, Oklahoma",35.6571367,-97.4649038
+114,2360,Tech Titan's POWER-Storm,"Indianapolis, Indiana",39.7683331,-86.1583502
+776,2363,Triple Helix,"Newport News, Virginia",36.9775016,-76.42977
+337,2367,Lancer Robotics,"Mountain View, California",37.3893889,-122.0832101
+778,2370,iBots,"Rutland, Vermont",43.6063341,-72.9802826
+779,2373,The Crickets,"Fort Cobb, Oklahoma",35.097838,-98.4356131
+461,2374,Crusader Bots,"Portland, Oregon",45.5202471,-122.674194
+303,2375,Dragon Robotics,"Phoenix, Arizona",33.4484367,-112.074141
+782,2377,C Company,"Pasadena, Maryland",39.155815950000004,-76.55288309143504
+783,2382,The Leopard Legion,"Colbert, Oklahoma",33.856108500000005,-96.50452625646965
+784,2383,Ninjineers,"nan, Plantation, Florida",15.0412785,120.67711173737895
+785,2388,Pirate Robotics,"Sperry, Oklahoma",36.2921,-95.96902871994789
+469,2393,Robotichauns,"Knoxville, Tennessee",35.9603948,-83.9210261
+505,2395,OKC 4-H Robotics - Ninja Monkees,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+788,2398,Tech Walkers,"Tahlequah, Oklahoma",35.91537,-94.969956
+789,2399,The Fighting Unicorns,"Shaker Heights, Ohio",41.4739419,-81.5370671
+790,2403,Plasma Robotics,"nan, Mesa, Arizona",33.4122787,-111.8739828
+791,2404,TNT,"Altadena, California",34.1863161,-118.1352329
+792,2405,Techno Trojans,"Fruitport, Michigan",43.13067,-86.154682
+793,2408,Shrapnel Sergeants,"Hazelwood, Missouri",38.7761446,-90.3715909
+329,2410,Blue Valley CAPS Metal Mustang Robotics,"nan, Overland Park, Kansas",38.9265622,-94.7211894
+461,2411,Rebel @lliance,"Portland, Oregon",45.5202471,-122.674194
+205,2412,Robototes,"Bellevue, Washington",47.6144219,-122.192337
+456,2415,WiredCats,"Atlanta, Georgia",33.7489924,-84.3902644
+798,2421,RTR Team Robotics,"Burke, Virginia",38.778416,-77.27496377315485
+799,2423,The KwarQs,"Watertown, Massachusetts",42.3709299,-71.1828321
+800,2424,Robot Mafia,"Bixby, Oklahoma",35.9420431,-95.8833235
+801,2429,La Canada Engneerng Cub,"nan, La Cañada, California",-23.4093758,-51.9611986
+173,2437,Lancer Robotics,"Honolulu, Hawaii",21.304547,-157.855676
+173,2438,'Iobotics,"Honolulu, Hawaii",21.304547,-157.855676
+804,2439,Bearbotics,"Wailuku, Hawaii",20.8894684,-156.5089397899955
+173,2441,Spartechs,"Honolulu, Hawaii",21.304547,-157.855676
+806,2443,Blue Thunder,"Kahului, Hawaii",20.8747708,-156.4529879461996
+173,2444,Kamehameha RoboWarriors,"Honolulu, Hawaii",21.304547,-157.855676
+808,2445,RoboKAP,"Kapolei, Hawaii",21.3340079,-158.077849
+474,2449,Out of Orbit Robotics,"Tempe, Arizona",33.4255117,-111.9400164
+810,2450,Raiderbots,"St. Paul, Minnesota",44.9497487,-93.0931028
+811,2451,PWNAGE,"Saint Charles, Illinois",41.9139808,-88.3128183
+812,2457,The Law,"Lawson, Missouri",39.4383387,-94.2041096
+813,2458,Team Chaos,"Gladstone, New Jersey",40.7202907,-74.6662746
+814,2461,METAL-SKINS,"OKC, Oklahoma",35.3848053,-97.60534425082406
+815,2465,Kauaibots,"Lihue, Hawaii",21.9769622,-159.3687721
+184,2468,Team Appreciate,"Austin, Texas",30.2711286,-97.7436995
+817,2470,Team BJORG,"Bloomington, Minnesota",44.8322405,-93.3204872
+818,2471,Team Mean Machine,"nan, Camas, Washington",45.5927308,-122.4656021
+819,2472,Centurions,"Circle Pines, Minnesota",45.144882,-93.1553635
+52,2473,Goldstrikers,"Cupertino, California",37.3228934,-122.0322895
+821,2474,Excel,"Niles, Michigan",41.8297694,-86.2541768
+822,2477,Rascal Robotics,"Waipahu, Hawaii",21.3866667,-158.009166
+790,2478,Westwood Robotics,"nan, Mesa, Arizona",33.4122787,-111.8739828
+700,2479,Phoenix,"Minneapolis, Minnesota",44.9772995,-93.2654692
+700,2480,Teddies,"Minneapolis, Minnesota",44.9772995,-93.2654692
+826,2481,Roboteers,"Tremont, Illinois",40.5275392,-89.4925979
+827,2484,Team Implosion,"Woods Cross, Utah",40.8716501,-111.8921598
+291,2485,WARLords,"nan, San Diego, California",-53.16129205,-70.93304406533326
+829,2486,CocoNuts,"Flagstaff, Arizona",35.1816047,-111.6165953319917
+830,2487,Mechanical Animals,"Sayville, New York",40.7359317,-73.0820556
+831,2489,The Insomniacs,"Fremont, California",37.5482697,-121.988571
+810,2491,No Mythic,"St. Paul, Minnesota",44.9497487,-93.0931028
+833,2493,Robokong,"nan, Riverside, California",33.8908251,-117.2233955
+726,2495,Hive Mind,"nan, Hamilton, New Jersey",40.190796,-74.677988
+835,2496,Tru Blu Robotics,"nan, Irvine, California",33.6964686,-117.839047
+700,2498,BearBotics,"Minneapolis, Minnesota",44.9772995,-93.2654692
+837,2499,Industrial Revolution,"Hibbing, Minnesota",47.427155,-92.937689
+700,2500,Herobotics,"Minneapolis, Minnesota",44.9772995,-93.2654692
+839,2501,Bionic Polars,"North St. Paul, Minnesota",45.0122571,-92.9922512
+840,2502,Talon Robotics,"Eden Prairie, Minnesota",44.8546856,-93.470786
+841,2503,Warrior Robotics,"Brainerd , Minnesota",46.3580221,-94.2008288
+173,2504,The Governors,"Honolulu, Hawaii",21.304547,-157.855676
+843,2506,Saber Robotics,"Franklin, Wisconsin",42.888627,-88.0384195
+844,2508,Armada,"Stillwater, Minnesota",45.0564041,-92.8134982
+845,2509,Tigerbots,"Hutchinson , Minnesota",44.8877401,-94.3697057
+846,2511,Cougars,"Lakeville, Minnesota",44.650051,-93.2432791
+847,2512,Duluth East Daredevils,"Duluth, Minnesota",46.7729322,-92.1251218
+700,2513,T.E.R.T.O.L.A.,"Minneapolis, Minnesota",44.9772995,-93.2654692
+849,2515,TigerBots,"nan, Marshall, Minnesota",45.7355301,-97.0370021
+850,2518,Spartans,"Inver Grove Heights, Minnesota",44.8479039,-93.0428119
+851,2521,SERT,"Eugene, Oregon",44.0505054,-123.0950506
+852,2522,Royal Robotics,"Lynnwood, Washington",47.8278656,-122.3053932
+853,2523,Tech Storm,"St. Johnsbury , Vermont",44.4193414,-72.015543
+754,2525,The pHalcons,"Plymouth, Minnesota",45.0065149,-93.46651
+855,2526,Crimson Robotics,"Maple Grove, Minnesota",45.0984983,-93.4419222
+856,2528,RoboDoves,"nan, Baltimore, Maryland",39.2549122,-76.6836589
+810,2529,Robohawks,"St. Paul, Minnesota",44.9497487,-93.0931028
+858,2530,Inconceivable,"Rochester, Minnesota",44.0234387,-92.4630182
+859,2531,RoboHawks,"Chaska, Minnesota",44.7894072,-93.6021791
+860,2532,FLASH Power,"Forest Lake, Minnesota",45.279106,-92.9851629
+861,2534,Lumberjack Robotics,"nan, Baltimore , Maryland",39.2549122,-76.6836589
+862,2537,Space RAIDers,"Columbia, Maryland",39.1938429,-76.86460919353361
+863,2538,The Plaid Pillagers,"Morris, Minnesota",45.586072,-95.913941
+864,2539,Krypton Cougars,"Palmyra, Pennsylvania",40.3088578,-76.5932369
+865,2543,TitanBot,"Chula Vista, California",32.6400541,-117.0841955
+866,2544,HCRC,"Harborcreek, Pennsylvania",42.1663637,-79.9526796
+867,2545,Quantum Mechanics,"Columbia Heights, Minnesota",45.0460458,-93.2517802
+700,2549,Millerbots,"Minneapolis, Minnesota",44.9772995,-93.2654692
+869,2550,Skynet,"Oregon City, Oregon",45.3573429,-122.6067583
+870,2551,Penguin Empire,"Novato, California",38.1061979,-122.5681191
+871,2554,The WarHawks,"Edison, New Jersey",40.518157,-74.4113926
+170,2555,RoboRams,"Tacoma, Washington",47.2495798,-122.439874
+873,2556,RadioActive Roaches,"Niceville, Florida",30.5168639,-86.482172
+170,2557,SOTAbots ,"Tacoma, Washington",47.2495798,-122.439874
+875,2559,Normality Zero,"nan, Harrisburg, Pennsylvania",43.443189,-96.708518
+876,2560,RoboDog,"Grandview, Missouri",38.8898478,-94.5313816
+877,2574,RoboHuskie,"St. Anthony Village, Minnesota",44.6480803,-93.2154337
+878,2577,Pingry Robotics,"Basking Ridge, New Jersey",40.7064088,-74.5492725
+879,2579,LIC Robodogs,"nan, New York , New York",40.7550963,-73.4763586
+880,2582,PantherBots,"Lufkin, Texas",31.3386242,-94.7288558
+184,2583,RoboWarriors,"Austin, Texas",30.2711286,-97.7436995
+882,2585,Impact,"Bellaire, Texas",29.7057858,-95.4588299
+883,2586,Copper Bots,"Calumet, Michigan",47.246592,-88.454006
+19,2587,DiscoBots,"nan, Houston, Texas",29.825009,-95.478675
+885,2590,Nemesis,"Robbinsville, New Jersey",40.218974,-74.6276275
+552,2591,RedTails,"Detroit, Michigan",42.3315509,-83.0466403
+887,2594,Naskcorpions,"Nampa, Idaho",43.5737361,-116.559631
+888,2600,Team Falcon,"Oak Ridge, New Jersey",41.0462085,-74.4859898
+889,2601,Steel Hawks,"nan, Flushing, New York",40.7595245,-73.8324278
+890,2603,Highland Robotics,"Medina, Ohio",41.1000764,-81.9382517
+891,2604,Metal and Soul,"Capac, Michigan",43.0125274,-82.9279881
+892,2605,Sehome Seamonsters,"Bellingham, Washington",48.7544012,-122.478836
+893,2606,Irish Robotics,"Rosemount, Minnesota",44.7391873,-93.12611
+894,2607,The Fighting RoboVikings,"Warminster , Pennsylvania",40.2067751,-75.0996159
+895,2611,Jacktown Vectors,"Jackson, Michigan",42.2416466,-84.425589
+896,2612,The Corsairs,"Waterford, Michigan",42.7022527,-83.402718
+897,2613,PROTOBOTS,"Van Horn, Texas",31.0429718,-104.831628
+898,2614,MARS,"Morgantown, West Virginia",39.6296809,-79.9559437
+899,2619,The Charge,"Midland, Michigan",43.6155825,-84.2472117
+900,2620,Titans,"Southgate, Michigan",42.2037103,-83.2067556
+901,2632,The Theoreticals,"Amherst, Ohio",41.3978217,-82.2223775
+902,2635,Lake Monsters,"Lake Oswego, Oregon",45.4206749,-122.670649
+903,2637,Phantom Catz,"Rolling Hills Estates, California",33.7877943,-118.3581284
+904,2638,Rebels,"Great Neck, New York",40.8006567,-73.7284647
+905,2640,HOTBOTZ,"Reidsville, North Carolina",36.3548586,-79.6644748
+54,2641,PCCR,"Pittsburgh, Pennsylvania",40.4416941,-79.9900861
+907,2642,Pitt Pirates,"Winterville, North Carolina",35.5290511,-77.4010762
+125,2643,Dark Matter,"nan, San Jose, California",37.3565689,-121.9011479
+303,2647,Cyborg Mustangs,"Phoenix, Arizona",33.4484367,-112.074141
+910,2648,Infinite Loop,"Oakland, Maine",44.5403436,-69.7219916
+911,2654,Rams,"Roseau, Minnesota",48.7710371,-95.7697882
+912,2655,The Flying Platypi,"Colfax, North Carolina",36.1126365,-80.0144842
+913,2656,Quasics,"Monroeville, Pennsylvania",40.4211798,-79.7881025
+914,2657,Team Thundercats,"Deming, New Mexico",32.2627416,-107.7581979
+291,2658,The Pedestrians,"nan, San Diego, California",-53.16129205,-70.93304406533326
+916,2659,RoboWarriors,"Mission Hills, California",34.687584,-120.43901754304565
+917,2660,Pengbots,"Tulalip, Washington",48.071385500000005,-122.26486740245815
+918,2662,Robo Krew,"Tolleson, Arizona",33.4500497,-112.259309
+919,2667,Knights of the Valley,"Apple Valley, Minnesota",44.7319094,-93.21772
+552,2673,Tenacious Technicians,"Detroit, Michigan",42.3315509,-83.0466403
+921,2676,Ecorse Robo Raiders,"Ecorse, Michigan",42.2444833,-83.145757
+907,2682,Boneyard Robotics,"Winterville, North Carolina",35.5290511,-77.4010762
+923,2704,Order 2 Chaos,"Batavia, Illinois",41.8500284,-88.3125738
+840,2705,WE ROBOT,"Eden Prairie, Minnesota",44.8546856,-93.470786
+326,2707,Team ,"St. Louis, Missouri",38.6280278,-90.1910154
+45,2709,Iron Wolves,"Chicago, Illinois",41.8755616,-87.6244212
+927,2713,iRaiders,"Melrose, Massachusetts",42.4564323,-71.064182
+928,2721,Blue mite,"Lasara, Texas",26.4647894,-97.9111115
+505,2723,Team Rocket,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+45,2725,Ice Princesses,"Chicago, Illinois",41.8755616,-87.6244212
+931,2729,Storm Robotics Team,"Marlton, New Jersey",39.9005585,-74.93389105589023
+461,2733,Pigmice,"Portland, Oregon",45.5202471,-122.674194
+459,2761,IronHorse Robotics,"Fresno, California",36.7394421,-119.7848307
+576,2765,Radioactive Robotics,"Norman, Oklahoma",35.2225717,-97.4394816
+546,2767,Stryke Force,"Kalamazoo, Michigan",42.291707,-85.5872286
+936,2771,Code Red Robotics the Stray Dogs,"Grandville , Michigan",42.909598,-85.7630956
+774,2773,IRONDOGZ,"Edmond, Oklahoma",35.6571367,-97.4649038
+938,2781,RoboPRIDE,"Burbank, Illinois",41.741406,-87.7686078
+939,2783,Engineers of Tomorrow ,"Mount Washington, Kentucky",38.0500627,-85.5457877
+940,2785,Prometheus,"Kent, Connecticut",41.64718235,-73.48389433497866
+941,2789,TEXPLOSION,"Manor, Texas",30.3420882,-97.555905
+942,2791,Shaker Robotics,"Latham, New York",42.7444055,-73.761563
+943,2795,Ohm's Claw,"Broken Arrow, Oklahoma",36.0525993,-95.7908195
+944,2797,Knight & Nerdy,"nan, Clermont, Florida",28.544545,-81.764016
+945,2805,Ghost in the Machine,"Waxahachie, Texas",32.3944908,-96.8439365
+946,2811,StormBots,"Vancouver, Washington",45.6306954,-122.6744557
+257,2813,Gear Heads,"Saratoga, California",37.2638324,-122.0230146
+425,2815,Blue Devil Mechanics,"nan, Columbia, South Carolina",33.9970244,-81.0272443
+949,2819,Team Dynamite,"Oxon Hill, Maryland",38.784824900000004,-76.9694015528087
+950,2823,The Automatons,"St Paul, Minnesota",44.9497487,-93.0931028
+951,2825,Roc Robotics,"Vadnais Heights, Minnesota",45.0574659,-93.0738306
+952,2826,Wave Robotics,"Oshkosh, Wisconsin",44.0206919,-88.5408574
+953,2827,Crown City Robotics,"Coronado, California",32.6915199,-117.1766947
+544,2830,Riverside RoboTigers,"Milwaukee, Wisconsin",43.0349931,-87.922497
+955,2832,The Livonia  Warriors,"Livonia, Michigan",42.36837,-83.3527097
+200,2834,Bionic Black Hawks,"nan, Bloomfield Hills, Michigan",42.56818905,-83.25269190979894
+957,2836,Team Beta,"Woodbury, Connecticut",41.7984283,-73.3487302
+958,2838,Eaglebots,"Chesterfield, Missouri",38.661953,-90.5643258
+959,2839,The Daedalus Project,"Escondido, California",33.1216751,-117.0814849
+960,2840,Blue Tide,"Paradise Valley, Arizona",33.5428006,-111.9556001
+961,2844,Stampede Robotics,"Laveen, Arizona",33.3618814,-112.1533861
+962,2846,FireBears,"Roseville, Minnesota",45.0060767,-93.1566107
+963,2847,The MegaHertz,"Fairmont, Minnesota",43.6521775,-94.4610832
+964,2848,The All Sparks,"nan, Dallas, Texas",32.8715045,-96.77796664864864
+862,2849,Ursa Major,"Columbia, Maryland",39.1938429,-76.86460919353361
+102,2851,Crevolution,"nan, Sterling Heights, Michigan",42.553677,-82.972121
+967,2853,Hot Spot Robotics,"Mililani, Hawaii",21.4508308,-158.0095783
+125,2854,The Prototypes,"nan, San Jose, California",37.3565689,-121.9011479
+969,2855,BEASTBOT,"Saint Paul, Minnesota",44.9497487,-93.0931028
+970,2856,Planetary Drive,"nan, Lexington, Kentucky",33.9491937,-81.1181813
+971,2861,Infinity's End,"nan, Lake City, Minnesota",-32.9684655,151.6594999
+972,2867,ElkLogics,"Elkhart, Indiana",41.6012796,-85.8590603
+973,2869,Regal Eagles,"nan, Bethpage, New York",40.7550963,-73.4763586
+666,2872,CyberCats,"Old Westbury, New York",40.7887113,-73.5995717
+975,2874,Iron Eagles,"Grain Valley , Missouri",39.0187651,-94.1976452
+976,2875,CyberHawks,"Cold Spring Harbor, New York",40.8714873,-73.456788
+977,2876,Devilbotz,"Burlington, Massachusetts",42.5048167,-71.1956111
+978,2877,LigerBots,"Newton, Massachusetts",42.3370414,-71.2092214
+979,2879,Orange Thunder,"St. Louis Park, Minnesota",44.9475726,-93.3569023
+184,2881,Lady Cans,"Austin, Texas",30.2711286,-97.7436995
+252,2882,Nuts n Boltz,"Katy, Texas",29.7857853,-95.8243956
+982,2883,F.R.E.D (Fighting Rednecks Engineering and Design),"Warroad, Minnesota",48.905266,-95.314404
+983,2890,The Hawk Collective,"Chesapeake, Virginia",36.7183708,-76.2466798
+984,2895,Blazenbots,"Far Rockaway, New York",40.6053825,-73.7551326
+173,2896,MechaMonarchs,"Honolulu, Hawaii",21.304547,-157.855676
+986,2897,Raven Robotics,"Waco, Texas",31.549333,-97.1466695
+247,2900,The Mighty Penguins,"nan, Washington, District of Columbia",38.895847950000004,-77.03654431512868
+988,2903,NeoBots,"nan, Arlington, Washington",44.3588607,-97.1326767
+989,2906,Sentinel Prime Robotics,"Spanaway, Washington",47.0979462,-122.4243422
+990,2907,Lion Robotics,"Auburn, Washington",47.3075369,-122.2301808
+991,2909,Zebra Bots,"Rochester, Indiana",41.0648846,-86.2159959
+992,2910,Jack in the Bot,"Mill Creek, Washington",47.8577455,-122.2210628
+247,2911,CoolBots,"nan, Washington, District of Columbia",38.895847950000004,-77.03654431512868
+247,2912,Panthers,"nan, Washington, District of Columbia",38.895847950000004,-77.03654431512868
+247,2914,TIGER PRIDE ,"nan, Washington, District of Columbia",38.895847950000004,-77.03654431512868
+461,2915,Riverdale Robotics/Pandamonium,"Portland, Oregon",45.5202471,-122.674194
+997,2916,Bionic Bears,"Palm Bay, Florida",27.9946969,-80.6366144
+998,2918,Gearheads,"Jasper, Alabama",33.8312185,-87.2775053
+999,2923,Aggies,"nan, Rosalia, Washington",-23.4920206,-47.446647424306875

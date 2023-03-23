@@ -29,7 +29,7 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     print(f"Compiling latitude and longitude of teams from {year}")
 
     team_locations = pd.DataFrame()
-    geolocator = Nominatim(user_agent="FRG")
+    geolocator = Nominatim(user_agent="FRC")
 
     df = pd.read_csv(f"FRC{year}.csv")
     location_df = df[["city", "stateProv", "schoolName", "teamNumber", "nameShort"]]
@@ -86,4 +86,4 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     return team_locations
 
 
-geo_data(2015, 2500, 3000)
+geo_data(2016, 2500, 3000)

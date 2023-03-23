@@ -1,0 +1,18 @@
+---
+jupyter: python3
+---
+
+```{python}
+%load_ext autoreload
+%autoreload 2
+```
+
+```{python}
+import generate_usa_map as usmap
+```
+
+```{python}
+_2015map = usmap.usa_map(2015)
+_2015map.save("2015map.html")
+```
+
