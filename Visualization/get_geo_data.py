@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 
-def geo_data(year: int) -> pd.DataFrame:
+def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
 
     """
     Take a list of locations and return a
@@ -29,10 +29,10 @@ def geo_data(year: int) -> pd.DataFrame:
     print(f"Compiling latitude and longitude of teams from {year}")
 
     team_locations = pd.DataFrame()
-    geolocator = Nominatim(user_agent="FRCdata")
+    geolocator = Nominatim(user_agent="FRG")
 
     df = pd.read_csv(f"FRC{year}.csv")
-    location_df = df[["city", "stateProv", "schoolName", "teamNumber"]]
+    location_df = df[["city", "stateProv", "schoolName", "teamNumber", "nameShort"]]
 
     location_list = []
 
@@ -49,14 +49,17 @@ def geo_data(year: int) -> pd.DataFrame:
         state = str(entry["stateProv"])
         location_list.append([original, city_state, state])
 
-    for i, address in enumerate(location_list[3000:]):
+    if len(location_list) <= end:
+        end = len(location_list)
+
+    for i, address in enumerate(location_list[start:end]):
         print(i)
 
         location = None
         address_idx = 0
         while location is None and address_idx < 3:
 
-            location = geolocator.geocode(address[address_idx], timeout=999)
+            location = geolocator.geocode(address[address_idx], timeout=9999)
             address_idx += 1
 
         if location is not None:
@@ -67,7 +70,8 @@ def geo_data(year: int) -> pd.DataFrame:
             longitude = location.longitude
             current_location = pd.DataFrame(
                 {
-                    "teamNumber": location_df.iloc[i + 3000]["teamNumber"],
+                    "teamNumber": location_df.iloc[i + start]["teamNumber"],
+                    "nameShort": location_df.iloc[i + start]["nameShort"],
                     "location": name,
                     "latitude": latitude,
                     "longitude": longitude,
@@ -77,9 +81,9 @@ def geo_data(year: int) -> pd.DataFrame:
             team_locations = pd.concat([team_locations, current_location])
 
     print("Done")
+    print("converting csv")
+    team_locations.to_csv(f"Location/{year}/{start}-{end}.csv")
     return team_locations
 
 
-data = geo_data(2018)
-print("converting csv")
-data.to_csv("2018Location.csv")
+geo_data(2015, 2500, 3000)
