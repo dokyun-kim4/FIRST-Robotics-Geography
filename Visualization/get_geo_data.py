@@ -31,7 +31,7 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     team_locations = pd.DataFrame()
     geolocator = Nominatim(user_agent="FRC")
 
-    df = pd.read_csv(f"FRC{year}.csv")
+    df = pd.read_csv(open(f"FRC{year}.csv", "rU"), engine="c")
     location_df = df[["city", "stateProv", "schoolName", "teamNumber", "nameShort"]]
 
     location_list = []
@@ -96,7 +96,10 @@ def merge_csv(year: int, quantity: int):
     """
     combined = pd.concat(
         [
-            pd.read_csv(f"Location/{year}/{i}.csv", index_col=False)
+            pd.read_csv(
+                f"Location/{year}/{i}.csv",
+                index_col=False,
+            )
             for i in range(quantity)
         ]
     )
@@ -106,5 +109,20 @@ def merge_csv(year: int, quantity: int):
     combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
 
 
-# geo_data(2020, 3000, 4000)
-merge_csv(2020, 4)
+# geo_data(2023, 3000, 4000)
+# time.sleep(10)
+# geo_data(2023, 500, 1000)
+# time.sleep(10)
+# geo_data(2023, 1000, 1500)
+# time.sleep(10)
+# geo_data(2023, 1500, 2000)
+# time.sleep(10)
+# geo_data(2023, 2000, 2500)
+# time.sleep(10)
+# geo_data(2023, 2500, 3000)
+# time.sleep(10)
+# geo_data(2023, 3500, 4000)
+# time.sleep(10)
+# geo_data(2023, 4500, 5000)
+# time.sleep(10)
+merge_csv(2023, 8)
