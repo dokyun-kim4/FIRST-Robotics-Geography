@@ -86,4 +86,25 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     return team_locations
 
 
-geo_data(2016, 2500, 3000)
+def merge_csv(year: int, quantity: int):
+    """
+    Takes csvs in a folder and combines them into one csv file
+
+    Args:
+        year: integer representing which year the data came from
+        quantity: integer representing the # of csvs to combine
+    """
+    combined = pd.concat(
+        [
+            pd.read_csv(f"Location/{year}/{i}.csv", index_col=False)
+            for i in range(quantity)
+        ]
+    )
+    combined = combined[
+        ["teamNumber", "nameShort", "location", "latitude", "longitude"]
+    ]
+    combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
+
+
+# geo_data(2020, 3000, 4000)
+merge_csv(2020, 4)

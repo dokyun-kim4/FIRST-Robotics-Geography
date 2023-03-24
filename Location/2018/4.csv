@@ -1,501 +1,501 @@
-,teamNumber,location,latitude,longitude
-2000,5310,"East Orange, New Jersey",40.767323,-74.2048677
-2001,5314,"Pellston Middle/, Pellston, Michigan",45.55298755,-84.78062099176648
-2002,5316,"Saranac , Saranac, Michigan",42.93200055,-85.21282642914491
-2003,5317,"Westwood , Blythewood, South Carolina",34.1686052,-80.98007763989415
-2004,5326,"St. Louis, Missouri",38.6280278,-90.1910154
-2005,5327,"Winnsboro, South Carolina",34.3807012,-81.0864776
-2006,5329,"School for Advanced Studies - South, Miami, Florida",25.6722222,-80.3761111
-1424,5332,"Decatur, Georgia",30.8736613,-84.5740953
-2008,5338,"Leesburg, Virginia",39.1154496,-77.5645446
-2009,5339,"Houston Secondary, Houston, Minnesota",43.759324500000005,-91.57153240454599
-2010,5340,"Minneapolis, Minnesota",44.9772995,-93.2654692
-2011,5347,"Weston, Massachusetts",42.3667625,-71.3031132
-2012,5348,"Cokato, Minnesota",45.075043,-94.1903675
-2013,5350,"Chicago Hope Academy, Chicago, Illinois",41.870141450000006,-87.68058240117486
-2014,5401,"Bensalem, Pennsylvania",40.1045549,-74.951279
-2015,5403,"Bedford, Indiana",38.8611619,-86.4872149
-2016,5404,"Lansdale, Pennsylvania",40.2414952,-75.2837862
-2017,5407,"AIM ACADEMY, Conshohocken, Pennsylvania",40.05751255,-75.26462113932956
-2018,5410,"Pompano Beach, Florida",26.2378597,-80.1247667
-2019,5411,"Prosper, Texas",33.2385763,-96.7866058
-2020,5413,"Shelby, Ohio",40.3491604,-84.1593008
-2021,5414,"Pearland, Texas",29.5639758,-95.2864299
-2022,5417,"Allen, Texas",33.1031744,-96.6705503
-2023,5418,"Hubbard , Hubbard, Ohio",41.1512113,-80.5822823
-2024,5419,"Berkeley , Berkeley, California",37.8701007,-122.2681385
-2025,5420,"Bridgeton, New Jersey",39.427337,-75.2340768
-2026,5421,"Birch Wathen Lenox School, New York, New York",40.77246445,-73.95772033259894
-2027,5422,"Westford, Massachusetts",42.5792583,-71.4378411
-2028,5424,"Midland, Michigan",43.6155825,-84.2472117
-2029,5427,"Obra D. Tompkins , Katy, Texas",29.73292725,-95.81445760989502
-2030,5429,"Sierra Vista , Las Vegas, Nevada",36.050090100000006,-115.26785675004851
-2031,5430,"Pittsburg, California",38.0181745,-121.8901232
-2032,5431,"Plano, Texas",33.0136764,-96.6925096
-2033,5434,"Faribault, Minnesota",43.6647961,-93.9510501
-2034,5436,"Stoney Creek , Rochester, Michigan",42.69591965,-83.11670940538848
-2035,5437,"Booneville , Booneville, Arkansas",35.1494531,-93.8661682
-2036,5438,"Jersey City, New Jersey",40.7215682,-74.047455
-2037,5442,"Washington Comm , Washington, Illinois",40.7063735,-89.41952650954076
-2038,5447,"Unionville-Sebewaing , Sebewaing, Michigan",43.6953288,-83.4611629
-2039,5448,"Big Rapids, Michigan",43.698078,-85.483656
-2040,5450,"St Helens , Saint Helens, Oregon",45.84455165,-122.83913396884058
-2041,5454,"Rogers, Arkansas",36.3320197,-94.1185366
-2042,5457,"Burlington Twp High, Burlington, New Jersey",40.06356855,-74.83632621639289
-2043,5458,"Woodland, California",38.6786109,-121.7733285
-2044,5459,"Ipswich High, Ipswich, Massachusetts",42.68901,-70.8524735
-539,5460,"Lapeer Community , Lapeer, Michigan",43.0688078,-83.331969
-2046,5461,"Boise, Idaho",43.6166163,-116.200886
-2047,5462,"Paw Paw , Paw Paw, Michigan",42.2178171,-85.8911246
-2048,5464,"Cambridge-Isanti , Cambridge, Minnesota",45.5598576,-93.2641825
-2049,5465,"Chandler, Arizona",33.3062031,-111.8411851
-2050,5467,"Fordson , Dearborn, Michigan",42.29403215,-83.14781382504574
-2051,5468,"Summit , Bend, Oregon",44.0562628,-121.3610487039112
-2052,5470,"Coopersville , Coopersville, Michigan",43.076827699999996,-85.94082571844811
-2053,5471,"Winthrop , Winthrop, Maine",44.3047913,-69.9214382
-2054,5472,"Delray Beach, Florida",26.4614625,-80.0728201
-2055,5473,"West Michigan Aviation Academy, Grand Rapids, Michigan",42.8847299,-85.5344723
-2056,5474,"Clairemont High, San Diego, California",32.809223349999996,-117.20394065648388
-2057,5477,"Vista, California",33.2000368,-117.2425355
-2058,5478,"Pershing , Detroit, Michigan",42.4370826,-83.0699429
-2059,5480,"Reno, Nevada",39.5261206,-119.8126581
-2060,5482,"The Lovett School, Atlanta, Georgia",33.860779449999995,-84.45014000366004
-2061,5484,"South Bend, Indiana",41.6833813,-86.2500066
-2062,5486,"Lake Linden-Hubbell , Lake Linden, Michigan",47.1940052,-88.407427
-2063,5490,"Moravian Academy, Bethlehem, Pennsylvania",40.62102245,-75.37815481103739
-2064,5491,"Winchendon, Massachusetts",42.6587935,-72.0490326
-2065,5492,"Louisville, Kentucky",38.2542376,-85.759407
-2066,5493,"Englewood, Colorado",39.6482059,-104.9879641
-2067,5494,"Holbrook, Massachusetts",42.1552232,-71.008958
-2068,5496,"Vacaville, California",38.3565773,-121.9877444
-2069,5498,"Grosse Ile , Grosse Ile, Michigan",42.1381749,-83.15412265585888
-2070,5499,"Berkeley, California",37.8708393,-122.272863
-2071,5500,"Long Beach, California",33.7690164,-118.191604
-2072,5501,"Burr Oak , Burr Oak, Michigan",41.847272,-85.3185899
-2073,5502,"Jonesville , Jonesville, Michigan",41.9854803,-84.6818726
-2074,5503,"Smithville, Texas",30.0056275,-97.1559077
-2075,5504,"Pinconning , Pinconning , Michigan",43.8590577,-83.9611987
-2076,5505,"Alpena , Alpena, Michigan",45.0616794,-83.4327528
-2077,5506,"Searsport District , Searsport, Maine",44.463783,-68.92687498631268
-2078,5507,"George Washington High, San Francisco, California",37.77847585,-122.49107259757233
-2079,5508,"Knoxville, Tennessee",35.9603948,-83.9210261
-2080,5509,"Midland , Midland, Michigan",43.6155825,-84.2472117
-2081,5510,"Los Angeles, California",34.0536909,-118.242766
-2082,5511,"Cary, North Carolina",35.7882893,-78.7812081
-2083,5514,"Carlsbad, California",33.1580933,-117.3505966
-2084,5517,"Madison Academy - , Burton, Michigan",42.9835097,-83.61750615299148
-2085,5518,"Apex, North Carolina",35.7325352,-78.8505516
-2086,5523,"Grass Lake , Grass Lake, Michigan",42.2508691,-84.2130083
-2087,5524,"Birch Run , Birch Run, Michigan",43.250859,-83.794131
-2088,5525,"Lincoln, Michigan",44.684735,-83.412194
-2089,5527,"Flint, Michigan",43.0161693,-83.6900211
-2090,5530,"Greenhills School, Ann Arbor, Michigan",42.2854038,-83.67835424079865
-2091,5531,"Dearborn , Dearborn, Michigan",42.3070364,-83.23521
-2092,5532,"Detroit, Michigan",42.3315509,-83.0466403
-2093,5533,"Clio , Clio, Michigan",43.1769551,-83.73651475720573
-2094,5534,"Onaway, Michigan",45.357512,-84.223903
-2095,5535,"New Buffalo, Michigan",41.7952562,-86.7444526
-2096,5538,"Swan Valley , Saginaw, Michigan",43.4108595,-84.077756
-2097,5539,"Desert View , Tucson, Arizona",32.1364454,-110.90494830963635
-2098,5541,"Shakopee, Minnesota",44.7980186,-93.5268986
-2099,5542,"Buffalo, Minnesota",45.1719084,-93.8746941
-2100,5544,"Vass, North Carolina",35.2562684,-79.2822491
-2101,5546,"Petersburg, Virginia",37.227928,-77.4019268
-2102,5547,"Hale , Hale, Michigan",44.3776881,-83.806804
-2103,5549,"Marshall High, Falls Church, Virginia",38.9063647,-77.21252786888141
-2104,5550,"Bethany Hs, Bethany, Oklahoma",35.5147327,-97.6319164
-2105,5555,"Warren, Michigan",42.4932575,-83.0062746
-2106,5556,"Amesbury, Massachusetts",42.8579536,-70.9300921
-2107,5557,"Miami, Florida",25.7741728,-80.19362
-2108,5559,"Camden-Frontier , Camden, Michigan",41.781438,-84.7063438
-2109,5560,"Central Lake, Michigan",45.0701616,-85.2641566
-2110,5561,"Flushing , Flushing, Michigan",43.07274785,-83.86055096837607
-2111,5562,"Maple City, Michigan",44.8555843,-85.8557538
-2112,5563,"Lynn, Massachusetts",42.466763,-70.9494939
-2113,5567,"Milan , Milan, Michigan",42.094765800000005,-83.66873350846663
-2114,5568,"Bentonville, Arkansas",36.3728538,-94.2088172
-2115,5572,"Lee H S, San Antonio, Texas",29.502288,-98.490552
-2116,5576,"Spirit Lake , Spirit Lake, Iowa",43.4226237,-95.1117229
-2117,5577,"Detroit Cristo Rey , Detroit, Michigan",42.31642405,-83.10182012610741
-2118,5578,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
-2119,5582,"Sharpsburg, Georgia",33.3392842,-84.6485417
-2120,5583,"Rosati-Kain , Saint Louis, Missouri",38.64197655,-90.2534426836875
-2121,5586,"Kiel High, Kiel, Wisconsin",43.9241596,-88.0320402
-2122,5587,"Alexandria, Virginia",38.8051095,-77.0470229
-2123,5588,"Holy Names Academy, Seattle, Washington",47.62607555,-122.30418194524279
-2124,5590,"Buffalo, New York",42.8867166,-78.8783922
-2125,5595,"New Richmond High, New Richmond, Wisconsin",45.0981285,-92.52820753409964
-2126,5599,"Bayside, New York",40.76639995,-73.7738780089654
-2127,5603,"Auburn, Michigan",43.603358,-84.069705
-2128,5607,"Wakefield High, Raleigh, North Carolina",35.94706935000001,-78.57184574826069
-2129,5608,"Lassiter , Marietta, Georgia",34.04382535,-84.47398560292345
-2130,5610,"Saugatuck , Saugatuck, Michigan",42.69812775,-86.20376127686171
-2131,5611,"Verden, Oklahoma",35.0833963,-98.0878254
-2132,5612,"Burton, Michigan",42.9897333,-83.6335032
-2133,5613,"Alamogordo, New Mexico",32.9046474,-105.941835
-2134,5616,"Fort Walton Beach, Florida",30.4057552,-86.618842
-2135,5619,"Jalen Rose Leadership Academy, Detroit, Michigan",42.44182015,-83.19475950720539
-2136,5621,"North Hs, Edmond, Oklahoma",35.67060725,-97.48446633881801
-2137,5622,"Stanton, Michigan",43.292532,-85.081407
-2138,5623,"Galesburg-Augusta , Galesburg, Michigan",42.282164050000006,-85.4266048751089
-2139,5624,"South Plainfield High, South Plainfield, New Jersey",40.589156849999995,-74.4124150969931
-2140,5625,"Wailuku, Hawaii",20.8894684,-156.5089397899955
-2141,5626,"Central , Norwood Young America, Minnesota",44.783553,-93.916581
-2142,5627,"Southwest Senior High, San Diego, California",32.56836035,-117.08131698268488
-2143,5632,"Appling, Georgia",31.7771435,-82.2996274
-2144,5633,"Hyde School, Bath, Maine",43.9050799,-69.8228246
-2145,5634,"Lakewood, California",33.8503463,-118.117191
-2146,5637,"Minneapolis, Minnesota",44.9772995,-93.2654692
-2147,5638,"Madison, Minnesota",45.009685,-96.195877
-2148,5639,"Pharr, Texas",26.1947962,-98.1836216
-2149,5641,"Byron Area , Byron, Michigan",42.82687695,-83.9500140473186
-2150,5642,"Mumford , Detroit, Michigan",42.42140915,-83.1632856
-2151,5651,"Atlanta, Georgia",33.7489924,-84.3902644
-2152,5653,"Babbitt, Minnesota",47.7087143,-91.9440871
-2153,5657,"Niobrara County , Lusk, Wyoming",42.75280105,-104.45480406998908
-2154,5658,"Stephen-Argyle Central , Stephen, Minnesota",48.450727549999996,-96.87957248093534
-2155,5659,"Bridgehampton School, Bridgehampton, New York",40.9375691,-72.29474265032835
-2156,5660,"Atherton , Burton, Michigan",42.990511,-83.5701235
-2157,5661,"Whittemore, Michigan",44.23363,-83.803042
-2158,5662,"Dryden , Dryden, Michigan",42.9461395,-83.1238265
-2159,5664,"Muskegon , Muskegon, Michigan",43.2341813,-86.2483921
-2160,5666,"Trenton, New Jersey",40.2205944,-74.7597219
-2161,5667,"New Albany , New Albany, Ohio",40.08417005,-82.81487690244485
-2162,5669,"Rosemead, California",34.0676169,-118.0879763
-2163,5674,"Eaton Rapids, Michigan",42.5092039,-84.655814
-2164,5675,"Mattawan , Mattawan, Michigan",42.2135045,-85.79941459395604
-2165,5676,"Hillsdale , Hillsdale, Michigan",41.9200472,-84.6305101
-2166,5678,"Valley Glen, California",34.1826379,-118.4138666
-2167,5679,"Winston Salem, North Carolina",36.0998131,-80.2440518
-2168,5681,"Southwest H S, San Antonio, Texas",29.356596,-98.5268685
-2169,5682,"North Mesquite H S, Mesquite, Texas",26.23615,-97.935725
-2170,5683,"Auburn Riverside , Auburn, Washington",47.26685895,-122.22318006350778
-2171,5684,"Trenton, New Jersey",40.2205944,-74.7597219
-2172,5685,"Litchfield , Litchfield, Michigan",42.0432938,-84.75354775950083
-2173,5686,"Ethel Walker School, Simsbury, Connecticut",41.84815395,-72.83480882181374
-2174,5687,"Portland, Maine",43.6610277,-70.2548596
-2175,5688,"Pittsford Area , Pittsford, Michigan",41.863986,-84.47135309068018
-2176,5690,"Esko , Esko, Minnesota",46.706632,-92.36511992506698
-2177,5695,"Redford, Michigan",42.3833698,-83.2965971
-2178,5697,"Bridgeport , Bridgeport, Michigan",43.3594696,-83.8816364
-2179,5700,"San Francisco, California",37.7790262,-122.419906
-2180,5702,"Wilson, Michigan",45.7052439,-87.4381839
-2181,5706,"Newberry , Newberry, Michigan",46.33140095,-85.50779368193349
-2182,5708,"Community , Ann Arbor, Michigan",42.2631875,-83.66504615555166
-2183,5709,"Rudyard , Rudyard, Michigan",46.232518,-84.6003272
-2184,5710,"Charlotte, Michigan",42.5637369,-84.8355792
-2185,5712,"Hemlock , Hemlock, Michigan",43.4178315,-84.22973591877151
-2186,5713,"Beecher , Mount Morris, Michigan",43.08999154999999,-83.70410762794013
-2187,5714,"Ojibwe Charter School, Brimley, Michigan",46.4503974,-84.6028953
-2188,5720,"Hinckley, Minnesota",46.0113409,-92.9443707
-2189,5721,"Cedar Ridge , Newark, Arkansas",35.7212225,-91.4448396
-2190,5722,"South Walton , Santa Rosa Beach, Florida",30.3602133,-86.2295436
-2191,5724,"Salem High, Salem, Virginia",37.295347500000005,-80.07950895868782
-2192,5726,"San Antonio, Texas",29.4246002,-98.4951405
-2193,5727,"Spindale, North Carolina",35.3601212,-81.929271
-2194,5728,"Maria Carrillo High, Santa Rosa, California",38.48042395,-122.66018374867801
-2195,5729,"Dewitt , De Witt, Arkansas",34.27553455,-91.33578471735282
-2196,5730,"Monett, Missouri",36.9289518,-93.9277149
-2197,5732,"Bloomfield High, Bloomfield, New Jersey",40.7992647,-74.1977116
-2198,5734,"Augusta, Georgia",33.4709714,-81.9748429
-2199,5735,"Wayland , Wayland, Massachusetts",42.34285775,-71.37574432692062
-2200,5736,"Kings Park , Kings Park, New York",40.88373,-73.2544898
-2201,5740,"Cranberry Township, Pennsylvania",40.7099343,-80.1060506
-2202,5744,"Knoxville, Tennessee",35.9603948,-83.9210261
-2203,5746,"Valley Regional , Deep River, Connecticut",41.37104625,-72.44890489379291
-2204,5748,"Adna Middle/, Adna, Washington",46.6303219,-123.0569746
-2205,5752,"Beverly High, Beverly, Massachusetts",42.56468545,-70.88091958423652
-2206,5753,"St. Augustine, Florida",29.8946952,-81.3145395
-2207,5754,"San Antonio, Texas",29.4246002,-98.4951405
-2208,5756,"Detroit, Michigan",42.3315509,-83.0466403
-2209,5762,"Franklin County Schools, Louisburg, North Carolina",36.0847549,-78.3300598443079
-2210,5763,"Legacy , Broomfield, Colorado",39.9455082,-105.02180916270206
-2211,5765,"Esteban Torres , Los Angeles, California",34.0417162,-118.1755432
-2212,5774,"Flint, Michigan",43.0161693,-83.6900211
-2213,5775,"Malakoff, Texas",32.1695965,-96.0124678
-2214,5777,"Sumter Career and Technology Center, Sumter, South Carolina",33.8990917,-80.39528012465837
-2215,5783,"Eunice High, Eunice, New Mexico",32.437809349999995,-103.16445955
-2216,5785,"Baton Rouge, Louisiana",30.4507936,-91.1391153
-2217,5801,"Independence, Missouri",39.0924792,-94.4137923
-2218,5802,"Los Angeles, California",34.0536909,-118.242766
-2219,5803,"Seattle Christian Schools, Seattle, Washington",47.603318200000004,-122.30596249975315
-2220,5804,"Collegiate School, Henrico, Virginia",37.5803643,-77.58612202134988
-2221,5805,"Santa Margarita Catholic , Rancho Santa Margarita, California",33.6435921,-117.58043342274075
-2222,5806,"Horace Mann School, Bronx, New York",40.8932178,-73.89873029047772
-2223,5809,"Rockhurst , Kansas City, Missouri",39.03081885,-94.57067504464628
-2224,5810,"Santa Fe Springs, California",33.9480787,-118.0691499
-2225,5811,"Dayton, Ohio",39.7589478,-84.1916069
-2226,5813,"Concord, New Hampshire",43.207178,-71.537476
-2227,5816,"Orange Technical College, Orlando, Florida",28.55032335,-81.38368834130657
-2228,5817,"Sanger High, Sanger, California",36.70125325,-119.57777875281
-2229,5818,"Santa Barbara, California",34.4221319,-119.702667
-2230,5819,"Key Biscayne, Florida",25.6968351,-80.1635261
-2231,5822,"St Ignatius College Prep, Chicago, Illinois",41.867720899999995,-87.653700750584
-2232,5826,"Chippewa Falls High, Chippewa Falls, Wisconsin",44.9352387,-91.4115467
-2233,5827,"Lake Washington , Kirkland, Washington",47.6291168,-122.26046753942362
-2234,5828,"Westover , Albany, Georgia",31.58934,-84.2112979
-2235,5829,"Awty International School, Houston, Texas",29.785982349999998,-95.4606472869117
-2236,5830,"Gambrills, Maryland",39.0963486,-76.65490970738688
-2237,5835,"Newport Coast, California",33.5963719,-117.8268219
-2238,5836,"Mccluer South-Berkeley High, Saint Louis, Missouri",38.73166445,-90.30451597031268
-2239,5837,"Waterloo, Iowa",42.498275,-92.3328743
-2240,5840,"Terrell , Dawson, Georgia",31.7661516,-84.4355335
-2241,5841,"Gov. Thomas Johnson High, Frederick, Maryland",39.4341991,-77.4070794633524
-2242,5842,"River Ridge , New Port Richey, Florida",28.2408162,-82.7092619
-2243,5843,"St. Clair , East China, Michigan",42.8234675,-82.4801948
-2244,5846,"North Dartmouth, Massachusetts",41.6389926,-70.9703171
-2245,5847,"Bradley, Illinois",41.1421905,-87.8613221
-2246,5848,"Calhoun County  & Calhoun County , Edison, Georgia",31.56311785,-84.72680340013261
-2247,5851,"Downey High, Downey, California",33.9404936,-118.12620660999264
-2248,5852,"El Capitan , Merced, California",37.3176,-120.466457
-2249,5853,"Arbor Preparatory , Ypsilanti, Michigan",42.190269900000004,-83.62276445103791
-2250,5854,"Asheville, North Carolina",35.6009498,-82.5540161
-2251,5855,"Central High, Milwaukee, Wisconsin",43.00299555,-88.02003017504435
-2252,5856,"Crosby , Waterbury, Connecticut",41.5457725,-72.9722766
-2253,5857,"Walnut, California",33.7085883,-117.7926096
-2254,5858,"Columbia , Huntsville, Alabama",34.630369,-86.576066
-2255,5860,"Algonac, Michigan",42.6183675,-82.531018
-2256,5863,"Port Allen, Louisiana",30.45335,-91.2100569
-2257,5864,"Port Allen , Port Allen, Louisiana",30.4529684,-91.2003856
-2258,5866,"Wolfforth, Texas",33.5059189,-102.0090575
-2259,5869,"Quartz Hill High, Lancaster, California",34.6583194,-118.2381313
-2260,5871,"Treasure Valley s, Boise, Idaho",43.5810415,-116.21323497526042
-2261,5872,"Western , Fort Lauderdale, Florida",26.1081467,-80.10675673883506
-2262,5875,"Fernley, Nevada",39.6048048,-119.2404748
-2263,5877,"Santiago High, Corona, California",33.836475300000004,-117.54567998173297
-2264,5878,"Mackinac Island School, Mackinac Island, Michigan",45.84841185,-84.62381342853678
-2265,5881,"Tech Valley , Albany, New York",42.6921815,-73.8363862
-2266,5888,"Lubbock, Texas",33.5634402,-101.8792389
-2267,5889,"Cascia Hall Preparatory School, Tulsa, Oklahoma",36.12749695,-95.9638300938504
-2268,5891,"New York, New York",40.7127281,-74.0060152
-2269,5892,"Houston, Texas",29.7589382,-95.3676974
-2270,5894,"Edinburg, Texas",26.3013982,-98.1624501
-2271,5895,"Peddie School, Hightstown, New Jersey",40.26378655,-74.52217839637018
-2272,5899,"Highlands Ranch , Littleton, Colorado",39.5666759,-105.02756118064684
-2273,5900,"Dalton, Georgia",34.7691867,-84.9702475
-2274,5901,"Detroit, Michigan",42.3315509,-83.0466403
-2275,5902,"Portsmouth, New Hampshire",43.0702223,-70.7548621
-2276,5903,"Westby High, Westby, Wisconsin",43.650685499999994,-90.863696175
-2277,5906,"Bennington, Nebraska",41.3647193,-96.1577968
-2278,5907,"Catholic Central , Novi, Michigan",42.49028035,-83.5418769945029
-2279,5908,"Stafford, Texas",29.6160671,-95.5577221
-2280,5913,"Pequot Lakes, Minnesota",46.6030198,-94.3094399
-2281,5914,"Caledonia, Minnesota",43.6350469,-91.496387
-2282,5915,"Mercy Education Project, Detroit, Michigan",42.3268441,-83.06248536992815
-2283,5918,"Cristo Rey Kansas City , Kansas City, Missouri",39.0669956,-94.58886848273428
-2284,5919,"Johnston Community College, Smithfield, North Carolina",35.500887500000005,-78.33274774428686
-2285,5920,"Palouse, Washington",46.9101745,-117.07469740861141
-2286,5923,"Angleton, Texas",29.16941,-95.4318847
-2287,5924,"St Ignatius College Preparatory, San Francisco, California",37.7480821,-122.4959686
-2288,5926,"Port Huron, Michigan",42.9815877,-82.440466
-2289,5927,"iCademy Global, Zeeland, Michigan",42.8106737,-85.9911207
-2290,5929,"Lake Park, Minnesota",46.8855616,-96.0957328
-2291,5930,"Newcastle Hs, Newcastle, Oklahoma",35.2484838,-97.60284120017522
-2292,5933,"Judge Memorial Catholic , Salt lake City, Utah",40.755110650000006,-111.86219585351688
-2293,5934,"De Kalb , DeKalb, Illinois",41.935768,-88.749078
-2294,5935,"Grinnell Community Senior , Grinnell, Iowa",41.7512146,-92.739506019204
-2295,5937,"Mercer Island , Mercer Island, Washington",47.5602073,-122.22014226861951
-2296,5940,"Burlingame, California",37.5780965,-122.3473099
-2297,5941,"Everett , Everett, Washington",47.975475,-122.1976838
-2298,5943,"Carmel , Carmel, New York",41.4266361,-73.6788272
-2299,5944,"Mooresville , Mooresville, Indiana",39.6115457,-86.374888
-2300,5945,"Fulton, Maryland",39.1509408,-76.9230307
-2301,5947,"Belmont, New York",42.2231241,-78.0344506
-2302,5949,"Delray Beach, Florida",26.4614625,-80.0728201
-2303,5950,"Dry Fork, Virginia",36.7545812,-79.3997472
-2304,5953,"New Orleans, Louisiana",29.9759983,-90.0782127
-2305,5954,"Victoria, Virginia",36.9948743,-78.22722
-2306,5957,"Heritage High, Newport News, Virginia",37.0067413,-76.42702072519549
-2307,5960,"Mission, Texas",26.2159066,-98.3252932
-2308,5962,"Lowell, Massachusetts",42.6414437,-71.3085329
-2309,5963,"Grand Rapids, Michigan",42.9632405,-85.6678639
-2310,5964,"Voorheesville, New York",42.653967,-73.9287366
-2311,5965,"Academy of Our Lady, Marrero, Louisiana",29.8921541,-90.1060982
-2312,5966,"Huntington Beach High, Huntington Beach, California",33.67639215,-118.0038860222198
-2313,5968,"Manhattan, Kansas",39.1836082,-96.5716694
-2314,5970,"Beaverton , Beaverton, Oregon",45.4480974,-122.87269282795992
-2315,5973,"Gilmour Academy, Gates Mills, Ohio",41.503404,-81.4322680766064
-2316,5974,"Salt Lake City, Utah",40.7596198,-111.886797
-2317,5975,"Portland, Oregon",45.5202471,-122.674194
-2318,5976,"Catholic Memorial , Waukesha, Wisconsin",43.0022343,-88.2203699
-2319,5977,"Portland, Oregon",45.5202471,-122.674194
-2320,5980,"East Grand Rapids , Grand Rapids, Michigan",42.8847299,-85.5344723
-2321,5982,"Merrill , Merrill, Michigan",43.6807915,-85.87442598691618
-2322,5986,"San Antonio, Texas",29.4246002,-98.4951405
-2323,5989,"Ewen, Michigan",46.535222,-89.2812556
-2324,5991,"Westbrook, Minnesota",44.0405625,-95.4345304
-2325,5992,"Seton Hall Preparatory School, West Orange, New Jersey",40.7751005,-74.2476468
-2326,5997,"East Iberville Elementary/, St. Gabriel, Louisiana",30.2606677,-91.1036221
-2327,5998,"International Falls, Minnesota",48.601033,-93.4105904
-2328,5999,"Milaca, Minnesota",45.755799,-93.6544079
-2329,6000,"Shalhevet School, Los Angeles, California",34.0596968,-118.3627734
-2330,6002,"Kalamazoo Central , Kalamazoo, Michigan",42.31425455,-85.64578748750193
-2331,6003,"Buies Creek, North Carolina",35.412332500000005,-78.73665059608209
-2332,6004,"Smithfield-Selma High, Smithfield, North Carolina",35.52906705,-78.32370392332979
-2333,6005,"Mason County Eastern Junior High/, Custer, Michigan",43.95329105,-86.21681037882024
-2334,6011,"Sturgis , Sturgis, Michigan",41.7973645,-85.40006892134558
-2335,6012,"Bedford, Indiana",38.8611619,-86.4872149
-2336,6013,"Cornerstone Health+Technology , Detroit, Michigan",42.4184685,-83.22005472526592
-2337,6016,"Hackettstown High, Hackettstown, New Jersey",40.8429395,-74.82912394813287
-2338,6019,"Metamora, Michigan",42.9414173,-83.2891092
-2339,6020,"Bay City, Michigan",43.5944677,-83.8888648
-2340,6021,"Sussex Central High, Sussex, Virginia",36.920068,-77.2537966
-2341,6022,"Blooming Prairie Secondary, Blooming Prairie, Minnesota",43.8685293,-93.06334809523528
-2342,6023,"Atlanta, Georgia",33.7489924,-84.3902644
-2343,6026,"Broken Arrow Hs, Broken Arrow, Oklahoma",36.07233575,-95.76678998191088
-2344,6027,"Newark Catholic , Newark, Ohio",40.0565195,-82.4343587739822
-2345,6029,"Lincoln Park , Lincoln Park, Michigan",42.257738,-83.19404339372247
-2346,6032,"West Carrollton , Dayton, Ohio",39.7165045,-84.2565079
-2347,6033,"Beal City , Mount Pleasant, Michigan",43.6694839,-84.9083358
-2348,6036,"Palo Alto, California",37.4443293,-122.1598465
-2349,6039,"Pebble Beach, California",36.5672414,-121.9442134
-2350,6043,"Allegan , Allegan, Michigan",42.5291989,-85.8553031
-2351,6044,"Moose Lake, Minnesota",46.4543725,-92.761976
-2352,6045,"Sartell, Minnesota",45.6216319,-94.2069365
-2353,6047,"Proctor, Minnesota",46.7471638,-92.2254695
-2354,6053,"Colon , Colon, Michigan",41.9583823,-85.3249817
-2355,6054,"Alliance, Ohio",40.9153362,-81.1059309
-2356,6055,"Batesville , Batesville, Arkansas",35.7628548,-91.6487501
-2357,6056,"Rothsay, Minnesota",46.4739548,-96.2808631
-2358,6057,"Edsel Ford , Dearborn, Michigan",42.2896633,-83.23555789237838
-2359,6059,"Livermore, California",37.6820583,-121.768053
-2360,6060,"Rosamond High, Rosamond, California",34.8661444,-118.18148993333162
-2361,6065,"Kenowa Hills , Grand Rapids, Michigan",43.03418895,-85.74985463293288
-2362,6066,"Mcbain , McBain, Michigan",44.1975841,-85.207230727992
-2363,6067,"Saint Charles, Michigan",43.2969699,-84.1405346
-2364,6068,"Gentry , Indianola, Mississippi",33.4426183,-90.641758
-2365,6071,"Bay City Central , Bay City, Michigan",43.601842149999996,-83.88658365516727
-2366,6072,"Corona Del Mar High, Newport Beach, California",33.634364899999994,-117.87842407177615
-2367,6073,"Carrollton Middle School & Carrollton , Saginaw, Michigan",43.4628528,-83.9417876
-2368,6074,"Roscommon , Roscommon, Michigan",44.49835,-84.591968
-2369,6075,"Leland Public School, Leland, Michigan",45.02372275,-85.75587949471267
-2370,6076,"Northport , Northport, Washington",48.9200162,-117.7763133
-2371,6077,"Posen Consolidated , Posen, Michigan",45.2679967,-83.69710065356956
-2372,6078,"Holt Senior , Holt, Michigan",42.6377369,-84.57585546666147
-2373,6079,"Powers, Michigan",45.689965,-87.52596
-2374,6081,"Manchester , Manchester, Michigan",42.1503178,-84.0377231
-2375,6084,"Cincinnati, Ohio",39.1014537,-84.5124602
-2376,6085,"Brown City , Brown City, Michigan",43.20757985,-82.99486341761286
-2377,6086,"Mt. Morris, Michigan",43.118637,-83.694958
-2378,6087,"Ellsworth Community School, Ellsworth, Michigan",45.168605,-85.24670547703677
-2379,6088,"Stephenson , Stephenson, Michigan",45.415251,-87.607616
-2380,6089,"Annapolis , Dearborn Heights, Michigan",42.2758714,-83.2471503
-2381,6090,"Wayland , Wayland, Michigan",42.675938200000004,-85.64585204718384
-2382,6091,"Deckerville Community , Deckerville, Michigan",43.529829899999996,-82.73068915967946
-2383,6092,"Quincy , Quincy, Michigan",41.9442145,-84.8838525
-2384,6093,"Sandusky , Sandusky, Michigan",43.4139167,-82.8241019
-2385,6094,"Montague, Michigan",43.416677,-86.357013
-2386,6096,"Detroit, Michigan",42.3315509,-83.0466403
-2387,6097,"Brethren , Brethren, Michigan",44.31070725,-86.021643925219
-2388,6098,"Beaver Island, Michigan",45.666078150000004,-85.55442159714224
-2389,6099,"Detroit, Michigan",42.3315509,-83.0466403
-2390,6100,"Morley Stanwood , Morley, Michigan",43.5353739,-85.4414463
-2391,6101,"Ann Arbor, Michigan",42.2681569,-83.7312291
-2392,6102,"Montabella Junior/Senior High, Blanchard, Michigan",43.463062550000004,-85.05665699724557
-2393,6103,"Plaquemine Senior , Plaquemine, Louisiana",30.261363199999998,-91.25082175000128
-2394,6107,"Huntsville, Alabama",34.729847,-86.5859011
-2395,6111,"Mickey Leland College Preparatory Academy, Houston, Texas",29.7770716,-95.3344605
-2396,6112,"Munising High and Middle School, Munising, Michigan",46.4168095,-86.66200169790963
-2397,6113,"Menominee , Menominee, Michigan",45.107671,-87.614491
-2398,6114,"Hamilton , Hamilton, Michigan",44.04965855,-84.62624432526758
-2399,6116,"Garden City , Garden City, Michigan",42.3343397,-83.33005684122341
-2400,6117,"Pontiac Academy for Excellence, Pontiac, Michigan",42.6447551,-83.29764912782814
-2401,6119,"Pansophia Academy, Coldwater, Michigan",41.94939165,-84.99653697796464
-2402,6120,"Merritt Academy, New Haven, Michigan",42.7408497,-82.7993573618526
-2403,6121,"Grayling , Grayling, Michigan",44.659412399999994,-84.71098645990939
-2404,6122,"Bear Lake , Bear Lake, Michigan",44.420835,-86.148143
-2405,6127,"Bisbee , Bisbee, Arizona",31.3700635,-109.8826902
-2406,6128,"Hart , Hart, Michigan",43.70152,-86.3305059
-2407,6129,"Shadle Park , Spokane, Washington",47.69892955,-117.44023270471175
-2408,6131,"North Little Rock , North Little Rock, Arkansas",34.752215199999995,-92.2671181028382
-2409,6132,"Crosby, Minnesota",46.4821848,-93.9577612
-2410,6133,"Haltom City, Texas",32.7995738,-97.2691817
-2411,6136,"Old Redford Academy - High, Detroit, Michigan",42.4184508,-83.21662334255706
-2412,6137,"Constantine , Constantine, Michigan",41.8411603,-85.6686026
-2413,6138,"Centreville , Centreville, Michigan",41.922685,-85.5263498
-2414,6139,"Dublin, Georgia",32.5404447,-82.903754
-2415,6144,"Loretto Academy, El Paso, Texas",31.787126450000002,-106.43415395761718
-2416,6145,"Wakulla , Crawfordville, Florida",30.1990447,-84.3543682
-2417,6146,"Dawson, Minnesota",44.932738,-96.054481
-2418,6147,"Mound, Minnesota",44.9366295,-93.6660719
-2419,6150,"Adrian , Adrian, Michigan",41.89849465,-84.06083239910039
-2420,6152,"Star International Academy, DEARBORN HEIGHTS, Michigan",42.332789149999996,-83.27662284698708
-2421,6153,"Farmington, Maine",44.671094,-70.151825
-2422,6155,"Young Women'S Leadership Academy, San Antonio, Texas",29.39905975,-98.47677895281208
-2423,6157,"Marshall County , Benton, Kentucky",36.040547000000004,-88.00509057776361
-2424,6160,"Barnum Secondary, Barnum, Minnesota",46.50614365,-92.67949882724821
-2425,6161,"Gray-New Gloucester , Gray, Maine",43.9224787,-70.3122188
-2426,6164,"Dike-New Hartford , Dike, Iowa",42.4670064,-92.6270863
-2427,6166,"Holmen High, Holmen, Wisconsin",43.97561025,-91.27796731796303
-2428,6167,"Hemingway, South Carolina",33.7537774,-79.4475566
-2429,6171,"Plano, Texas",33.0136764,-96.6925096
-2430,6172,"Lawrence , Fairfield, Maine",44.5877575,-69.5956347
-2431,6174,"Winters High, Winters, California",38.52507295,-121.97347466421188
-2432,6175,"Eden Valley-Watkins, Minnesota",45.324949149999995,-94.54465772800242
-2433,6177,"Atlanta, Georgia",33.7489924,-84.3902644
-2434,6180,"Mission, Texas",26.2159066,-98.3252932
-2435,6181,"Archbold, Ohio",41.5211332,-84.3065469
-2436,6184,"Leon , Tallahassee, Florida",30.44235995,-84.29747867166262
-2437,6186,"Hope , Hope, Arkansas",33.6690025,-93.5922879
-2438,6189,"Amelia County High, Amelia Court House, Virginia",37.33165005,-77.98911110913737
-2439,6190,"Canton, Michigan",42.3076547,-83.4868961
-2440,6193,"Bay City, Michigan",43.5944677,-83.8888648
-2441,6194,"Cumberland High, Cumberland, Virginia",37.50318245,-78.37498867889005
-2442,6195,"Brooklyn, New York",40.6526006,-73.9497211
-2443,6201,"Somerville High, Somerville, Massachusetts",42.386778050000004,-71.0957221150345
-2444,6203,"Hackensack, New Jersey",40.8871438,-74.0410865
-2445,6213,"Bowie High, Bowie, Maryland",38.978444,-76.7435798
-2446,6214,"Burgaw, North Carolina",34.5521113,-77.926098
-2447,6215,"Rocky Mount, North Carolina",35.9423833,-77.7956949
-2448,6217,"Cannon Falls, Minnesota",44.5109025,-92.90084727068178
-2449,6219,"Blountville, Tennessee",36.533767,-82.33343531171823
-2450,6220,"Los Alamitos, California",33.8038865,-118.0772433
-2451,6222,"Hemingway High, Hemingway, South Carolina",33.747995,-79.4468352
-2452,6223,"Menomonee Falls High, Menomonee Falls, Wisconsin",43.165,-88.0886111
-2453,6224,"Saint Dominic Academy, Auburn, Maine",44.12738635,-70.23503203125196
-2454,6225,"Fort Pierce, Florida",27.4467056,-80.3256056
-2455,6226,"Burlington City High, Burlington, New Jersey",40.070553399999994,-74.85144872749761
-2456,6237,"Neponset, Illinois",41.29587,-89.7903802
-2457,6238,"Family/Community & Family/Community, San Jose, California",37.2579095,-121.7783053
-2458,6239,"Upper Marlboro, Maryland",38.8139804,-76.7575894
-2459,6240,"Warrenton, North Carolina",36.3984804,-78.1552706
-2460,6300,"Northwood School, Lake Placid, New York",44.29229255,-73.97144378961386
-2461,6301,"Taunton, Massachusetts",41.8946107,-71.11113
-2462,6302,"Greeneville , Greeneville, Tennessee",36.1533092,-82.89146967624593
-2463,6305,"Clovis North High, Fresno, California",36.8896283,-119.7329452
-2464,6306,"San Antonio, Texas",29.4246002,-98.4951405
-2465,6308,"Yigo, Guam",13.535204499999999,144.89715694673106
-2465,6309,"Yigo, Guam",13.535204499999999,144.89715694673106
-2467,6312,"Christchurch School, Christchurch, Virginia",37.61310455,-76.54875374253902
-2468,6314,"Desert Mountain , Scottsdale, Arizona",33.8279332,-111.8740877
-2469,6315,"Laredo, Texas",27.5236998,-99.497352
-2470,6317,"West , Davenport, Iowa",41.536810849999995,-90.62757574945587
-2471,6318,"Freedom High, Freedom, Wisconsin",44.38415435,-88.2926956665307
-2472,6320,"West Delaware , Manchester, Iowa",42.4838687,-91.4683284
-2473,6321,"Leander, Texas",30.5603086,-97.8553655
-2474,6322,"Oakleaf  & Orange Park , Orange Park, Florida",30.17911465,-81.82069558866984
-2475,6324,"Salem , Salem, New Hampshire",42.7773784,-71.2423059
-2476,6325,"Alpharetta, Georgia",34.0709576,-84.2747329
-2477,6326,"Baltimore, Maryland",39.2908816,-76.610759
-2478,6327,"4-H, Media, Pennsylvania",39.9167783,-75.387693
-2479,6328,"Littleton, Massachusetts",42.5375917,-71.5120096
-2480,6329,"Bucksport , Bucksport, Maine",44.60177,-68.79569136571041
-2481,6332,"Riverside High, Durham, North Carolina",36.06528515,-78.94353333403998
-2482,6333,"Putnam , Putnam, Connecticut",41.91621605,-71.91115443137731
-2483,6334,"Midlothian, Virginia",37.5062673,-77.649268
-2484,6335,"Burlington, Massachusetts",42.5048167,-71.1956111
-2485,6337,"Pittsfield, Maine",44.78281,-69.383469
-2486,6340,"Marist School, Atlanta, Georgia",33.901224400000004,-84.33517852982565
-2487,6341,"Etowah , Woodstock, Georgia",34.1323081,-84.5171057
-2488,6343,"Ridgefield , Ridgefield, Washington",45.8248814,-122.7489571
-2489,6344,"Yale, Michigan",43.130026,-82.798263
-2490,6345,"Watersmeet Township School, Watersmeet, Michigan",46.269316399999994,-89.17751608637393
-2491,6346,"Norwalk , Norwalk, Connecticut",41.0956718,-73.4219246
-2492,6350,"Enumclaw Sr , Enumclaw, Washington",47.2045305,-121.9909315
-2493,6352,"Peoria, Arizona",33.5806115,-112.237294
-2494,6355,"Cleveland, Ohio",41.4996574,-81.6936772
-2495,6357,"Dripping Springs, Texas",30.1902067,-98.0866781
-2496,6358,"Buhl , Buhl, Idaho",42.5965365,-114.796236
-2497,6359,"Aurora , Aurora, Nebraska",40.871679,-98.0031102
-2498,6363,"El Campo, Texas",29.1966405,-96.2696867
-2499,6366,"Hillcrest High, Simpsonville, South Carolina",34.714478400000004,-82.24663776048988
+,teamNumber,nameShort,location,latitude,longitude
+2000,5310,Eagles Apex,"East Orange, New Jersey",40.767323,-74.2048677
+2001,5314,Ice Bots,"Pellston Middle/, Pellston, Michigan",45.55298755,-84.78062099176648
+2002,5316,The Architects,"Saranac , Saranac, Michigan",42.93200055,-85.21282642914491
+2003,5317,Redhawk Robotics,"Westwood , Blythewood, South Carolina",34.1686052,-80.98007763989415
+2004,5326,Optimus PRIN,"St. Louis, Missouri",38.6280278,-90.1910154
+2005,5327,Griffin Robotics,"Winnsboro, South Carolina",34.3807012,-81.0864776
+2006,5329,S(A^3)S,"School for Advanced Studies - South, Miami, Florida",25.6722222,-80.3761111
+1424,5332,Toaster Tech,"Decatur, Georgia",30.8736613,-84.5740953
+2008,5338,RoboLoCo,"Leesburg, Virginia",39.1154496,-77.5645446
+2009,5339,Hurricanes,"Houston Secondary, Houston, Minnesota",43.759324500000005,-91.57153240454599
+2010,5340,FAIR Robtics,"Minneapolis, Minnesota",44.9772995,-93.2654692
+2011,5347,Gryphons,"Weston, Massachusetts",42.3667625,-71.3031132
+2012,5348,Charger Robotics,"Cokato, Minnesota",45.075043,-94.1903675
+2013,5350,Hope Robotics,"Chicago Hope Academy, Chicago, Illinois",41.870141450000006,-87.68058240117486
+2014,5401,Fightin' Robotic Owls,"Bensalem, Pennsylvania",40.1045549,-74.951279
+2015,5403,Aluminosity,"Bedford, Indiana",38.8611619,-86.4872149
+2016,5404,Gearaffes,"Lansdale, Pennsylvania",40.2414952,-75.2837862
+2017,5407,Wolfpack Robotics,"AIM ACADEMY, Conshohocken, Pennsylvania",40.05751255,-75.26462113932956
+2018,5410,Eaglebotics,"Pompano Beach, Florida",26.2378597,-80.1247667
+2019,5411,PowerEagle,"Prosper, Texas",33.2385763,-96.7866058
+2020,5413,Stellar Robotics,"Shelby, Ohio",40.3491604,-84.1593008
+2021,5414,Pearadox,"Pearland, Texas",29.5639758,-95.2864299
+2022,5417,Eagle Robotics,"Allen, Texas",33.1031744,-96.6705503
+2023,5418,The Sonic Screwdrivers,"Hubbard , Hubbard, Ohio",41.1512113,-80.5822823
+2024,5419,Natural Disasters,"Berkeley , Berkeley, California",37.8701007,-122.2681385
+2025,5420,Velocity,"Bridgeton, New Jersey",39.427337,-75.2340768
+2026,5421,Birch Bots,"Birch Wathen Lenox School, New York, New York",40.77246445,-73.95772033259894
+2027,5422,Stormgears FRC,"Westford, Massachusetts",42.5792583,-71.4378411
+2028,5424,Rogue Robots,"Midland, Michigan",43.6155825,-84.2472117
+2029,5427,Steel Talons,"Obra D. Tompkins , Katy, Texas",29.73292725,-95.81445760989502
+2030,5429,Black Knights,"Sierra Vista , Las Vegas, Nevada",36.050090100000006,-115.26785675004851
+2031,5430,Pirate Robolution,"Pittsburg, California",38.0181745,-121.8901232
+2032,5431,Titan Robotics,"Plano, Texas",33.0136764,-96.6925096
+2033,5434,Falcon Robotics,"Faribault, Minnesota",43.6647961,-93.9510501
+2034,5436,Cyber Cats,"Stoney Creek , Rochester, Michigan",42.69591965,-83.11670940538848
+2035,5437,Rocky Balboabots,"Booneville , Booneville, Arkansas",35.1494531,-93.8661682
+2036,5438,Technological Terrors,"Jersey City, New Jersey",40.7215682,-74.047455
+2037,5442,Mechanical Monarchy,"Washington Comm , Washington, Illinois",40.7063735,-89.41952650954076
+2038,5447,Team Robotica,"Unionville-Sebewaing , Sebewaing, Michigan",43.6953288,-83.4611629
+2039,5448,CCA RoboCougars,"Big Rapids, Michigan",43.698078,-85.483656
+2040,5450,St. Helens Robotics and Engineering Club (SHREC),"St Helens , Saint Helens, Oregon",45.84455165,-122.83913396884058
+2041,5454,Wild Fire,"Rogers, Arkansas",36.3320197,-94.1185366
+2042,5457,Falcobots,"Burlington Twp High, Burlington, New Jersey",40.06356855,-74.83632621639289
+2043,5458,Digital Minds,"Woodland, California",38.6786109,-121.7733285
+2044,5459,Ipswich TIGERS,"Ipswich High, Ipswich, Massachusetts",42.68901,-70.8524735
+539,5460,Strike Zone,"Lapeer Community , Lapeer, Michigan",43.0688078,-83.331969
+2046,5461,V.E.R.N.,"Boise, Idaho",43.6166163,-116.200886
+2047,5462,2PawR (2 Paw Robotics),"Paw Paw , Paw Paw, Michigan",42.2178171,-85.8911246
+2048,5464,Bluejacket Robotics,"Cambridge-Isanti , Cambridge, Minnesota",45.5598576,-93.2641825
+2049,5465,Binary Bots,"Chandler, Arizona",33.3062031,-111.8411851
+2050,5467,RoboTractors,"Fordson , Dearborn, Michigan",42.29403215,-83.14781382504574
+2051,5468,Chaos Theory,"Summit , Bend, Oregon",44.0562628,-121.3610487039112
+2052,5470,The Cowpunchers,"Coopersville , Coopersville, Michigan",43.076827699999996,-85.94082571844811
+2053,5471,W.Hi.R.R.,"Winthrop , Winthrop, Maine",44.3047913,-69.9214382
+2054,5472,Stallion Robotics,"Delray Beach, Florida",26.4614625,-80.0728201
+2055,5473,Team Spitfire.,"West Michigan Aviation Academy, Grand Rapids, Michigan",42.8847299,-85.5344723
+2056,5474,Clairemonster,"Clairemont High, San Diego, California",32.809223349999996,-117.20394065648388
+2057,5477,NuBotX - Nubotics STEAMPunk,"Vista, California",33.2000368,-117.2425355
+2058,5478,Pershing Doughbots,"Pershing , Detroit, Michigan",42.4370826,-83.0699429
+2059,5480,FYRE (FIRST Young Robotics Engineers),"Reno, Nevada",39.5261206,-119.8126581
+2060,5482,Roarbotics,"The Lovett School, Atlanta, Georgia",33.860779449999995,-84.45014000366004
+2061,5484,Career Academy Robotics,"South Bend, Indiana",41.6833813,-86.2500066
+2062,5486,Robotic Turmoil,"Lake Linden-Hubbell , Lake Linden, Michigan",47.1940052,-88.407427
+2063,5490,The Dark Byte,"Moravian Academy, Bethlehem, Pennsylvania",40.62102245,-75.37815481103739
+2064,5491,Cognitive Hazard,"Winchendon, Massachusetts",42.6587935,-72.0490326
+2065,5492,Winner's Circle Robo Jockeys,"Louisville, Kentucky",38.2542376,-85.759407
+2066,5493,SMAbotics AG,"Englewood, Colorado",39.6482059,-104.9879641
+2067,5494,Bizarbots Robotics,"Holbrook, Massachusetts",42.1552232,-71.008958
+2068,5496,Robo Knights,"Vacaville, California",38.3565773,-121.9877444
+2069,5498,Wired Devils,"Grosse Ile , Grosse Ile, Michigan",42.1381749,-83.15412265585888
+2070,5499,The Bay Orangutans,"Berkeley, California",37.8708393,-122.272863
+2071,5500,Jaguars Robotics & ROVs,"Long Beach, California",33.7690164,-118.191604
+2072,5501,Bobcats,"Burr Oak , Burr Oak, Michigan",41.847272,-85.3185899
+2073,5502,Cobrots,"Jonesville , Jonesville, Michigan",41.9854803,-84.6818726
+2074,5503,Smithville Tiger Trons,"Smithville, Texas",30.0056275,-97.1559077
+2075,5504,The Loose Connections,"Pinconning , Pinconning , Michigan",43.8590577,-83.9611987
+2076,5505,V2 Robotics,"Alpena , Alpena, Michigan",45.0616794,-83.4327528
+2077,5506,Midcoast MAINEiacs,"Searsport District , Searsport, Maine",44.463783,-68.92687498631268
+2078,5507,Robotic Eagles,"George Washington High, San Francisco, California",37.77847585,-122.49107259757233
+2079,5508,Wolfbots,"Knoxville, Tennessee",35.9603948,-83.9210261
+2080,5509,Like a Boss.,"Midland , Midland, Michigan",43.6155825,-84.2472117
+2081,5510,The Da Vinci Coders,"Los Angeles, California",34.0536909,-118.242766
+2082,5511,Cortechs Robotics,"Cary, North Carolina",35.7882893,-78.7812081
+2083,5514,MavBots,"Carlsbad, California",33.1580933,-117.3505966
+2084,5517,The Engineers on Fire,"Madison Academy - , Burton, Michigan",42.9835097,-83.61750615299148
+2085,5518,Techno Wolves,"Apex, North Carolina",35.7325352,-78.8505516
+2086,5523,RoboWarriors,"Grass Lake , Grass Lake, Michigan",42.2508691,-84.2130083
+2087,5524,MacroProcessors ,"Birch Run , Birch Run, Michigan",43.250859,-83.794131
+2088,5525,Alcona Tool Cats,"Lincoln, Michigan",44.684735,-83.412194
+2089,5527,Cyber Phoenix,"Flint, Michigan",43.0161693,-83.6900211
+2090,5530,The Lawnmowers,"Greenhills School, Ann Arbor, Michigan",42.2854038,-83.67835424079865
+2091,5531,Orange Crush,"Dearborn , Dearborn, Michigan",42.3070364,-83.23521
+2092,5532,The G.O.A.T.S,"Detroit, Michigan",42.3315509,-83.0466403
+2093,5533,Electric Horse Power,"Clio , Clio, Michigan",43.1769551,-83.73651475720573
+2094,5534,Onaway Onabots,"Onaway, Michigan",45.357512,-84.223903
+2095,5535,Bionic Bison,"New Buffalo, Michigan",41.7952562,-86.7444526
+2096,5538,Vikingbots,"Swan Valley , Saginaw, Michigan",43.4108595,-84.077756
+2097,5539,DVHS Cyborgs,"Desert View , Tucson, Arizona",32.1364454,-110.90494830963635
+2098,5541,Shakopee Robotics,"Shakopee, Minnesota",44.7980186,-93.5268986
+2099,5542,RoboHerd,"Buffalo, Minnesota",45.1719084,-93.8746941
+2100,5544,SWIFT Robotics,"Vass, North Carolina",35.2562684,-79.2822491
+2101,5546,⚒️ A.R.T. ⚒️,"Petersburg, Virginia",37.227928,-77.4019268
+2102,5547,The Talons,"Hale , Hale, Michigan",44.3776881,-83.806804
+2103,5549,Gryphon Robotics,"Marshall High, Falls Church, Virginia",38.9063647,-77.21252786888141
+2104,5550,Broncho Bots,"Bethany Hs, Bethany, Oklahoma",35.5147327,-97.6319164
+2105,5555,Spartans,"Warren, Michigan",42.4932575,-83.0062746
+2106,5556,Carriagetown Robotics,"Amesbury, Massachusetts",42.8579536,-70.9300921
+2107,5557,BB-R8ERS,"Miami, Florida",25.7741728,-80.19362
+2108,5559,Gear Grinders,"Camden-Frontier , Camden, Michigan",41.781438,-84.7063438
+2109,5560,Central Lake Trobotics,"Central Lake, Michigan",45.0701616,-85.2641566
+2110,5561,Raider Robotics,"Flushing , Flushing, Michigan",43.07274785,-83.86055096837607
+2111,5562,Laker Logistics,"Maple City, Michigan",44.8555843,-85.8557538
+2112,5563,Phalanx,"Lynn, Massachusetts",42.466763,-70.9494939
+2113,5567,Code Red Robotics ,"Milan , Milan, Michigan",42.094765800000005,-83.66873350846663
+2114,5568,Solid Rock ,"Bentonville, Arkansas",36.3728538,-94.2088172
+2115,5572,ROSBOTS,"Lee H S, San Antonio, Texas",29.502288,-98.490552
+2116,5576,Team Terminator,"Spirit Lake , Spirit Lake, Iowa",43.4226237,-95.1117229
+2117,5577,Kinematic Wolves,"Detroit Cristo Rey , Detroit, Michigan",42.31642405,-83.10182012610741
+2118,5578,Metro Mechanical Monsters,"Oklahoma City, Oklahoma",35.4729886,-97.5170536
+2119,5582,Rex Machina,"Sharpsburg, Georgia",33.3392842,-84.6485417
+2120,5583,SistamatiK,"Rosati-Kain , Saint Louis, Missouri",38.64197655,-90.2534426836875
+2121,5586,Bond Brigade,"Kiel High, Kiel, Wisconsin",43.9241596,-88.0320402
+2122,5587,Titan Robotics,"Alexandria, Virginia",38.8051095,-77.0470229
+2123,5588,Reign Robotics,"Holy Names Academy, Seattle, Washington",47.62607555,-122.30418194524279
+2124,5590,Alumiboti,"Buffalo, New York",42.8867166,-78.8783922
+2125,5595,NRHS TigerBytes,"New Richmond High, New Richmond, Wisconsin",45.0981285,-92.52820753409964
+2126,5599,The Sentinels,"Bayside, New York",40.76639995,-73.7738780089654
+2127,5603,Rise of the Warrior Bots,"Auburn, Michigan",43.603358,-84.069705
+2128,5607,Team Firewall,"Wakefield High, Raleigh, North Carolina",35.94706935000001,-78.57184574826069
+2129,5608,Lassiter Robotics,"Lassiter , Marietta, Georgia",34.04382535,-84.47398560292345
+2130,5610,Turbulence  (Saugatuck Robotics),"Saugatuck , Saugatuck, Michigan",42.69812775,-86.20376127686171
+2131,5611,Neon Tigers,"Verden, Oklahoma",35.0833963,-98.0878254
+2132,5612,RoboRaptors,"Burton, Michigan",42.9897333,-83.6335032
+2133,5613,ThunderDogs,"Alamogordo, New Mexico",32.9046474,-105.941835
+2134,5616,Green Machine,"Fort Walton Beach, Florida",30.4057552,-86.618842
+2135,5619,Jaguars,"Jalen Rose Leadership Academy, Detroit, Michigan",42.44182015,-83.19475950720539
+2136,5621,Cyberian Huskies,"North Hs, Edmond, Oklahoma",35.67060725,-97.48446633881801
+2137,5622,Green Hornets,"Stanton, Michigan",43.292532,-85.081407
+2138,5623,Robotic Rams,"Galesburg-Augusta , Galesburg, Michigan",42.282164050000006,-85.4266048751089
+2139,5624,TIGER TECH Robotics,"South Plainfield High, South Plainfield, New Jersey",40.589156849999995,-74.4124150969931
+2140,5625,TrojanBots,"Wailuku, Hawaii",20.8894684,-156.5089397899955
+2141,5626,Nu-matic Ninjas,"Central , Norwood Young America, Minnesota",44.783553,-93.916581
+2142,5627,πrtz (Pi-rates),"Southwest Senior High, San Diego, California",32.56836035,-117.08131698268488
+2143,5632,The Asimovians,"Appling, Georgia",31.7771435,-82.2996274
+2144,5633,Hyde Cyber Wolves,"Hyde School, Bath, Maine",43.9050799,-69.8228246
+2145,5634,Jesterminators,"Lakewood, California",33.8503463,-118.117191
+2146,5637,North Minneapolis Robotics,"Minneapolis, Minnesota",44.9772995,-93.2654692
+2147,5638,LQPV Robotics,"Madison, Minnesota",45.009685,-96.195877
+2148,5639,Loose Wires,"Pharr, Texas",26.1947962,-98.1836216
+2149,5641,Byron Robotics,"Byron Area , Byron, Michigan",42.82687695,-83.9500140473186
+2150,5642,Mumford Mustangs,"Mumford , Detroit, Michigan",42.42140915,-83.1632856
+2151,5651,Jaguar Engineers,"Atlanta, Georgia",33.7489924,-84.3902644
+2152,5653,Iron Mosquitos,"Babbitt, Minnesota",47.7087143,-91.9440871
+2153,5657,Rawhide Robotics,"Niobrara County , Lusk, Wyoming",42.75280105,-104.45480406998908
+2154,5658,STORMBOTICS,"Stephen-Argyle Central , Stephen, Minnesota",48.450727549999996,-96.87957248093534
+2155,5659,Team Supreme,"Bridgehampton School, Bridgehampton, New York",40.9375691,-72.29474265032835
+2156,5660,A.R.T. Atherton Robotics Team,"Atherton , Burton, Michigan",42.990511,-83.5701235
+2157,5661,RoboCards,"Whittemore, Michigan",44.23363,-83.803042
+2158,5662,A Flock of Nerds,"Dryden , Dryden, Michigan",42.9461395,-83.1238265
+2159,5664,Big Red Robotics,"Muskegon , Muskegon, Michigan",43.2341813,-86.2483921
+2160,5666,Purple Lightning,"Trenton, New Jersey",40.2205944,-74.7597219
+2161,5667,The Digital Eagles,"New Albany , New Albany, Ohio",40.08417005,-82.81487690244485
+2162,5669,Techmen,"Rosemead, California",34.0676169,-118.0879763
+2163,5674,The Gearhounds,"Eaton Rapids, Michigan",42.5092039,-84.655814
+2164,5675,WiredCats,"Mattawan , Mattawan, Michigan",42.2135045,-85.79941459395604
+2165,5676,The H.E.R.O.E.S,"Hillsdale , Hillsdale, Michigan",41.9200472,-84.6305101
+2166,5678,Knightrise,"Valley Glen, California",34.1826379,-118.4138666
+2167,5679,Girls on Fire,"Winston Salem, North Carolina",36.0998131,-80.2440518
+2168,5681,Dragonbots,"Southwest H S, San Antonio, Texas",29.356596,-98.5268685
+2169,5682,Equus Engineering,"North Mesquite H S, Mesquite, Texas",26.23615,-97.935725
+2170,5683,Hello World,"Auburn Riverside , Auburn, Washington",47.26685895,-122.22318006350778
+2171,5684,Iron Mechs,"Trenton, New Jersey",40.2205944,-74.7597219
+2172,5685,Robo Terriers,"Litchfield , Litchfield, Michigan",42.0432938,-84.75354775950083
+2173,5686,Wirecats,"Ethel Walker School, Simsbury, Connecticut",41.84815395,-72.83480882181374
+2174,5687,The Outliers,"Portland, Maine",43.6610277,-70.2548596
+2175,5688,Robo Cats,"Pittsford Area , Pittsford, Michigan",41.863986,-84.47135309068018
+2176,5690,SubZero Robotics,"Esko , Esko, Minnesota",46.706632,-92.36511992506698
+2177,5695,Heavy Duty Eagles,"Redford, Michigan",42.3833698,-83.2965971
+2178,5697,Bearcats,"Bridgeport , Bridgeport, Michigan",43.3594696,-83.8816364
+2179,5700,SOTA Cyberdragons,"San Francisco, California",37.7790262,-122.419906
+2180,5702,Robotawatomi,"Wilson, Michigan",45.7052439,-87.4381839
+2181,5706,Tahquamenon Phenomenon,"Newberry , Newberry, Michigan",46.33140095,-85.50779368193349
+2182,5708,Zebrotics,"Community , Ann Arbor, Michigan",42.2631875,-83.66504615555166
+2183,5709,Rudyard Nerf Herders,"Rudyard , Rudyard, Michigan",46.232518,-84.6003272
+2184,5710,The O-Bots,"Charlotte, Michigan",42.5637369,-84.8355792
+2185,5712,Hemlock's Gray Matter,"Hemlock , Hemlock, Michigan",43.4178315,-84.22973591877151
+2186,5713,Beecher Cyber Bucs,"Beecher , Mount Morris, Michigan",43.08999154999999,-83.70410762794013
+2187,5714,Accidental Success ,"Ojibwe Charter School, Brimley, Michigan",46.4503974,-84.6028953
+2188,5720,Jagobotics,"Hinckley, Minnesota",46.0113409,-92.9443707
+2189,5721,Wolf Pack,"Cedar Ridge , Newark, Arkansas",35.7212225,-91.4448396
+2190,5722,Seahawks,"South Walton , Santa Rosa Beach, Florida",30.3602133,-86.2295436
+2191,5724,Spartan Robotics,"Salem High, Salem, Virginia",37.295347500000005,-80.07950895868782
+2192,5726,RHUMBOTZ,"San Antonio, Texas",29.4246002,-98.4951405
+2193,5727,REaCH Omegabytes,"Spindale, North Carolina",35.3601212,-81.929271
+2194,5728,CCybernetics,"Maria Carrillo High, Santa Rosa, California",38.48042395,-122.66018374867801
+2195,5729,Lennox Monsanto MAD Dragons,"Dewitt , De Witt, Arkansas",34.27553455,-91.33578471735282
+2196,5730,The Professionals ,"Monett, Missouri",36.9289518,-93.9277149
+2197,5732, ROBOTIGERS,"Bloomfield High, Bloomfield, New Jersey",40.7992647,-74.1977116
+2198,5734,RoboReign,"Augusta, Georgia",33.4709714,-81.9748429
+2199,5735,Control Freaks,"Wayland , Wayland, Massachusetts",42.34285775,-71.37574432692062
+2200,5736,Kingsmen,"Kings Park , Kings Park, New York",40.88373,-73.2544898
+2201,5740,CWNC - Trojanators,"Cranberry Township, Pennsylvania",40.7099343,-80.1060506
+2202,5744,Code Red,"Knoxville, Tennessee",35.9603948,-83.9210261
+2203,5746,Human Error,"Valley Regional , Deep River, Connecticut",41.37104625,-72.44890489379291
+2204,5748,Adna Pirate Robotics,"Adna Middle/, Adna, Washington",46.6303219,-123.0569746
+2205,5752,Bevbotics,"Beverly High, Beverly, Massachusetts",42.56468545,-70.88091958423652
+2206,5753,St. Joseph Academy Flashes,"St. Augustine, Florida",29.8946952,-81.3145395
+2207,5754,Brooks Academy Robotics,"San Antonio, Texas",29.4246002,-98.4951405
+2208,5756,R.E.C'in Crew,"Detroit, Michigan",42.3315509,-83.0466403
+2209,5762,FranklinBots,"Franklin County Schools, Louisburg, North Carolina",36.0847549,-78.3300598443079
+2210,5763,Lightning Robotics,"Legacy , Broomfield, Colorado",39.9455082,-105.02180916270206
+2211,5765,ToroBots,"Esteban Torres , Los Angeles, California",34.0417162,-118.1755432
+2212,5774,Maximum Overload,"Flint, Michigan",43.0161693,-83.6900211
+2213,5775,CRHS RoboCats,"Malakoff, Texas",32.1695965,-96.0124678
+2214,5777,Static Storm,"Sumter Career and Technology Center, Sumter, South Carolina",33.8990917,-80.39528012465837
+2215,5783,RoboDucks,"Eunice High, Eunice, New Mexico",32.437809349999995,-103.16445955
+2216,5785,The Shield,"Baton Rouge, Louisiana",30.4507936,-91.1391153
+2217,5801,CTC Inspire,"Independence, Missouri",39.0924792,-94.4137923
+2218,5802,Los STEMateros,"Los Angeles, California",34.0536909,-118.242766
+2219,5803,Apex Robotics,"Seattle Christian Schools, Seattle, Washington",47.603318200000004,-122.30596249975315
+2220,5804,TORCH,"Collegiate School, Henrico, Virginia",37.5803643,-77.58612202134988
+2221,5805,SMbly Required,"Santa Margarita Catholic , Rancho Santa Margarita, California",33.6435921,-117.58043342274075
+2222,5806,Basement Lions,"Horace Mann School, Bronx, New York",40.8932178,-73.89873029047772
+2223,5809,The Jesubots,"Rockhurst , Kansas City, Missouri",39.03081885,-94.57067504464628
+2224,5810,X-Bots Robotics,"Santa Fe Springs, California",33.9480787,-118.0691499
+2225,5811,BONDS,"Dayton, Ohio",39.7589478,-84.1916069
+2226,5813,Morpheus,"Concord, New Hampshire",43.207178,-71.537476
+2227,5816,GRA-V Robotics,"Orange Technical College, Orlando, Florida",28.55032335,-81.38368834130657
+2228,5817,Uni-Rex,"Sanger High, Sanger, California",36.70125325,-119.57777875281
+2229,5818,Riviera Robotics,"Santa Barbara, California",34.4221319,-119.702667
+2230,5819,Mecha Makos,"Key Biscayne, Florida",25.6968351,-80.1635261
+2231,5822,WolfByte,"St Ignatius College Prep, Chicago, Illinois",41.867720899999995,-87.653700750584
+2232,5826,Avis Automata,"Chippewa Falls High, Chippewa Falls, Wisconsin",44.9352387,-91.4115467
+2233,5827,Code Purple,"Lake Washington , Kirkland, Washington",47.6291168,-122.26046753942362
+2234,5828,RoboPats,"Westover , Albany, Georgia",31.58934,-84.2112979
+2235,5829,AwtyBots,"Awty International School, Houston, Texas",29.785982349999998,-95.4606472869117
+2236,5830,LIFE Engineering,"Gambrills, Maryland",39.0963486,-76.65490970738688
+2237,5835,Sage Robotics,"Newport Coast, California",33.5963719,-117.8268219
+2238,5836,Mechanic Mutts,"Mccluer South-Berkeley High, Saint Louis, Missouri",38.73166445,-90.30451597031268
+2239,5837,Unity4Tech,"Waterloo, Iowa",42.498275,-92.3328743
+2240,5840,Shock Wave,"Terrell , Dawson, Georgia",31.7661516,-84.4355335
+2241,5841,The Patriots,"Gov. Thomas Johnson High, Frederick, Maryland",39.4341991,-77.4070794633524
+2242,5842,Royal Robotics,"River Ridge , New Port Richey, Florida",28.2408162,-82.7092619
+2243,5843,Flurb,"St. Clair , East China, Michigan",42.8234675,-82.4801948
+2244,5846,Southcoast Corsairs,"North Dartmouth, Massachusetts",41.6389926,-70.9703171
+2245,5847,Ironclad,"Bradley, Illinois",41.1421905,-87.8613221
+2246,5848,ROBO C3,"Calhoun County  & Calhoun County , Edison, Georgia",31.56311785,-84.72680340013261
+2247,5851,Striking Vikings,"Downey High, Downey, California",33.9404936,-118.12620660999264
+2248,5852,Illusion Robotics ,"El Capitan , Merced, California",37.3176,-120.466457
+2249,5853,FEAR The Termigators,"Arbor Preparatory , Ypsilanti, Michigan",42.190269900000004,-83.62276445103791
+2250,5854,GLITCH,"Asheville, North Carolina",35.6009498,-82.5540161
+2251,5855,Blue Collar Bruisers,"Central High, Milwaukee, Wisconsin",43.00299555,-88.02003017504435
+2252,5856,Bullbots,"Crosby , Waterbury, Connecticut",41.5457725,-72.9722766
+2253,5857,Walnut Valley Robotics,"Walnut, California",33.7085883,-117.7926096
+2254,5858,Golden Hurricane ,"Columbia , Huntsville, Alabama",34.630369,-86.576066
+2255,5860,Full Metal Muskrats,"Algonac, Michigan",42.6183675,-82.531018
+2256,5863,Brusly HS Robotics,"Port Allen, Louisiana",30.45335,-91.2100569
+2257,5864,Robo-Pelicans,"Port Allen , Port Allen, Louisiana",30.4529684,-91.2003856
+2258,5866,Fe [Iron] Tigers,"Wolfforth, Texas",33.5059189,-102.0090575
+2259,5869,Radical Robotics,"Quartz Hill High, Lancaster, California",34.6583194,-118.2381313
+2260,5871,Chickadees,"Treasure Valley s, Boise, Idaho",43.5810415,-116.21323497526042
+2261,5872,WiredCats,"Western , Fort Lauderdale, Florida",26.1081467,-80.10675673883506
+2262,5875,ICE,"Fernley, Nevada",39.6048048,-119.2404748
+2263,5877,Mechalodons,"Santiago High, Corona, California",33.836475300000004,-117.54567998173297
+2264,5878,The Great Lakers,"Mackinac Island School, Mackinac Island, Michigan",45.84841185,-84.62381342853678
+2265,5881,TVHS Dragons,"Tech Valley , Albany, New York",42.6921815,-73.8363862
+2266,5888,M.E.T.A. Robotics,"Lubbock, Texas",33.5634402,-101.8792389
+2267,5889,Commandobots,"Cascia Hall Preparatory School, Tulsa, Oklahoma",36.12749695,-95.9638300938504
+2268,5891,UASGC Robosquad,"New York, New York",40.7127281,-74.0060152
+2269,5892,Energy HEROs,"Houston, Texas",29.7589382,-95.3676974
+2270,5894,J.E.H.S. CyberJags,"Edinburg, Texas",26.3013982,-98.1624501
+2271,5895,Peddie School Robotics,"Peddie School, Hightstown, New Jersey",40.26378655,-74.52217839637018
+2272,5899,FROST,"Highlands Ranch , Littleton, Colorado",39.5666759,-105.02756118064684
+2273,5900,Career Blazer Robotics Team - The Fighting Mongooses,"Dalton, Georgia",34.7691867,-84.9702475
+2274,5901,Cougar Pack,"Detroit, Michigan",42.3315509,-83.0466403
+2275,5902,The Wire Clippers,"Portsmouth, New Hampshire",43.0702223,-70.7548621
+2276,5903,ThorBots,"Westby High, Westby, Wisconsin",43.650685499999994,-90.863696175
+2277,5906,Titanium Badgers,"Bennington, Nebraska",41.3647193,-96.1577968
+2278,5907,CC Shambots,"Catholic Central , Novi, Michigan",42.49028035,-83.5418769945029
+2279,5908,Spartans,"Stafford, Texas",29.6160671,-95.5577221
+2280,5913,Patriotics,"Pequot Lakes, Minnesota",46.6030198,-94.3094399
+2281,5914,Robotic Warriors,"Caledonia, Minnesota",43.6350469,-91.496387
+2282,5915,Mercy Midnight Storm ,"Mercy Education Project, Detroit, Michigan",42.3268441,-83.06248536992815
+2283,5918,Pumatron,"Cristo Rey Kansas City , Kansas City, Missouri",39.0669956,-94.58886848273428
+2284,5919,JoCo RoBos,"Johnston Community College, Smithfield, North Carolina",35.500887500000005,-78.33274774428686
+2285,5920,VIKotics,"Palouse, Washington",46.9101745,-117.07469740861141
+2286,5923,Juggerbots,"Angleton, Texas",29.16941,-95.4318847
+2287,5924,The Cat Machine,"St Ignatius College Preparatory, San Francisco, California",37.7480821,-122.4959686
+2288,5926,Da MOOse,"Port Huron, Michigan",42.9815877,-82.440466
+2289,5927,iCademy Globetrotters,"iCademy Global, Zeeland, Michigan",42.8106737,-85.9911207
+2290,5929,The Marauders,"Lake Park, Minnesota",46.8855616,-96.0957328
+2291,5930,Lunar Kitties,"Newcastle Hs, Newcastle, Oklahoma",35.2484838,-97.60284120017522
+2292,5933,JudgeMent Call,"Judge Memorial Catholic , Salt lake City, Utah",40.755110650000006,-111.86219585351688
+2293,5934,Crowbotics,"De Kalb , DeKalb, Illinois",41.935768,-88.749078
+2294,5935,Tech Tigers,"Grinnell Community Senior , Grinnell, Iowa",41.7512146,-92.739506019204
+2295,5937,MI-Robotics,"Mercer Island , Mercer Island, Washington",47.5602073,-122.22014226861951
+2296,5940,B.R.E.A.D.,"Burlingame, California",37.5780965,-122.3473099
+2297,5941,SPQL,"Everett , Everett, Washington",47.975475,-122.1976838
+2298,5943,The Bad News Gears,"Carmel , Carmel, New York",41.4266361,-73.6788272
+2299,5944,Robotic Pioneers,"Mooresville , Mooresville, Indiana",39.6115457,-86.374888
+2300,5945,|CTRL| (Absolute Control),"Fulton, Maryland",39.1509408,-76.9230307
+2301,5947,Robojags,"Belmont, New York",42.2231241,-78.0344506
+2302,5949,TechGarage,"Delray Beach, Florida",26.4614625,-80.0728201
+2303,5950,Trojans,"Dry Fork, Virginia",36.7545812,-79.3997472
+2304,5953,NOLABOTS,"New Orleans, Louisiana",29.9759983,-90.0782127
+2305,5954,Portable Chargers,"Victoria, Virginia",36.9948743,-78.22722
+2306,5957,CAT 5 CyberCanes,"Heritage High, Newport News, Virginia",37.0067413,-76.42702072519549
+2307,5960,Mighty ROBO-RANGERS,"Mission, Texas",26.2159066,-98.3252932
+2308,5962,perSEVERE,"Lowell, Massachusetts",42.6414437,-71.3085329
+2309,5963,CA Frost High School,"Grand Rapids, Michigan",42.9632405,-85.6678639
+2310,5964,The Praetorians,"Voorheesville, New York",42.653967,-73.9287366
+2311,5965,Power Struck Girls,"Academy of Our Lady, Marrero, Louisiana",29.8921541,-90.1060982
+2312,5966,HB Oiler Robotics,"Huntington Beach High, Huntington Beach, California",33.67639215,-118.0038860222198
+2313,5968,Cyborg Indians,"Manhattan, Kansas",39.1836082,-96.5716694
+2314,5970,BeaverTronics,"Beaverton , Beaverton, Oregon",45.4480974,-122.87269282795992
+2315,5973,Moonshots,"Gilmour Academy, Gates Mills, Ohio",41.503404,-81.4322680766064
+2316,5974,Mechanical Dragons,"Salt Lake City, Utah",40.7596198,-111.886797
+2317,5975,Beta Blues,"Portland, Oregon",45.5202471,-122.674194
+2318,5976,CyberSaders,"Catholic Memorial , Waukesha, Wisconsin",43.0022343,-88.2203699
+2319,5977,Rosemary Anderson H S/POIC,"Portland, Oregon",45.5202471,-122.674194
+2320,5980,East Grand Rapids Robotics,"East Grand Rapids , Grand Rapids, Michigan",42.8847299,-85.5344723
+2321,5982,Circuits  of Destruction ,"Merrill , Merrill, Michigan",43.6807915,-85.87442598691618
+2322,5986,┌ Iron Fangs ┐,"San Antonio, Texas",29.4246002,-98.4951405
+2323,5989,Panthers,"Ewen, Michigan",46.535222,-89.2812556
+2324,5991,Chargers,"Westbrook, Minnesota",44.0405625,-95.4345304
+2325,5992,Pirates,"Seton Hall Preparatory School, West Orange, New Jersey",40.7751005,-74.2476468
+2326,5997,Knightling Boltz,"East Iberville Elementary/, St. Gabriel, Louisiana",30.2606677,-91.1036221
+2327,5998,The Chillbots,"International Falls, Minnesota",48.601033,-93.4105904
+2328,5999,Byte Force,"Milaca, Minnesota",45.755799,-93.6544079
+2329,6000,Firehawk Robotics,"Shalhevet School, Los Angeles, California",34.0596968,-118.3627734
+2330,6002,ZooBOTix,"Kalamazoo Central , Kalamazoo, Michigan",42.31425455,-85.64578748750193
+2331,6003,SUM,"Buies Creek, North Carolina",35.412332500000005,-78.73665059608209
+2332,6004,f(x) Robotics,"Smithfield-Selma High, Smithfield, North Carolina",35.52906705,-78.32370392332979
+2333,6005,Cardinaltronics,"Mason County Eastern Junior High/, Custer, Michigan",43.95329105,-86.21681037882024
+2334,6011,Cyber Trojans,"Sturgis , Sturgis, Michigan",41.7973645,-85.40006892134558
+2335,6012,STEAMROLLERS,"Bedford, Indiana",38.8611619,-86.4872149
+2336,6013,Robowolves,"Cornerstone Health+Technology , Detroit, Michigan",42.4184685,-83.22005472526592
+2337,6016,Tiger Robotics,"Hackettstown High, Hackettstown, New Jersey",40.8429395,-74.82912394813287
+2338,6019,Metabots,"Metamora, Michigan",42.9414173,-83.2891092
+2339,6020,John Glenn Robotics,"Bay City, Michigan",43.5944677,-83.8888648
+2340,6021,Team T.I.G.E.R.S,"Sussex Central High, Sussex, Virginia",36.920068,-77.2537966
+2341,6022,Wrench Warmers,"Blooming Prairie Secondary, Blooming Prairie, Minnesota",43.8685293,-93.06334809523528
+2342,6023,DISCBOTS,"Atlanta, Georgia",33.7489924,-84.3902644
+2343,6026,Tiger Strike,"Broken Arrow Hs, Broken Arrow, Oklahoma",36.07233575,-95.76678998191088
+2344,6027,Brain Waves,"Newark Catholic , Newark, Ohio",40.0565195,-82.4343587739822
+2345,6029,Railbots,"Lincoln Park , Lincoln Park, Michigan",42.257738,-83.19404339372247
+2346,6032,Pirate Robotics,"West Carrollton , Dayton, Ohio",39.7165045,-84.2565079
+2347,6033,Gadget Agents,"Beal City , Mount Pleasant, Michigan",43.6694839,-84.9083358
+2348,6036,Peninsula Robotics,"Palo Alto, California",37.4443293,-122.1598465
+2349,6039,Cypress Circuits,"Pebble Beach, California",36.5672414,-121.9442134
+2350,6043,Tesla Tigers,"Allegan , Allegan, Michigan",42.5291989,-85.8553031
+2351,6044,Circuit Breakers,"Moose Lake, Minnesota",46.4543725,-92.761976
+2352,6045,BREADBOTS,"Sartell, Minnesota",45.6216319,-94.2069365
+2353,6047,Proctor Frostbyte,"Proctor, Minnesota",46.7471638,-92.2254695
+2354,6053,Robusters,"Colon , Colon, Michigan",41.9583823,-85.3249817
+2355,6054,The Dukes,"Alliance, Ohio",40.9153362,-81.1059309
+2356,6055,BOSS,"Batesville , Batesville, Arkansas",35.7628548,-91.6487501
+2357,6056,Brotherhood of Steel,"Rothsay, Minnesota",46.4739548,-96.2808631
+2358,6057,Thunderbots,"Edsel Ford , Dearborn, Michigan",42.2896633,-83.23555789237838
+2359,6059,System Overload Robotics,"Livermore, California",37.6820583,-121.768053
+2360,6060,Circuit Serpents,"Rosamond High, Rosamond, California",34.8661444,-118.18148993333162
+2361,6065,Titanium Dragons,"Kenowa Hills , Grand Rapids, Michigan",43.03418895,-85.74985463293288
+2362,6066,Rambler Robotics,"Mcbain , McBain, Michigan",44.1975841,-85.207230727992
+2363,6067,Underdogs,"Saint Charles, Michigan",43.2969699,-84.1405346
+2364,6068,Delta Overload,"Gentry , Indianola, Mississippi",33.4426183,-90.641758
+2365,6071,Bot Central,"Bay City Central , Bay City, Michigan",43.601842149999996,-83.88658365516727
+2366,6072,Triton Tech,"Corona Del Mar High, Newport Beach, California",33.634364899999994,-117.87842407177615
+2367,6073,Cav-Bots,"Carrollton Middle School & Carrollton , Saginaw, Michigan",43.4628528,-83.9417876
+2368,6074,Robo-Reactors,"Roscommon , Roscommon, Michigan",44.49835,-84.591968
+2369,6075,Leland Zebrotics,"Leland Public School, Leland, Michigan",45.02372275,-85.75587949471267
+2370,6076,Mustangs,"Northport , Northport, Washington",48.9200162,-117.7763133
+2371,6077,Wiking Kujon,"Posen Consolidated , Posen, Michigan",45.2679967,-83.69710065356956
+2372,6078,RoboRams,"Holt Senior , Holt, Michigan",42.6377369,-84.57585546666147
+2373,6079,Mech Tech,"Powers, Michigan",45.689965,-87.52596
+2374,6081,Digital Dislocators,"Manchester , Manchester, Michigan",42.1503178,-84.0377231
+2375,6084,Swoop Robotics,"Cincinnati, Ohio",39.1014537,-84.5124602
+2376,6085,Green Devil Bots,"Brown City , Brown City, Michigan",43.20757985,-82.99486341761286
+2377,6086,Ignition,"Mt. Morris, Michigan",43.118637,-83.694958
+2378,6087,Cybertronic Lancers,"Ellsworth Community School, Ellsworth, Michigan",45.168605,-85.24670547703677
+2379,6088,Stephenson Eagles,"Stephenson , Stephenson, Michigan",45.415251,-87.607616
+2380,6089,Cyber Cougars,"Annapolis , Dearborn Heights, Michigan",42.2758714,-83.2471503
+2381,6090,Wayland Wildcats,"Wayland , Wayland, Michigan",42.675938200000004,-85.64585204718384
+2382,6091,Eagle 1,"Deckerville Community , Deckerville, Michigan",43.529829899999996,-82.73068915967946
+2383,6092,Q-Bots,"Quincy , Quincy, Michigan",41.9442145,-84.8838525
+2384,6093,Unplugged,"Sandusky , Sandusky, Michigan",43.4139167,-82.8241019
+2385,6094,Manic Mechanics,"Montague, Michigan",43.416677,-86.357013
+2386,6096,UPSM Cobras,"Detroit, Michigan",42.3315509,-83.0466403
+2387,6097,Botcats ,"Brethren , Brethren, Michigan",44.31070725,-86.021643925219
+2388,6098,bIrobot,"Beaver Island, Michigan",45.666078150000004,-85.55442159714224
+2389,6099,Knight Riders,"Detroit, Michigan",42.3315509,-83.0466403
+2390,6100,MSMohawks,"Morley Stanwood , Morley, Michigan",43.5353739,-85.4414463
+2391,6101,Strange Quarks,"Ann Arbor, Michigan",42.2681569,-83.7312291
+2392,6102,Mustangs,"Montabella Junior/Senior High, Blanchard, Michigan",43.463062550000004,-85.05665699724557
+2393,6103,Green Daemons ,"Plaquemine Senior , Plaquemine, Louisiana",30.261363199999998,-91.25082175000128
+2394,6107,Cyber Jagzz,"Huntsville, Alabama",34.729847,-86.5859011
+2395,6111,RoboKnights,"Mickey Leland College Preparatory Academy, Houston, Texas",29.7770716,-95.3344605
+2396,6112,Cyberstangs,"Munising High and Middle School, Munising, Michigan",46.4168095,-86.66200169790963
+2397,6113,M.A.R.C. 1,"Menominee , Menominee, Michigan",45.107671,-87.614491
+2398,6114,Do the Thing,"Hamilton , Hamilton, Michigan",44.04965855,-84.62624432526758
+2399,6116,Cougar Robotics,"Garden City , Garden City, Michigan",42.3343397,-83.33005684122341
+2400,6117,Wingspan,"Pontiac Academy for Excellence, Pontiac, Michigan",42.6447551,-83.29764912782814
+2401,6119,Prototype Pumas,"Pansophia Academy, Coldwater, Michigan",41.94939165,-84.99653697796464
+2402,6120,Cyberstangs,"Merritt Academy, New Haven, Michigan",42.7408497,-82.7993573618526
+2403,6121,Robo Vikes,"Grayling , Grayling, Michigan",44.659412399999994,-84.71098645990939
+2404,6122,Potential Energy,"Bear Lake , Bear Lake, Michigan",44.420835,-86.148143
+2405,6127,BHS Pumatrons,"Bisbee , Bisbee, Arizona",31.3700635,-109.8826902
+2406,6128,The Automatics,"Hart , Hart, Michigan",43.70152,-86.3305059
+2407,6129,HighTech Highlanders,"Shadle Park , Spokane, Washington",47.69892955,-117.44023270471175
+2408,6131,NLR Robotics,"North Little Rock , North Little Rock, Arkansas",34.752215199999995,-92.2671181028382
+2409,6132,Iron Rangers,"Crosby, Minnesota",46.4821848,-93.9577612
+2410,6133,Haltom Robotics,"Haltom City, Texas",32.7995738,-97.2691817
+2411,6136,The Robo Ravens 6136,"Old Redford Academy - High, Detroit, Michigan",42.4184508,-83.21662334255706
+2412,6137,H.A.L-9K and the Falcons of Fury,"Constantine , Constantine, Michigan",41.8411603,-85.6686026
+2413,6138,Bulldogs,"Centreville , Centreville, Michigan",41.922685,-85.5263498
+2414,6139,ThunderBotz,"Dublin, Georgia",32.5404447,-82.903754
+2415,6144,Angelbots Gold,"Loretto Academy, El Paso, Texas",31.787126450000002,-106.43415395761718
+2416,6145,War Eagles,"Wakulla , Crawfordville, Florida",30.1990447,-84.3543682
+2417,6146,Blackjacks,"Dawson, Minnesota",44.932738,-96.054481
+2418,6147,Tonkabots,"Mound, Minnesota",44.9366295,-93.6660719
+2419,6150,BlueBotics,"Adrian , Adrian, Michigan",41.89849465,-84.06083239910039
+2420,6152,ROBO-FALCONS,"Star International Academy, DEARBORN HEIGHTS, Michigan",42.332789149999996,-83.27662284698708
+2421,6153,Blue Crew,"Farmington, Maine",44.671094,-70.151825
+2422,6155,ElektraBots,"Young Women'S Leadership Academy, San Antonio, Texas",29.39905975,-98.47677895281208
+2423,6157,Ragnarok,"Marshall County , Benton, Kentucky",36.040547000000004,-88.00509057776361
+2424,6160,Bombatrons,"Barnum Secondary, Barnum, Minnesota",46.50614365,-92.67949882724821
+2425,6161,Equilibrium,"Gray-New Gloucester , Gray, Maine",43.9224787,-70.3122188
+2426,6164,Moonshot Slaybots,"Dike-New Hartford , Dike, Iowa",42.4670064,-92.6270863
+2427,6166,Thorobotics,"Holmen High, Holmen, Wisconsin",43.97561025,-91.27796731796303
+2428,6167,CB Bearbots,"Hemingway, South Carolina",33.7537774,-79.4475566
+2429,6171,⚛ Chain Reaction ⚛,"Plano, Texas",33.0136764,-96.6925096
+2430,6172,The Mad Dogs,"Lawrence , Fairfield, Maine",44.5877575,-69.5956347
+2431,6174,Kaprekar's Constants,"Winters High, Winters, California",38.52507295,-121.97347466421188
+2432,6175,Mystery Machine,"Eden Valley-Watkins, Minnesota",45.324949149999995,-94.54465772800242
+2433,6177,Atomic-Robotic-Dogs,"Atlanta, Georgia",33.7489924,-84.3902644
+2434,6180,Mechanical Lions ,"Mission, Texas",26.2159066,-98.3252932
+2435,6181,Cryptic Cyborgs,"Archbold, Ohio",41.5211332,-84.3065469
+2436,6184,Leon Robotics  ,"Leon , Tallahassee, Florida",30.44235995,-84.29747867166262
+2437,6186,Hope BotCats,"Hope , Hope, Arkansas",33.6690025,-93.5922879
+2438,6189,Cyber Raiders,"Amelia County High, Amelia Court House, Virginia",37.33165005,-77.98911110913737
+2439,6190,Will-er Run,"Canton, Michigan",42.3076547,-83.4868961
+2440,6193,The Legend of Robotics,"Bay City, Michigan",43.5944677,-83.8888648
+2441,6194,The Aftershocks,"Cumberland High, Cumberland, Virginia",37.50318245,-78.37498867889005
+2442,6195,GOLDBOTS,"Brooklyn, New York",40.6526006,-73.9497211
+2443,6201,The Highlanders,"Somerville High, Somerville, Massachusetts",42.386778050000004,-71.0957221150345
+2444,6203,Titanium Knights Robotics,"Hackensack, New Jersey",40.8871438,-74.0410865
+2445,6213,Team Quantum,"Bowie High, Bowie, Maryland",38.978444,-76.7435798
+2446,6214,PHEnix,"Burgaw, North Carolina",34.5521113,-77.926098
+2447,6215,Armored Eagles,"Rocky Mount, North Carolina",35.9423833,-77.7956949
+2448,6217,Bomb-Botz,"Cannon Falls, Minnesota",44.5109025,-92.90084727068178
+2449,6219,Cuttin' Edge Robotics,"Blountville, Tennessee",36.533767,-82.33343531171823
+2450,6220,MEME Team,"Los Alamitos, California",33.8038865,-118.0772433
+2451,6222,Flying Tigers,"Hemingway High, Hemingway, South Carolina",33.747995,-79.4468352
+2452,6223,Arsenal Engineering,"Menomonee Falls High, Menomonee Falls, Wisconsin",43.165,-88.0886111
+2453,6224,The Saint Dominators,"Saint Dominic Academy, Auburn, Maine",44.12738635,-70.23503203125196
+2454,6225,SLC Roarin' Robotics,"Fort Pierce, Florida",27.4467056,-80.3256056
+2455,6226,Blue Devils,"Burlington City High, Burlington, New Jersey",40.070553399999994,-74.85144872749761
+2456,6237,Martin Motion,"Neponset, Illinois",41.29587,-89.7903802
+2457,6238,POPCORN PENGUINS,"Family/Community & Family/Community, San Jose, California",37.2579095,-121.7783053
+2458,6239,The Irrational Engineers®,"Upper Marlboro, Maryland",38.8139804,-76.7575894
+2459,6240,Eagles of the Knight,"Warrenton, North Carolina",36.3984804,-78.1552706
+2460,6300,Northwood School Robotics,"Northwood School, Lake Placid, New York",44.29229255,-73.97144378961386
+2461,6301,Nerointellect-sim Engineering & Robot Design Soiree   N.E.R.D.S.,"Taunton, Massachusetts",41.8946107,-71.11113
+2462,6302,Tech Devils,"Greeneville , Greeneville, Tennessee",36.1533092,-82.89146967624593
+2463,6305,Stable Circuits,"Clovis North High, Fresno, California",36.8896283,-119.7329452
+2464,6306,Atonement Academy CrewStators,"San Antonio, Texas",29.4246002,-98.4951405
+2465,6308,SPCS - Hafabots,"Yigo, Guam",13.535204499999999,144.89715694673106
+2465,6309,SPCS - Koko Tek,"Yigo, Guam",13.535204499999999,144.89715694673106
+2467,6312,Hippocampinae,"Christchurch School, Christchurch, Virginia",37.61310455,-76.54875374253902
+2468,6314,DM Robotics The WolfPack,"Desert Mountain , Scottsdale, Arizona",33.8279332,-111.8740877
+2469,6315,Code Error 404,"Laredo, Texas",27.5236998,-99.497352
+2470,6317,Disruptive Innovation,"West , Davenport, Iowa",41.536810849999995,-90.62757574945587
+2471,6318,FE Freedom Engineers,"Freedom High, Freedom, Wisconsin",44.38415435,-88.2926956665307
+2472,6320,Iron Hawks,"West Delaware , Manchester, Iowa",42.4838687,-91.4683284
+2473,6321,■ R-Cubed  Rouse Raider Robotics ■,"Leander, Texas",30.5603086,-97.8553655
+2474,6322,ONECLAY A.R.M.O.R.Y.,"Oakleaf  & Orange Park , Orange Park, Florida",30.17911465,-81.82069558866984
+2475,6324,The Blue Devils,"Salem , Salem, New Hampshire",42.7773784,-71.2423059
+2476,6325,Reset Robotics,"Alpharetta, Georgia",34.0709576,-84.2747329
+2477,6326,⚡ Baltimore Bolts ⚡,"Baltimore, Maryland",39.2908816,-76.610759
+2478,6327,Tin Men,"4-H, Media, Pennsylvania",39.9167783,-75.387693
+2479,6328,Mechanical Advantage,"Littleton, Massachusetts",42.5375917,-71.5120096
+2480,6329,The Bucks' Wrath,"Bucksport , Bucksport, Maine",44.60177,-68.79569136571041
+2481,6332,Bull City Botics,"Riverside High, Durham, North Carolina",36.06528515,-78.94353333403998
+2482,6333,Scavenger Robotics,"Putnam , Putnam, Connecticut",41.91621605,-71.91115443137731
+2483,6334,Aluminati,"Midlothian, Virginia",37.5062673,-77.649268
+2484,6335,Terminal Velocity,"Burlington, Massachusetts",42.5048167,-71.1956111
+2485,6337,Terror Bytes,"Pittsfield, Maine",44.78281,-69.383469
+2486,6340,Marist Screaming Eagles,"Marist School, Atlanta, Georgia",33.901224400000004,-84.33517852982565
+2487,6341,Etowah Electric Eagles,"Etowah , Woodstock, Georgia",34.1323081,-84.5171057
+2488,6343,Steel Ridge Robotics,"Ridgefield , Ridgefield, Washington",45.8248814,-122.7489571
+2489,6344,Yale Jiggawattz,"Yale, Michigan",43.130026,-82.798263
+2490,6345,Nimrod Nation,"Watersmeet Township School, Watersmeet, Michigan",46.269316399999994,-89.17751608637393
+2491,6346,Norwalk High School Robotics,"Norwalk , Norwalk, Connecticut",41.0956718,-73.4219246
+2492,6350,J.E.D.I.,"Enumclaw Sr , Enumclaw, Washington",47.2045305,-121.9909315
+2493,6352,LAUNCH TEAM,"Peoria, Arizona",33.5806115,-112.237294
+2494,6355,Robots Over Parma,"Cleveland, Ohio",41.4996574,-81.6936772
+2495,6357,The Spring Konstant,"Dripping Springs, Texas",30.1902067,-98.0866781
+2496,6358,The Buhlean Operators ,"Buhl , Buhl, Idaho",42.5965365,-114.796236
+2497,6359,TechKnow Difficulties,"Aurora , Aurora, Nebraska",40.871679,-98.0031102
+2498,6363,BirdBots,"El Campo, Texas",29.1966405,-96.2696867
+2499,6366,RAM Rodz Robotics,"Hillcrest High, Simpsonville, South Carolina",34.714478400000004,-82.24663776048988
