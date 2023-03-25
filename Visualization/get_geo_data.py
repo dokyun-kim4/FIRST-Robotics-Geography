@@ -1,14 +1,15 @@
-import folium
+"""
+Sets of functions necessary to scrape and organize coordinates of FRC teams
+"""
 from geopy.geocoders import Nominatim
 import pandas as pd
-import time
 
 
 def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
 
     """
     Take a list of locations and return a
-    dataframe containing the name,
+    dataframe containing the name,number
     latitude, and longitude.
 
     This will generally work for any location
@@ -18,20 +19,27 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     To avoid this, consider qualifying the location with additional
     information. For example, Springfield, CA instead of just Springfield.
 
+    Due to HTML search errors, the scraping is done in pieces.
+    Instead of querying all 3000 locations at once, we will query slices of it.
+    Ex: 0 to 500, 500 to 1000, 1000 to 1500, etc.
+
     Args:
-        location_list (list): A string list of locations
+        year: Integer representing which year's data to scrape coordinates
+        start: Integer representing start index
+        end: Integer represengint end index
+
 
     Returns:
         team_locations (dataframe): A string dataframe
-        containing the name, latitude, and longitude.
+        containing the Team name,Team number, latitude, and longitude.
 
     """
     print(f"Compiling latitude and longitude of teams from {year}")
 
     team_locations = pd.DataFrame()
-    geolocator = Nominatim(user_agent="FRC")
+    geolocator = Nominatim(user_agent="FRG")
 
-    df = pd.read_csv(open(f"FRC{year}.csv", "rU"), engine="c")
+    df = pd.read_csv(open(f"FRC{year}.csv", "r", encoding="UTF-8"), engine="c")
     location_df = df[["city", "stateProv", "schoolName", "teamNumber", "nameShort"]]
 
     location_list = []
@@ -86,7 +94,7 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     return team_locations
 
 
-def merge_csv(year: int, quantity: int):
+def merge_csv(year: int, quantity: int) -> None:
     """
     Takes csvs in a folder and combines them into one csv file
 
@@ -107,22 +115,3 @@ def merge_csv(year: int, quantity: int):
         ["teamNumber", "nameShort", "location", "latitude", "longitude"]
     ]
     combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
-
-
-# geo_data(2023, 3000, 4000)
-# time.sleep(10)
-# geo_data(2023, 500, 1000)
-# time.sleep(10)
-# geo_data(2023, 1000, 1500)
-# time.sleep(10)
-# geo_data(2023, 1500, 2000)
-# time.sleep(10)
-# geo_data(2023, 2000, 2500)
-# time.sleep(10)
-# geo_data(2023, 2500, 3000)
-# time.sleep(10)
-# geo_data(2023, 3500, 4000)
-# time.sleep(10)
-# geo_data(2023, 4500, 5000)
-# time.sleep(10)
-merge_csv(2023, 8)
