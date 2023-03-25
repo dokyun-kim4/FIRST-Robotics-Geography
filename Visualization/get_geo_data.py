@@ -115,3 +115,6 @@ def merge_csv(year: int, quantity: int) -> None:
         ["teamNumber", "nameShort", "location", "latitude", "longitude"]
     ]
     combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
+
+
+geo_data(2023, 3000, 3585)
