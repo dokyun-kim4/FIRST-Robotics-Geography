@@ -2,17 +2,51 @@
 jupyter: python3
 ---
 
+# FIRST Robotics Geography: 
+# Our question here
+A 2023 SoftDes Midterm Project
+
+Author: Dexter Friis-hecht and Dokyun Kim
+
 ```{python}
 %load_ext autoreload
 %autoreload 2
+
 ```
 
 ```{python}
-import generate_usa_map as usmap
+import generate_usa_map as gum
+from natural_sort import natural_sort
 ```
 
+# Introduction
+
+Text here
+
+# Using the FIRST API
+
+Text here
+
 ```{python}
-ClusterMap = usmap.markercluster_map(2023)
-ClusterMap.save("2023ClusterMap.html")
+#Code Here
 ```
+
+# Filtering the Data
+
+Text here
+
+```{python}
+# Code Here
+```
+
+# Growth of FRC over time
+
+Heatmap over time will be here
+
+# Visualization #1: Sponsor location vs. FRC density
+
+Sponsor + heatmap will go here
+
+
+# Visualization #2: Population density vs. FRC density
 
