@@ -1,40 +1,21 @@
 """
 Functions for generating the US map with markers
 """
+
+import os
 import pandas as pd
 import folium
 import folium.plugins as fp
-import re
-import os
+from natural_sort import natural_sort
 
 
-def alphanumeric_sort(data: list) -> list:
+def usa_map_initialize() -> folium.Map:
     """
-    Sorts files in a given list alphanumerically
-
-    Args:
-        data: A list of entries that are out of order
+    Defines the us_map template for visualizing different types of data
 
     Returns:
-        A sorted list of entries
+        map_usa: folium map object with blank map of the US
     """
-    convert = lambda text: int(text) if text.isdigit() else text.lower()
-    alphanum_key = lambda key: [convert(c) for c in re.split("([0-9]+)", key)]
-    return sorted(data, key=alphanum_key)
-
-
-def usa_map(year: int):
-    """
-    Generate a map of the team locations.
-
-    Args:
-        team_locations (dataframe): A string dataframe of locations.
-
-    Returns:
-        map_usa (folium.Map): A folium map of US based teams.
-
-    """
-    team_locations = pd.read_csv(f"../Location/{year}/{year}Location.csv")
     max_bounds = [[3, -180], [73, -50]]
     map_usa = folium.Map(
         location=[37.0902, -95.7129],
@@ -51,8 +32,24 @@ def usa_map(year: int):
         prefer_canvas=True,
     )
 
-    for _, row in team_locations.iterrows():
+    return map_usa
 
+
+def usa_map_with_avatar(year: int) -> folium.Map:
+    """
+    Generate a map of the team locations.
+
+    Args:
+        team_locations (dataframe): A string dataframe of locations.
+
+    Returns:
+        map_usa (folium.Map): A folium map of US based teams.
+
+    """
+    team_locations = pd.read_csv(f"../Location/{year}/{year}Location.csv")
+    map_usa = usa_map_initialize()
+
+    for _, row in team_locations.iterrows():
         if year >= 2018:
             icon = folium.features.CustomIcon(
                 f"../Avatars/{year}/{row['teamNumber']}.png", icon_size=[20, 20]
@@ -69,7 +66,7 @@ def usa_map(year: int):
     return map_usa
 
 
-def markercluster_map(year: int):
+def markercluster_map(year: int) -> folium.Map:
     """
     Generate a map of the team locations with markercluster implemented.
 
@@ -81,31 +78,16 @@ def markercluster_map(year: int):
 
     """
     avatar_url = f"../Avatars/{year}"
-    pictures = alphanumeric_sort(os.listdir(avatar_url))
+    pictures = natural_sort(os.listdir(avatar_url))
 
     team_locations = pd.read_csv(f"../Location/{year}/{year}Location.csv")
-    max_bounds = [[3, -180], [73, -50]]
-    map_usa = folium.Map(
-        location=[37.0902, -95.7129],
-        width="%100",
-        height="%100",
-        zoom_start=5,
-        min_zoom=5,
-        max_zoom=18,
-        max_bounds=max_bounds,
-        min_lat=12,
-        max_lat=70,
-        min_lon=-180,
-        max_lon=-30,
-        prefer_canvas=True,
-    )
+    map_usa = usa_map_initialize()
 
     coordinates = []
     maptexts = []
     avatars = []
 
     for _, row in team_locations.iterrows():
-
         coordinate = [row["latitude"], row["longitude"]]
         coordinates.append(coordinate)
 
@@ -117,11 +99,51 @@ def markercluster_map(year: int):
         icon = folium.features.CustomIcon(full_path, icon_size=[20, 20])
         avatars.append(icon)
 
-    print(len(coordinates))
-    print(len(maptexts))
-    print(len(avatars))
-    fp.MarkerCluster(locations=coordinates, popups=maptexts, icons=avatars).add_to(
-        map_usa
-    )
+    fp.MarkerCluster(
+        locations=coordinates, popups=maptexts, icons=avatars
+    ).add_to(map_usa)
 
     return map_usa
+
+
+def heat_map(year):
+    """
+    Generate a heatmap for a given year.
+
+    Args:
+        year: An integer specifying the year to visualize.
+
+    Returns:
+        heatmap_map (folium.Map): A folium heatmap of US based teams.
+
+    """
+    team_locations = pd.read_csv(f"../Location/{year}/{year}Location.csv")
+    heatmap_map = usa_map_initialize()
+
+    team_lat_long = team_locations[["latitude", "longitude"]]
+    fp.HeatMap(
+        team_lat_long, gradient={0.4: "blue", 0.65: "white", 1: "red"}
+    ).add_to(heatmap_map)
+    return heatmap_map
+
+
+def add_sponsor(us_map: folium.Map) -> folium.Map:
+    """
+    Plots FRC sponsors on a pre-existing US map
+
+    Args:
+        map: A folium map object to plot sponsor markers on
+
+    Returns:
+        map: Map object that has sponsor locations on it
+    """
+    sponsor_locations = pd.read_csv("../Location/Sponsors.csv")
+
+    for _, row in sponsor_locations.iterrows():
+        marker_text = row["name"]
+        folium.Marker(
+            [row["latitude"], row["longitude"]],
+            popup=marker_text,
+        ).add_to(us_map)
+
+    return us_map

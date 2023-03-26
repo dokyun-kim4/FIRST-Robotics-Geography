@@ -24,7 +24,9 @@ def build_url(year: int, page: int):
     Returns:
         A URL of the dataset of given year
     """
-    return f"https://frc-api.firstinspires.org/v3.0/{str(year)}/teams?page={page}"
+    return (
+        f"https://frc-api.firstinspires.org/v3.0/{str(year)}/teams?page={page}"
+    )
 
 
 def read_text(url: str):
@@ -59,7 +61,6 @@ def find_cutoff(text: str):
         cutoff: An integer representing the cutoff index
     """
     for i, char in enumerate(text):
-
         if char == "[":
             cutoff = i
             return cutoff
@@ -128,6 +129,7 @@ def filter_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
 
     only_usa = dataframe[dataframe.country == "USA"]
+    only_usa = only_usa[only_usa.stateProv != "Armed Forces - Europe"]
     filter1 = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
     filter2 = filter1[filter1.nameFull != "Off-Season Spare Team"]
 
@@ -172,7 +174,6 @@ def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     team_info += extract_data_one_page(year, 1)
 
     for i in range(2, pages + 1):
-
         team_info += extract_data_one_page(year, i)
 
     df = pd.DataFrame(team_info)
@@ -197,3 +198,6 @@ def extract_data_all_years(start: int, end: int, make_csv: bool):
         extract_data_all_pages(year, make_csv)
 
     print("ALL DONE!")
+
+
+extract_data_all_pages(2023, True)

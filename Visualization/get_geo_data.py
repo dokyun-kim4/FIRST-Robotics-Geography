@@ -6,7 +6,6 @@ import pandas as pd
 
 
 def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
-
     """
     Take a list of locations and return a
     dataframe containing the name,number
@@ -40,7 +39,9 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     geolocator = Nominatim(user_agent="FRG")
 
     df = pd.read_csv(open(f"FRC{year}.csv", "r", encoding="UTF-8"), engine="c")
-    location_df = df[["city", "stateProv", "schoolName", "teamNumber", "nameShort"]]
+    location_df = df[
+        ["city", "stateProv", "schoolName", "teamNumber", "nameShort"]
+    ]
 
     location_list = []
 
@@ -66,12 +67,10 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
         location = None
         address_idx = 0
         while location is None and address_idx < 3:
-
             location = geolocator.geocode(address[address_idx], timeout=9999)
             address_idx += 1
 
         if location is not None:
-
             name = address[address_idx - 1]
 
             latitude = location.latitude
@@ -115,6 +114,3 @@ def merge_csv(year: int, quantity: int) -> None:
         ["teamNumber", "nameShort", "location", "latitude", "longitude"]
     ]
     combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
-
-
-geo_data(2023, 3000, 3585)

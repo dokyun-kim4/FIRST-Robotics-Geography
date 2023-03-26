@@ -12,7 +12,7 @@ import generate_usa_map as usmap
 ```
 
 ```{python}
-_2015map = usmap.usa_map(2015)
-_2015map.save("2015map.html")
+ClusterMap = usmap.markercluster_map(2023)
+ClusterMap.save("2023ClusterMap.html")
 ```
 
