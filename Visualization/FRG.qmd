@@ -1,0 +1,114 @@
+---
+jupyter: python3
+---
+
+# FIRST Robotics Geography: What affects team density?
+A 2023 SoftDes Midterm Project
+
+Author: Dexter Friis-hecht and Dokyun Kim
+
+```{python}
+%load_ext autoreload
+%autoreload 2
+```
+
+```{python}
+#Importing helper functions from another folder#
+import importlib.util
+spec = importlib.util.spec_from_file_location("frc_data_functions",R"../DataFromFRC/frc_data_functions.py")
+fdf = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(fdf)
+```
+
+# Introduction
+
+Text here
+
+# Getting to know the FIRST API
+
+In order to access information about every FRC team in the US, we need to use the official FIRST API.
+We use Python's Requests library to scrape information from the FIRST API.
+
+The code below scrapes information about ALL teams from the year 2020 and shows the first page of it.
+
+```{python}
+import requests as rq
+from apitoken import TOKEN
+
+url = "https://frc-api.firstinspires.org/v3.0/2020/teams?page=1"
+HEADER = {
+    "Is-Modified-Since": "",
+}
+
+response = rq.get(
+            url=url,
+            auth=TOKEN,
+            headers=HEADER,
+            timeout=100,
+        )
+
+print(response.text)
+```
+
+# Getting team info
+
+The code above gets data from one page of a specific year.  
+However, we only want the list of dictionaries that come after "teams: ", not the information in front of it.  
+To isolate the list of dictionaries, we call the helper function `trim_data()` from `frc_data_functions.py`, which we imported at the top. 
+
+To get all pages, we use a for-loop to append all data to a list, then convert it into a .csv file using the Pandas library.
+
+```{python}
+import pandas as pd
+
+
+
+HEADER = {
+    "Is-Modified-Since": "",
+}
+
+datalist = []
+for i in range (61):
+    url = f"https://frc-api.firstinspires.org/v3.0/2020/teams?page={i+1}"
+    response = rq.get(
+                url=url,
+                auth=TOKEN,
+                headers=HEADER,
+                timeout=100,
+            )
+    datalist += fdf.trim_data(response.text)
+
+df = pd.DataFrame(datalist)
+print(df)
+
+
+```
+
+# Filtering the Data
+
+We successfully isolated the teams' information, but there is still some filtering we need to do.  
+As shown in the Dataframe above, there are multiple entries of `Off-Season Demo Team` that exist as placeholders.  
+Also, for the scope of this project, we only want teams in the USA.
+
+```{python}
+only_usa = df[df.country == "USA"]
+remove_demo = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
+
+print(remove_demo)
+```
+
+Now we have completed all the necessary steps to start visualizing the data to answer our question.
+
+# Visualization #1: FRC Heatmap
+Heatmap here
+
+
+# Visualization #2: Population density vs. FRC density
+Graph here
+
+
+# Visualization #3: Sponsor location vs. FRC density
+
+Sponsor + heatmap will go here
+
+
