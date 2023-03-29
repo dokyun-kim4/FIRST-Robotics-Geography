@@ -122,7 +122,7 @@ def heat_map(year):
 
     team_lat_long = team_locations[["latitude", "longitude"]]
     fp.HeatMap(
-        team_lat_long, gradient={0.4: "blue", 0.65: "white", 1: "red"}
+        team_lat_long, gradient={0.4: "blue", 0.65: "white", 0.8: "red"}
     ).add_to(heatmap_map)
     return heatmap_map
 

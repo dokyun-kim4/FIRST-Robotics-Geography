@@ -3,9 +3,9 @@ Imports a list of all FRC teams from 2023 season
 Will be pushed by Dokyun
 """
 import json
-from apitoken import TOKEN
 import requests as rq
 import pandas as pd
+from apitoken import TOKEN
 
 
 HEADER = {
@@ -64,6 +64,7 @@ def find_cutoff(text: str):
         if char == "[":
             cutoff = i
             return cutoff
+        return None
 
 
 def find_page_number(text: str, cutoff: int):
@@ -176,8 +177,8 @@ def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     for i in range(2, pages + 1):
         team_info += extract_data_one_page(year, i)
 
-    df = pd.DataFrame(team_info)
-    filtered_df = filter_data(df)
+    dataframe = pd.DataFrame(team_info)
+    filtered_df = filter_data(dataframe)
     if make_csv:
         filtered_df.to_csv(f"FRC{year}.csv")
         print(f"Saved csv data for {year}")
@@ -198,6 +199,3 @@ def extract_data_all_years(start: int, end: int, make_csv: bool):
         extract_data_all_pages(year, make_csv)
 
     print("ALL DONE!")
-
-
-extract_data_all_pages(2023, True)

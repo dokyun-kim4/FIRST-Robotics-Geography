@@ -1,3 +1,6 @@
+"""
+Helper functions necessary to plot population density vs frc team density
+"""
 import pandas as pd
 
 
@@ -69,7 +72,7 @@ def plot_frc_team_count(year):
         FRC teams per state.
 
     """
-    (us_pop_density, state_team_count) = team_density_helper(year)
+    (_, state_team_count) = team_density_helper(year)
     state_team_count.sort_values(by=["counts"], inplace=True, ascending=False)
     # Visualze the density of teams per state
     state_team_count.plot(
@@ -104,7 +107,7 @@ def plot_density_comparison(year):
 
     """
 
-    (us_pop_density, state_team_count) = team_density_helper(year)
+    (us_pop_density, _) = team_density_helper(year)
 
     us_pop_density.plot(
         x="Name",

@@ -38,25 +38,42 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     team_locations = pd.DataFrame()
     geolocator = Nominatim(user_agent="FRG")
 
-    df = pd.read_csv(open(f"FRC{year}.csv", "r", encoding="UTF-8"), engine="c")
-    location_df = df[
+    # data_frame = pd.read_csv(
+    #     open(f"FRC{year}.csv", "r", encoding="UTF-8"), engine="c"
+    # )
+
+    with open(f"FRC{year}.csv", "r", encoding="UTF-8") as data_frame:
+        data_frame = pd.read_csv(data_frame)
+
+    location_df = data_frame[
         ["city", "stateProv", "schoolName", "teamNumber", "nameShort"]
     ]
 
     location_list = []
 
     for _, entry in location_df.iterrows():
-        original = (
-            str(entry["schoolName"]).replace("High School", "")
-            + ", "
-            + str(entry["city"])
-            + ", "
-            + str(entry["stateProv"])
+        location_list.append(
+            (
+                str(entry["schoolName"]).replace("High School", "")
+                + ", "
+                + str(entry["city"])
+                + ", "
+                + str(entry["stateProv"])
+            ),
+            str(entry["city"]) + ", " + str(entry["stateProv"]),
+            str(entry["stateProv"]),
         )
+        # original = (
+        #     str(entry["schoolName"]).replace("High School", "")
+        #     + ", "
+        #     + str(entry["city"])
+        #     + ", "
+        #     + str(entry["stateProv"])
+        # )
 
-        city_state = str(entry["city"]) + ", " + str(entry["stateProv"])
-        state = str(entry["stateProv"])
-        location_list.append([original, city_state, state])
+        # city_state = str(entry["city"]) + ", " + str(entry["stateProv"])
+        # state = str(entry["stateProv"])
+        # location_list.append([original, city_state, state])
 
     if len(location_list) <= end:
         end = len(location_list)
@@ -73,15 +90,13 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
         if location is not None:
             name = address[address_idx - 1]
 
-            latitude = location.latitude
-            longitude = location.longitude
             current_location = pd.DataFrame(
                 {
                     "teamNumber": location_df.iloc[i + start]["teamNumber"],
                     "nameShort": location_df.iloc[i + start]["nameShort"],
                     "location": name,
-                    "latitude": latitude,
-                    "longitude": longitude,
+                    "latitude": location.latitude,
+                    "longitude": location.longitude,
                 },
                 index=[location_list.index(address)],
             )
