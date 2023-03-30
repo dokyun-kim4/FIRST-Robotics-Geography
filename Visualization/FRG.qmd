@@ -18,12 +18,21 @@ import importlib.util
 spec = importlib.util.spec_from_file_location("frc_data_functions",R"../DataFromFRC/frc_data_functions.py")
 fdf = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(fdf)
+spec = importlib.util.spec_from_file_location("generate_usa_map",R"../Visualization/generate_usa_map.py")
+gum = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(gum)
 ```
 
 # Introduction
 
-Text here
+FIRST Robotics is an international robotics organization that has inspired thousands of teenagers to pursue STEM, with the majority of teams concentrated
+in the United States. With the growth of the organization over time, there is value in not just geographically visualzing the teams for different years, but
+also finidng the factors that drive the growth of the organization. 
 
+With FRC having a measured impact on the number of students entering STEM, knowing how and why the organization has spread poses the opportunity to find out how such spread can be applied to other educational organizations.
+
+We first started with FIRST... that is, we started with gathering team location data from the FIRST API. With access to this, as well as some graphing packages such
+as Folium and Geopy, we can set upon our first prerequisite, getting every USA team on a map.
 # Getting to know the FIRST API
 
 In order to access information about every FRC team in the US, we need to use the official FIRST API.
@@ -99,9 +108,25 @@ print(remove_demo)
 
 Now we have completed all the necessary steps to start visualizing the data to answer our question.
 
-# Visualization #1: FRC Heatmap
-Heatmap here
+# Visualization #1: FRC Heatmap / Team Location
+As a pure visualizer of the data, we created two functions.
+The first function plots the mainland USA teams on an interactive map. If the team had a custom 
+avatar, then it was used to represent the team. Otherwise, a default FRC logo was used.
+The function takes a single input, which you use to select which year you wish to visualize.
+Below we use 2020, but any year can be used as long as you have the location data.
 
+```{python}
+usa_avatar_map = gum.usa_map_with_avatar(2020)
+```
+Using similar notation, we can also generate a heatmap for any given year.
+```{python}
+usa_heatmap = gum.heat_map(2020)
+```
+A visual analysis of these map seemingly show a correlation between team quantity and population density.
+The majoirty of teams seem situated on the east and west coast, as well as in urban clusters. Meanwhile, the midwest
+is fairly sparse.
+
+So, how much does team quantity correlate with population?
 
 # Visualization #2: Population density vs. FRC density
 Graph here
