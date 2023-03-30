@@ -11,7 +11,7 @@ HEADER = {
     "Is-Modified-Since": "",
 }
 
-with open(R"DataFromFRC/FIRST_LOGO.txt", "r", encoding="UTF-8") as FIRST_LOGO:
+with open(R"FIRST_LOGO.txt", "r", encoding="UTF-8") as FIRST_LOGO:
     FIRST_LOGO = FIRST_LOGO.read()
 
 

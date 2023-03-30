@@ -45,7 +45,7 @@ def read_text(url: str):
         headers=HEADER,
         timeout=30,
     )
-    # print(f"Status: {response.status_code}")
+
     return response.text
 
 
@@ -68,7 +68,7 @@ def find_cutoff(text: str):
     return cutoff
 
 
-def find_page_number(text: str, cutoff: int):
+def find_page_number(text: str):
     """
     Find how many pages are in a requested FIRST API page
 
@@ -79,6 +79,7 @@ def find_page_number(text: str, cutoff: int):
     Returns:
         page_num: An integer representing how many pages the requested page has
     """
+    cutoff = find_cutoff(text)
     total_info_text = text[0:cutoff] + "0}"
     total_dict = json.loads(total_info_text)
     return total_dict["pageTotal"]
@@ -138,22 +139,6 @@ def filter_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     return filter2
 
 
-def isolate_team_and_location(dataframe: pd.DataFrame) -> pd.DataFrame:
-    """
-    Takes dataframe with FRC team info, isolates name and location
-
-    Args:
-        dataframe: Pandas dataframe with FRC team info
-
-    Returns
-        name_location: Pandas dataframe with only name and location
-    """
-    name_location = dataframe[
-        ["teamNumber", "nameShort", "city", "stateProv", "schoolName"]
-    ]
-    return name_location
-
-
 def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     """
     Pulls data from all pages from FIRST API of given year and saves as csv
@@ -169,8 +154,8 @@ def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     print(f"Getting Data for {year}")
 
     text_for_cutoff = read_text(build_url(year, 1))
-    cutoff = find_cutoff(text_for_cutoff)
-    pages = find_page_number(text_for_cutoff, cutoff)
+    # cutoff = find_cutoff(text_for_cutoff)
+    pages = find_page_number(text_for_cutoff)
 
     team_info = []
     team_info += extract_data_one_page(year, 1)
