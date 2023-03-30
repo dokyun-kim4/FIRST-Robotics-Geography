@@ -1,0 +1,3 @@
+{"pageCount":60, "currentPage": 1, "pageTotal": 71, "teams": [{"Team": 2637, "Name": "Phantom Catz"},{"Team": 4414, "Name": "HighTide"}]}
+{"pageCount":80, "currentPage": 11, "pageTotal": 91, "teams": [{"Team": 2637, "Name": "Phantom Catz"}]}
+{"pageCount":7, "currentPage": 1, "pageTotal": 9, "teams": [{"Team": 2637, "Name": "Phantom Catz"},{"Team": 987, "Name": "HighRollers"}]}
