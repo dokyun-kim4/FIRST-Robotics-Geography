@@ -60,11 +60,12 @@ def find_cutoff(text: str):
     Returns:
         cutoff: An integer representing the cutoff index
     """
+    cutoff = None
     for i, char in enumerate(text):
         if char == "[":
             cutoff = i
-            return cutoff
-        return None
+            break
+    return cutoff
 
 
 def find_page_number(text: str, cutoff: int):
