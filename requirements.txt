@@ -1,4 +1,5 @@
 folium
 geopy
 pandas
+pytest
 requests

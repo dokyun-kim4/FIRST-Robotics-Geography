@@ -113,9 +113,6 @@ ipython_config.py
 DataFromFRC/apitoken.py
 Visualization/apitoken.py
 
-#FIRST LOGO base64
-DataFromFRC/FIRST_LOGO.txt
-
 #code test
 DataFromFRC/b.py
 
