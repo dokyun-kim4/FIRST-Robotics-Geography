@@ -74,10 +74,9 @@ def find_page_number(text: str):
 
     Args:
         text: A string representing the data from FIRST API
-        cutoff: An integer representing the cutoff index
 
     Returns:
-        page_num: An integer representing how many pages the requested page has
+        An integer representing how many pages the requested page has
     """
     cutoff = find_cutoff(text)
     total_info_text = text[0:cutoff] + "0}"
@@ -93,7 +92,7 @@ def trim_data(text: str):
         text: data to trim
 
     Returns:
-        trimmed_text: list of data after trimming
+        List of data after trimming
     """
     cutoff = find_cutoff(text)
 
@@ -134,9 +133,9 @@ def filter_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     only_usa = dataframe[dataframe.country == "USA"]
     only_usa = only_usa[only_usa.stateProv != "Armed Forces - Europe"]
     filter1 = only_usa[only_usa.nameFull != "FIRST Off-Season Demo Team"]
-    filter2 = filter1[filter1.nameFull != "Off-Season Spare Team"]
+    final_data = filter1[filter1.nameFull != "Off-Season Spare Team"]
 
-    return filter2
+    return final_data
 
 
 def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
