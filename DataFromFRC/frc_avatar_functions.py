@@ -72,7 +72,7 @@ def decode_png_one_year(year: int):
     Saves ALL team avatars from one year
 
     Args:
-        year: integer reprenting which year to pull from
+        year: integer representing which year to pull from
     """
     print(f"Saving PNGs from year {year}")
 
