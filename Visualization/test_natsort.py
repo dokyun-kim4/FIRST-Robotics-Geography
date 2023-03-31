@@ -42,7 +42,12 @@ natural_sort_cases = [
 @pytest.mark.parametrize("text,key", natural_key_cases)
 def test_make_natural_key(text, key):
     """
-    ds
+    Tests if make_natural_key() functions as intended
+
+    Args:
+        text(str): Text that will be split into integer and character
+        components
+        ket(list): Contains integer and character components of text
     """
     assert Counter(make_natural_key(text)) == Counter(key)
 
@@ -50,7 +55,11 @@ def test_make_natural_key(text, key):
 @pytest.mark.parametrize("original_list,sorted_list", natural_sort_cases)
 def test_natural_sort(original_list, sorted_list):
     """
-    ds
+    Tests if natural_sort() functions as intended
+
+    Args:
+        original_list(list): An unsorted list of entries
+        sorted_list(list): A list that is sorted using natural sort
     """
 
     assert Counter(natural_sort(original_list)) == Counter(sorted_list)

@@ -40,7 +40,7 @@ def usa_map_with_avatar(year: int) -> folium.Map:
     Generate a map of the team locations.
 
     Args:
-        team_locations (dataframe): A string dataframe of locations.
+        year (int): Indicates which year's avatar to use
 
     Returns:
         map_usa (folium.Map): A folium map of US based teams.
@@ -71,7 +71,7 @@ def markercluster_map(year: int) -> folium.Map:
     Generate a map of the team locations with markercluster implemented.
 
     Args:
-        team_locations (dataframe): A string dataframe of locations.
+        year (int): Indicates which year's avatar to use
 
     Returns:
         map_usa (folium.Map): A folium map of US based teams.
@@ -132,10 +132,10 @@ def add_sponsor(us_map: folium.Map) -> folium.Map:
     Plots FRC sponsors on a pre-existing US map
 
     Args:
-        map: A folium map object to plot sponsor markers on
+        us_map: A folium map object to plot sponsor markers on
 
     Returns:
-        map: Map object that has sponsor locations on it
+        us_map: Map object that has sponsor locations on it
     """
     sponsor_locations = pd.read_csv("../Location/Sponsors.csv")
 
