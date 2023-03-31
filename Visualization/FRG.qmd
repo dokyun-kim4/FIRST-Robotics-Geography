@@ -2,7 +2,7 @@
 jupyter: python3
 ---
 
-# FIRST Robotics Geography: What affects the number Robotics teams?
+# FIRST Robotics Geography: What affects the number of Robotics teams?
 A 2023 SoftDes Midterm Project
 
 Author: Dexter Friis-Hecht and Dokyun Kim
