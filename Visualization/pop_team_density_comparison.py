@@ -66,8 +66,6 @@ def plot_frc_team_count(year):
         year (int): FRC year to compare.
 
     Returns:
-        state_team_count plot (Matplotlib plot): A plot of FRC teams per
-        state.
         state_team_count (dataframe): A dataframe containing the number of
         FRC teams per state.
 
@@ -130,8 +128,6 @@ def plot_density_comparison(year):
         year (int): FRC year to compare.
 
     Returns:
-        us_pop_density plot (Matplotlib plot): A plot of FRC teams per
-        100,000 people per state.
         us_pop_density (dataframe): A dataframe containing various US
         population density information.
 
