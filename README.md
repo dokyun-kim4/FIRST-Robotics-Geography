@@ -76,3 +76,12 @@ With helper functions in `generate_usa_map`, you can:
 - Overlay sponsor locations on a map - `add_sponsor(us_map: folium.Map)`
 
 ## Creating graphs
+With helper functions in `pop_team_density_comparison.py`, you can plot FRC data against the US 2020 census.  
+(contained in **Location/PopulationDensity/StatePopulationDensity.csv**)
+
+### Example code:
+`plot_frc_team_count(year=2020)` creates a bar graph showing how many FRC teams each state had in 2020
+
+`graph_all_team_counts()` creates a bar graph showing how many FRC teams were in the US from 2015 to 2022
+
+`plot_density_comparison(2020)` creates a bar graph showing FRC teams per 100,000 people per state from 2020
