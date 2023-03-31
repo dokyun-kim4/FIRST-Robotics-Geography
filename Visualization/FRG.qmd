@@ -2,10 +2,10 @@
 jupyter: python3
 ---
 
-# FIRST Robotics Geography: What affects team density?
+# FIRST Robotics Geography: What affects the number Robotics teams?
 A 2023 SoftDes Midterm Project
 
-Author: Dexter Friis-hecht and Dokyun Kim
+Author: Dexter Friis-Hecht and Dokyun Kim
 
 ```{python}
 %load_ext autoreload
@@ -27,10 +27,12 @@ from pop_team_density_comparison import *
 # Introduction
 
 FIRST Robotics is an international robotics organization that has inspired thousands of teenagers to pursue STEM, with the majority of teams concentrated
-in the United States. With the growth of the organization over time, there is value in not just geographically visualzing the teams for different years, but
-also finidng the factors that drive the growth of the organization. 
+in the United States. With the growth of the organization over time, there is value in not just geographically visualizing the teams for different years, but
+also in finding the factors that drive the growth of the organization.
 
-With FRC having a measured impact on the number of students entering STEM, knowing how and why the organization has spread poses the opportunity to find out how such spread can be applied to other educational organizations.
+With FRC having a measured impact on the number of students entering STEM, knowing how and why the organization has spread poses the opportunity to find out how such spread can be applied to other educational organizations. Therefore, we set out to geographically map FRC teams, and through that find out the factors that drive their growth and spread.
+
+To achieve our goal, there were a few steps we had to undertake. Namely, accessing the FRIST API to pull data, accessing population data from the US Census, and plotting all that data with the appropriate packages.
 
 We first started with FIRST... that is, we started with gathering team location data from the FIRST API. With access to this, as well as some graphing packages such
 as Folium and Geopy, we can set upon our first prerequisite, getting every USA team on a map.
@@ -110,14 +112,14 @@ Now we have completed all the necessary steps to start visualizing the data to a
 
 # Visualization #1: FRC Team Numbers
 
-With all of our data, we can first check how many FRC teams there are for each year. This will allow us to easily visualize the
+With our data, we first check how many FRC teams there are for each year. This will allow us to easily visualize the
 overall growth/decline of the organization year by year.
 
 ```{python}
 graph_all_team_counts()
 ```
 
-Besides 2021, where the number of FRC teams declined significantly due to Covid, the orginization has seen consistent growth over time.
+Besides 2021, where the number of FRC teams declined significantly due to Covid, the organization has seen consistent growth over time.
 
 # Visualization #2: FRC Heatmap / Team Location
 As a pure visualizer of the data, we created two functions.
@@ -127,7 +129,7 @@ The function takes a single input, which you use to select which year you wish t
 Below we use 2020, but any year can be used as long as you have the location data.
 
 ```{python}
-usa_avatar_map = gum.usa_map_with_avatar(2020)
+usa_avatar_map = gum.usa_map_with_avatar(2022)
 usa_avatar_map
 ```
 
@@ -138,8 +140,8 @@ usa_heatmap = gum.heat_map(2020)
 usa_heatmap
 ```
 
-A visual analysis of these map seemingly show a correlation between team quantity and population density.
-The majoirty of teams seem situated on the east and west coast, as well as in urban clusters. Meanwhile, the midwest
+A visual analysis of these maps seemingly show a correlation between team quantity and population density.
+The majority of teams are situated on the east and west coast, as well as in urban clusters. Meanwhile, the midwest
 is fairly sparse.
 
 So, how much does team quantity actually correlate with population?
@@ -149,6 +151,8 @@ So, how much does team quantity actually correlate with population?
 ```{python}
 density_comparison = plot_density_comparison(2020)
 ```
+
+This chart was generated with 2020 population info provided by the US Census Bureau via a csv.
 
 If population was the primary determining factor for the number of teams per state, then the ratio of teams per 100,000 people would remain largely constant across all states. While this does hold true for a good number of states, there are some clear outliers, such as Michigan, Minnesota, and New Hampshire.
 
