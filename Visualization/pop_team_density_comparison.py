@@ -88,6 +88,37 @@ def plot_frc_team_count(year):
     return state_team_count
 
 
+def graph_all_team_counts():
+    """
+    Generates a bar graph for the total number of FRC teams
+    for each given year.
+
+    Args:
+        No input arguments
+
+    Returns:
+        sum (pandas plot): A bar graph for the total number of
+        FRC teams each year.
+
+        total_sum (Pandas Dataframe): A dataframe containing the
+        number of FRC teams for each year.
+    """
+    total_sum = pd.DataFrame()
+    total_count = []
+    for i in range(8):
+        total_count = team_density_helper((2015 + i))[1]
+        total_sum[f"20{i+15}"] = total_count.sum()
+    sum = total_sum.iloc[1]
+    sum.plot(
+        kind="bar",
+        xlabel="Year",
+        ylabel="Number of Teams",
+        title="Number of FRC Teams per Year",
+        legend=False,
+    )
+    return total_sum
+
+
 def plot_density_comparison(year):
     """
     When provided with an input FRC year, will

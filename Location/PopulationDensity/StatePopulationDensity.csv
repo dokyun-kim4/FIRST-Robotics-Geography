@@ -1,0 +1,51 @@
+Name,Geography Type,Year,Population,Population Density,Population Density Rank
+California,State,2020,39538223,253.7,13
+Texas,State,2020,29145505,111.6,26
+Florida,State,2020,21538187,401.4,10
+New York,State,2020,20201249,428.7,9
+Pennsylvania,State,2020,13002700,290.6,11
+Illinois,State,2020,12812508,230.8,14
+Ohio,State,2020,11799448,288.8,12
+Georgia,State,2020,10711908,185.6,19
+North Carolina,State,2020,10439388,214.7,17
+Michigan,State,2020,10077331,178,20
+New Jersey,State,2020,9288994,1263,2
+Virginia,State,2020,8631393,218.6,16
+Washington,State,2020,7705281,115.9,24
+Arizona,State,2020,7151502,62.9,35
+Massachusetts,State,2020,7029917,901.2,5
+Tennessee,State,2020,6910840,167.6,22
+Indiana,State,2020,6785528,189.4,18
+Maryland,State,2020,6177224,636.1,7
+Missouri,State,2020,6154913,89.5,30
+Wisconsin,State,2020,5893718,108.8,27
+Colorado,State,2020,5773714,55.7,39
+Minnesota,State,2020,5706494,71.7,32
+South Carolina,State,2020,5118425,170.2,21
+Alabama,State,2020,5024279,99.2,29
+Louisiana,State,2020,4657757,107.8,28
+Kentucky,State,2020,4505836,114.1,25
+Oregon,State,2020,4237256,44.1,41
+Oklahoma,State,2020,3959353,57.7,37
+Connecticut,State,2020,3605944,744.7,6
+Utah,State,2020,3271616,39.7,42
+Iowa,State,2020,3190369,57.1,38
+Nevada,State,2020,3104614,28.3,44
+Arkansas,State,2020,3011524,57.9,36
+Mississippi,State,2020,2961279,63.1,34
+Kansas,State,2020,2937880,35.9,43
+New Mexico,State,2020,2117522,17.5,47
+Nebraska,State,2020,1961504,25.5,45
+Idaho,State,2020,1839106,22.3,46
+West Virginia,State,2020,1793716,74.6,31
+Hawaii,State,2020,1455271,226.6,15
+New Hampshire,State,2020,1377529,153.8,23
+Maine,State,2020,1362359,44.2,40
+Rhode Island,State,2020,1097379,1061.4,3
+Montana,State,2020,1084225,7.4,50
+Delaware,State,2020,989948,508,8
+South Dakota,State,2020,886667,11.7,48
+North Dakota,State,2020,779094,11.3,49
+Alaska,State,2020,733391,1.3,52
+Vermont,State,2020,643077,69.8,33
+Wyoming,State,2020,576851,5.9,51
