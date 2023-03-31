@@ -1,6 +1,7 @@
 """
 Sets of functions necessary to scrape and organize coordinates of FRC teams
 """
+import os
 from geopy.geocoders import Nominatim
 import pandas as pd
 
@@ -18,7 +19,7 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     To avoid this, consider qualifying the location with additional
     information. For example, Springfield, CA instead of just Springfield.
 
-    Due to HTML search errors, the scraping is done in pieces.
+    Due to HTML timeout errors, the scraping is done in pieces.
     Instead of querying all 3000 locations at once, we will query slices of it.
     Ex: 0 to 500, 500 to 1000, 1000 to 1500, etc.
 
@@ -108,24 +109,24 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     return team_locations
 
 
-def merge_csv(year: int, quantity: int) -> None:
+def merge_csv(year: int):
     """
     Takes csvs in a folder and combines them into one csv file
 
     Args:
         year: integer representing which year the data came from
-        quantity: integer representing the # of csvs to combine
     """
-    combined = pd.concat(
-        [
-            pd.read_csv(
-                f"Location/{year}/{i}.csv",
-                index_col=False,
-            )
-            for i in range(quantity)
-        ]
-    )
-    combined = combined[
-        ["teamNumber", "nameShort", "location", "latitude", "longitude"]
-    ]
-    combined.to_csv(f"Location/{year}/{year}Location.csv", index=False)
+    folder_path = f"./Location/{year}/"
+    csvs = os.listdir(folder_path)
+    dataframes = []
+    print(csvs)
+    for filename in csvs:
+        csv_path = folder_path + filename
+        dataframes.append(pd.read_csv(csv_path, index_col=False))
+
+    merged = pd.concat(dataframes)
+    merged = merged.sort_values("teamNumber")
+
+    merged.to_csv(f"Location/{year}/{year}Location.csv", index=False)
+
+
