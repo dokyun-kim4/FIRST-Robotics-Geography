@@ -5,14 +5,15 @@ Authors:
 Dexter Friis-Hecht & Dokyun Kim
 
 # Project description
-FIRST Robotics is an international robotics organization that has inspired thousands of teenagers to pursue STEM, with the majority of teams concentrated
+FIRST Robotics is an international robotics organization that has inspired thousands of teenagers, including us, to pursue STEM, with the majority of teams concentrated
 in the United States. With the growth of the organization over time, there is value in not just geographically visualzing the teams for different years, but
-also finidng the factors that drive the growth of the organization. 
+also finding the factors that drive the growth of the organization. 
 
 With FRC having a measured impact on the number of students entering STEM, knowing how and why the organization has spread poses the opportunity to find out how such spread can be applied to other educational organizations.
 
-We first started with FIRST... that is, we started with gathering team location data from the FIRST API. With access to this, as well as some graphing packages such
-as Folium and Geopy, we can set upon our first prerequisite, getting every USA team on a map.
+We first started with FIRST... that is, we gathered team location data from the FIRST API. With access to this, as well as some graphing packages such as Folium and Geopy, we can create a variety of visuals to answer our question:  
+**What affects FRC team density across the US?**
+
 
 # Required libraries
 Before running any code, please install the following libraries:
@@ -30,7 +31,7 @@ Since you will be requesting data from the FIRST Robotics API, you need to get y
 ## Steps:
 1. Go to [The FIRST API website](https://frc-events.firstinspires.org/services/API) and click **Register for API Access**  
 
-2. After registering, an your username and authorization token will be sent in an email. 
+2. After registering, your username and authorization token will be sent in an email. 
 
 3. Create a file named `apitoken.py` in both **DataFromFRC** and **Visualization** folders, and add the following line:  
 `TOKEN = (<your username>, <your authorization token>)`
@@ -46,7 +47,7 @@ With helper functions in `frc_avatar_functions.py` and `frc_data_functions.py`, 
 - And more
 
 ## Example code:  
-`extract_data_all_pages(year=2020,make_csv=True)` will create a .csv file named **FRC2022.csv** in the root directory. Using **make_csv=False** will return a dataframe object instead of creating a .csv file. 
+`extract_data_all_pages(year=2020,make_csv=True)` will create a .csv file named **FRC2020.csv** in the root directory. Using **make_csv=False** will return a dataframe object instead of creating a .csv file. 
 
 `decode_png_one_year(year=2020)` will add .png files of every team's avatar from the year 2020 in the **Avatars/2020/** directory as **\<teamnumber\>.png**
 
