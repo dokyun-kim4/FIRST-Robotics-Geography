@@ -91,8 +91,6 @@ for i in range (61):
 
 df = pd.DataFrame(datalist)
 print(df)
-
-
 ```
 
 # Filtering the Data
@@ -132,11 +130,14 @@ Below we use 2020, but any year can be used as long as you have the location dat
 usa_avatar_map = gum.usa_map_with_avatar(2020)
 usa_avatar_map
 ```
+
 Using similar notation, we can also generate a heatmap for any given year.
+
 ```{python}
 usa_heatmap = gum.heat_map(2020)
 usa_heatmap
 ```
+
 A visual analysis of these map seemingly show a correlation between team quantity and population density.
 The majoirty of teams seem situated on the east and west coast, as well as in urban clusters. Meanwhile, the midwest
 is fairly sparse.
@@ -144,9 +145,11 @@ is fairly sparse.
 So, how much does team quantity actually correlate with population?
 
 # Visualization #2: Population density vs. FRC density
+
 ```{python}
 density_comparison = plot_density_comparison(2020)
 ```
+
 If population was the primary determining factor for the number of teams per state, then the ratio of teams per 100,000 people would remain largely constant across all states. While this does hold true for a good number of states, there are some clear outliers, such as Michigan, Minnesota, and New Hampshire.
 
 While the average number of teams per 100,000 people is 0.95, Michigan has 5.65 teams, Minnesota has 3.93, and New Hampshire has 3.41.
@@ -156,10 +159,29 @@ So, while population is a factor in the number of FRC teams, there is some other
 Well, as they say, to find your answers you have to follow the money.
 
 # Visualization #3: Sponsor location vs. FRC density
+
 ```{python}
 usa_sponsor_map = gum.add_sponsor(usa_heatmap)
+usa_sponsor_map
 ```
 
 Based on the map, we can see that all three of our outlier states contain some very prominent industry sponsors, such as 3M, General Motors, and Raytheon.
 
 # Conclusions
+
+Based on these findings, we can draw a few conclusions. One, FIRST Robotics as an organization is growing within the United States at a steady rate. Considering the
+considerable bounce-back after Covid, teams weren't disbanded under Covid, but rather paused operations for the season.
+
+Secondly, the main driver of FRC team spread seems to be population and monetary resources. Population was a consistent factor in terms of defining team location, resulting in similar results to a population density map. However, sponsor location functions as an additional "multiplicative" factor that can drastically boost the quantity of teams in any given area.
+
+When put into context, the maps we've created could be used to figure out where large FRC hubs are located. If your child is invested in robotics and you're considering a location to move to, this could evaluate how well that location can support your child's interests. Prospective sponsors could also use these maps to consider possible underfunded regions that could benefit from a monetary influx.
+
+This project taught us a few things, both on the data front and on the coding front. For data analysis, this project taught us that visual data can be misleading, which shows the value of looking at the actual numbers driving your visual data. On the coding front, this project taught us how to collaboratively work on a large project with another person. This meant that we had to learn how to maintain consistency across each other's code, as well as how to keep our github organized.
+
+We did encounter some issues and frustrations across our project. For one, we happened to upload our API token to GitHub, which was a trial to remove. While this was a problem
+we had to solve, by far our biggest problem was API rate limits. Since we were working with free versions of APIs, the actual rate that we could request data was limited heavily. For many projects this might not have been an issue, but since we were gathering the location of thousands of teams, this meant that it took hours of pure runtime for us to gather all of the data we needed to work on this project.
+
+If we had more time for this project, there would be two main things we would want to integrate. Firstly, we would want to add graphs that animate over time. This would remove the need to specify a year that we would want to visualize, and allow for a more seamless data exploration experience. Secondly, the Folium package that we used is a python wrapper for Leaflet, a JavaScript library. This means that we could quite easily make these maps available to be explored on an interactive website. This would greatly improve accessibility to our data.
+
+
+
