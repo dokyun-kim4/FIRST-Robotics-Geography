@@ -21,6 +21,7 @@ spec.loader.exec_module(fdf)
 spec = importlib.util.spec_from_file_location("generate_usa_map",R"../Visualization/generate_usa_map.py")
 gum = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(gum)
+from pop_team_density_comparison import *
 ```
 
 # Introduction
@@ -33,6 +34,7 @@ With FRC having a measured impact on the number of students entering STEM, knowi
 
 We first started with FIRST... that is, we started with gathering team location data from the FIRST API. With access to this, as well as some graphing packages such
 as Folium and Geopy, we can set upon our first prerequisite, getting every USA team on a map.
+
 # Getting to know the FIRST API
 
 In order to access information about every FRC team in the US, we need to use the official FIRST API.
@@ -108,7 +110,18 @@ print(remove_demo)
 
 Now we have completed all the necessary steps to start visualizing the data to answer our question.
 
-# Visualization #1: FRC Heatmap / Team Location
+# Visualization #1: FRC Team Numbers
+
+With all of our data, we can first check how many FRC teams there are for each year. This will allow us to easily visualize the
+overall growth/decline of the organization year by year.
+
+```{python}
+graph_all_team_counts()
+```
+
+Besides 2021, where the number of FRC teams declined significantly due to Covid, the orginization has seen consistent growth over time.
+
+# Visualization #2: FRC Heatmap / Team Location
 As a pure visualizer of the data, we created two functions.
 The first function plots the mainland USA teams on an interactive map. If the team had a custom 
 avatar, then it was used to represent the team. Otherwise, a default FRC logo was used.
@@ -117,23 +130,36 @@ Below we use 2020, but any year can be used as long as you have the location dat
 
 ```{python}
 usa_avatar_map = gum.usa_map_with_avatar(2020)
+usa_avatar_map
 ```
 Using similar notation, we can also generate a heatmap for any given year.
 ```{python}
 usa_heatmap = gum.heat_map(2020)
+usa_heatmap
 ```
 A visual analysis of these map seemingly show a correlation between team quantity and population density.
 The majoirty of teams seem situated on the east and west coast, as well as in urban clusters. Meanwhile, the midwest
 is fairly sparse.
 
-So, how much does team quantity correlate with population?
+So, how much does team quantity actually correlate with population?
 
 # Visualization #2: Population density vs. FRC density
-Graph here
+```{python}
+density_comparison = plot_density_comparison(2020)
+```
+If population was the primary determining factor for the number of teams per state, then the ratio of teams per 100,000 people would remain largely constant across all states. While this does hold true for a good number of states, there are some clear outliers, such as Michigan, Minnesota, and New Hampshire.
 
+While the average number of teams per 100,000 people is 0.95, Michigan has 5.65 teams, Minnesota has 3.93, and New Hampshire has 3.41.
+
+So, while population is a factor in the number of FRC teams, there is some other factor that is having a massive impact in certain states.
+
+Well, as they say, to find your answers you have to follow the money.
 
 # Visualization #3: Sponsor location vs. FRC density
+```{python}
+usa_sponsor_map = gum.add_sponsor(usa_heatmap)
+```
 
-Sponsor + heatmap will go here
+Based on the map, we can see that all three of our outlier states contain some very prominent industry sponsors, such as 3M, General Motors, and Raytheon.
 
-
+# Conclusions
