@@ -39,10 +39,6 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
     team_locations = pd.DataFrame()
     geolocator = Nominatim(user_agent="FRG")
 
-    # data_frame = pd.read_csv(
-    #     open(f"FRC{year}.csv", "r", encoding="UTF-8"), engine="c"
-    # )
-
     with open(f"FRC{year}.csv", "r", encoding="UTF-8") as data_frame:
         data_frame = pd.read_csv(data_frame)
 
@@ -64,17 +60,6 @@ def geo_data(year: int, start: int, end: int) -> pd.DataFrame:
             str(entry["city"]) + ", " + str(entry["stateProv"]),
             str(entry["stateProv"]),
         )
-        # original = (
-        #     str(entry["schoolName"]).replace("High School", "")
-        #     + ", "
-        #     + str(entry["city"])
-        #     + ", "
-        #     + str(entry["stateProv"])
-        # )
-
-        # city_state = str(entry["city"]) + ", " + str(entry["stateProv"])
-        # state = str(entry["stateProv"])
-        # location_list.append([original, city_state, state])
 
     if len(location_list) <= end:
         end = len(location_list)

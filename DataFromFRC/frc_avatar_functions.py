@@ -39,7 +39,6 @@ def decode_png_one_team(team: int, year: int):
     """
 
     def get_avatar_one_team(year: int, team: int) -> str:
-        # Will have to accomodate for teams w/ no avatar (returns 'null')
         """
         Gets the encoded png avatar of a given team in a given year
 
@@ -62,7 +61,6 @@ def decode_png_one_team(team: int, year: int):
         except IndexError:
             return FIRST_LOGO
 
-    # f"Avatars/{year}
     code = get_avatar_one_team(year, team)
     with open(f"Avatars/{year}/{team}.png", "wb+") as pic:
         code = bytes(code, "utf-8")

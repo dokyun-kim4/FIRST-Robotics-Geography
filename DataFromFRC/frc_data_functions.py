@@ -154,7 +154,7 @@ def extract_data_all_pages(year: int, make_csv: bool) -> pd.DataFrame:
     print(f"Getting Data for {year}")
 
     text_for_cutoff = read_text(build_url(year, 1))
-    # cutoff = find_cutoff(text_for_cutoff)
+
     pages = find_page_number(text_for_cutoff)
 
     team_info = []
