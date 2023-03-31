@@ -165,7 +165,7 @@ usa_sponsor_map = gum.add_sponsor(usa_heatmap)
 usa_sponsor_map
 ```
 
-Based on the map, we can see that all three of our outlier states contain some very prominent industry sponsors, such as 3M, General Motors, and Raytheon.
+Based on the map, we can see that all three of our outlier states contain some very prominent industry sponsors, such as 3M, General Motors, and Raytheon. This shows that while population does matter, the influx of money that sponsors provide is instrumental in fostering a healthy robotics team community.
 
 # Conclusions
 
