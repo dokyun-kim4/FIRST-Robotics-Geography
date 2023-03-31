@@ -128,5 +128,3 @@ def merge_csv(year: int):
     merged = merged.sort_values("teamNumber")
 
     merged.to_csv(f"Location/{year}/{year}Location.csv", index=False)
-
-
